@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: MOISE_readme
+permalink: /readme/moise/
 ---
 
 # testing 123

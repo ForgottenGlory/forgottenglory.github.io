@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: DND_readme
+permalink: /readme/dnd/
 ---
 
 # testing 123
