@@ -9,7 +9,7 @@ layout: default
 ## [Living Skyrim](https://forgottenglory.github.io/readme/ls/)
 Living Skyrim is a full-featured overhaul of Skyrim SE with the intent to breathe life into the often empty areas of the world. NPCs, quests, new worldspaces, and interactive content are the focus of this modlist. All of this on top of a beautiful graphics package.
 
-![MOISE Logo](https://i.imgur.com/cwAgODR.png)
+![MOISE Logo](https://i.imgur.com/lFTL3mR.png)
 ## [MOISE](https://forgottenglory.github.io/readme/moise/)
 Morrowind Overall Improvement Suite Enhanced (MOISE) is a basic, primarily graphical overhaul for Morrowind GOTY edition. It includes all of the necessities required to begin a Morrowind modding adventure.
 
