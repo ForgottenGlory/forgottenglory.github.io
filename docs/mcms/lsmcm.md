@@ -6,8 +6,6 @@ layout: lsmcm
 permalink: /mcms/lsmcm/
 ---
 
-# LS MCM Configuration
-
 To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be set as follows. These aren’t strictly required but are a good baseline to tweak from.
 
 * Settings

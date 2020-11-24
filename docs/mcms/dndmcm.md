@@ -6,8 +6,6 @@ layout: dndmcm
 permalink: /mcms/dndmcm/
 ---
 
-# D&D MCM Configuration
-
 For Dungeons & Deviousness to work properly, the MCM and Skyrim in-game settings should be set as follows.
 
 Before you get started, a word about difficulty: Dungeons & Deviousness is intended to be a semi-hardcore list with survival elements and a relatively high difficulty curve. Playing on either the Expert or Master difficulties is recommended.
