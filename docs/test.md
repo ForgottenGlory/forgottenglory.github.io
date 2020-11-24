@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "test"
-permalink: /docs/
+permalink: /docs/test/
 ---
 
 testing 123
