@@ -2,10 +2,11 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: DND_readme
+layout: dndreadme
 permalink: /readme/dnd/
 ---
 
+# Dungeons & Deviousness Readme
 Current version: 1.2.2 11/13/2020  
 ![total-installs](https://img.shields.io/endpoint?label=Total%20Installs&style=for-the-badge&url=https://build.wabbajack.org/metrics/badge/dungeons_and_deviousness/total_installs_badge.json)  
 ![build-status](https://img.shields.io/endpoint?label=List%20Status&style=for-the-badge&url=https://build.wabbajack.org/lists/status/dungeons_and_deviousness/badge.json)
@@ -229,7 +230,7 @@ The hard part is now over. Carry on, the end is in sight!
 5. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
 
 ### The MCM Settings
-1. Consult the [Dungeons & Deviousness MCM Configuration](https://forgottenglory.github.io/mcms/dndmcm/) document and follow all listed steps. This step is required if you want the list to work properly.
+1. Consult the [Dungeons & Deviousness MCM Configuration](/mcms/dndmcm) document and follow all listed steps. This step is required if you want the list to work properly.
 2. Don’t forget to save your game after configuring the MCMs, I promise you don’t want to have to do this step more than once.
 
 ## Important Mods You Need to Know About
