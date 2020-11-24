@@ -18,4 +18,4 @@ Morrowind Overall Improvement Suite Enhanced (MOISE) is a basic, primarily graph
 Dungeons & Deviousness is a NSFW Skyrim SE modlist intended to be fully playable with a semi-hardcore survival experience included. Rather than a screenshot simulator or lightweight add-on to vanilla Skyrim, Dungeons & Deviousness seeks to be as intrusive as possible in the systems present in Skyrim and overhaul them to fit the theme.
 
 ## Atelier
-Atelier is a currently unreleased list to be released in the near future.
+Atelier is a currently unreleased list under active development.
