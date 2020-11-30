@@ -48,7 +48,7 @@ In this example from AI Overhaul, we can see that NPC VO Merged is missing some 
 
 The first thing you need to do if you do need to make a patch is to copy a record into a new ESL. Patches for LS3 should **always** be ESL flagged ESPs. We'll talk about that more in a moment.
 
-So, find a record that you need to patch.
+So, find a record that you need to patch as described in Step Zero.
 
 Then, right click on the header text of the farthest right column and select "Copy as overwrite..."
 
@@ -99,3 +99,5 @@ Once you have moved all of the cell values you need to move, it's time to carry 
 When you've gone through the entire sea of red/yellow for the mod you wanted to patch, it's time to save your work. Close SSEEdit (yes, really). Before the program shuts down, it will show you a list of all the plugins you've made changes to and ask you if you want to save your changes to them. We're only interested in saving our patch, so if you accidentally made a change to another plugin, make sure to uncheck that plugin in the list that appears before clicking OK.
 
 ![](https://i.imgur.com/Or78ujU.png)
+
+Once your patch is complete, upload it in the #ls3-patch-sharing channel on the LS Discord server and I (FG) will review it and add it to the modlist.
