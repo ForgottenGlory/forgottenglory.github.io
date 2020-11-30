@@ -28,6 +28,12 @@ So, how do you know if this is the case? Let's look at an example.
 
 ![](https://i.imgur.com/3Hxmc8n.png)
 
+The easiest way to explain what you're now looking at is this:
+
+SSEEdit is an enormous spreadsheet handler, and every cell in the spreadsheet has a purpose in the game. For ease of reading, SSEEdit divides the spreadsheet into columns. Each column represents a separate ESM/ESP/ESL that makes a change to whatever record you have selected. The farthest right column is the lowest plugin in your load order that makes a change to the record in question. The farthest left column is the original version of that record, usually provided by vanilla Skyrim. Therefore, it's not uncommon to see that several distinct plugins make changes to a single record.
+
+Green in this view means that a given cell is identical to all of the cells to that cell's left and that no changes have been made within that row (AKA no conflict). Yellow indicates that changes have been made when compared to the original version of the record, but also that no data is missing (only that the values have been changed). Red indicates that data has been added by one of the columns and that data is not present in all of the plugins modifying the record you're looking at. This isn't a perfect explanation of the colors you're seeing, but in general this is what's going on. You'll have to look at whatever row is in question to see what exactly is happening with data being added/changed/removed.
+
 We can see that Blade & Blunt is loading after VioLens. You can tell this is the case because Blade & Blunt is the farthest right of the columns we see.
 
 This isn't what we want. If we look at some other records in the Idle Animations category, we can see that moving Blade & Blunt before VioLens in the load order would allow VioLens to overwrite the changes that Blade & Blunt makes. In this instance, we don't have to patch anything because we can just change the load order to get the desired effects in game.
@@ -72,10 +78,6 @@ Congratulations, you've made a patch! Kind-of. Now the real work begins.
 
 ## Step Two
 ### Patching
-
-The easiest way to explain what you're now looking at is this:
-
-SSEEdit is an enormous spreadsheet handler, and every cell in the spreadsheet has a purpose in the game. For ease of reading, SSEEdit divides the spreadsheet into columns. Each column represents a separate ESM/ESP/ESL that makes a change to whatever record you have selected. Green in this view means that a given cell is identical to all of the cells to that cell's left and that no changes have been made within that row. The farthest right column is the lowest plugin in your load order that makes a change to the record in question. The farthest left column is the original version of that record, usually provided by vanilla Skyrim. Therefore, it's not uncommon to see that several distinct plugins make changes to a single record.
 
 One of the most useful things about SSEEdit is that it allows you to drag and drop the value of any cell. So, if we extend our example from earlier where we determined we needed to combine the changes from AI Overhaul and NPC VO Merged, we would just drag the cell we need to forward into our patch and drop it into the empty cell **on the same row as the original cell**.
 
