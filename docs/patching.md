@@ -13,9 +13,11 @@ Before you do anything, you need to make sure you open SSEEdit properly. So, lau
 
 Now, right-click anywhere in the left-pane of SSEEdit and pick "Apply Filter to show Conflicts".
 
+![](https://i.imgur.com/ro4SE3L.png)
+
 This may take several minutes to run. When finished, you'll see a **lot** of red. Don't panic! Red does not necessarily mean bad.
 
-Now, pick an ESP from the list - any ESP. Start going through the list of records and look for yellow, green, or red. Green you can (usually) ignore. Yellow and Red is where a patch might be needed.
+Now, pick an ESP from the list - any ESP. Start going through the list of records inside that ESP and look for yellow, green, or red. Green you can (usually) ignore. Yellow and Red is where a patch might be needed.
 
 ## Step Zero
 ### Do you really have to patch this?
@@ -24,7 +26,15 @@ The first step whenever you think you need to patch something is to first look a
 
 So, how do you know if this is the case? Let's look at an example.
 
+![](https://i.imgur.com/3Hxmc8n.png)
 
+We can see that Blade & Blunt is loading after VioLens. You can tell this is the case because Blade & Blunt is the farthest right of the columns we see.
+
+This isn't what we want. If we look at some other records in the Idle Animations category, we can see that moving Blade & Blunt before VioLens in the load order would allow VioLens to overwrite the changes that Blade & Blunt makes. In this instance, we don't have to patch anything because we can just change the load order to get the desired effects in game.
+
+And conversely, how do you know if you need to make a patch? Let's look at another example.
+
+` Protip: Right-click in the right pane of SSEEdit and select "Hide no conflict and empty rows" to condense the information there down to only where conflicts are occurring. `
 
 ## Step One
 ### Creating a Patch
@@ -43,10 +53,20 @@ LS3 [Mod Name] Patch
 
 Replacing [Mod Name] with an abbreviation of the name of whatever mod you are making a patch for.
 
-
+Congratulations, you've made a patch! Kind-of. Now the real work begins.
 
 ## Step Two
 ### Patching
 
+The easiest way to explain what you're now looking at is this:
+
+SSEEdit is an enormous spreadsheet handler, and every cell in the spreadsheet has a purpose in the game. For ease of reading, SSEEdit divides the spreadsheet into columns. Each column represents a separate ESM/ESP/ESL that makes a change to whatever record you have selected. Green in this view means that a given cell is identical to all of the cells to that cell's left. The farthest right column is the lowest plugin in your load order that makes a change to the record in question. The farthest left column is the original version of that record, usually provided by vanilla Skyrim. Therefore, it's not uncommon to see that several distinct plugins make changes to a single record.
+
+One of the most useful things about SSEEdit is that it allows you to drag and drop the value of any cell. So, if we extend our example from earlier where we determined we needed to combine the changes from two separate plugins, we would just drag the cell we need to forward into our patch and drop it into an empty cell **on the same row as the original cell**.
+
+Once you have moved all of the cell values you need to move, it's time to carry on to the next record. Simply go back to the beginning of Step One and continue onwards. Note that you do not need to create a new ESP for every record you want to change - once you've made a patch's ESP the first time, you'll just need to select your patch from the window that appears when you Copy as Overwrite to continue adding records to the patch. A patch can (and should) contain numerous records.
+
 ## Step Three
 ### Saving your Patch
+
+When you've gone through the entire sea of red/yellow for the mod you wanted to patch, it's time to save your work. Close SSEEdit (yes, really). Before the program shuts down, it will show you a list of all the plugins you've made changes to and ask you if you want to save your changes to them. We're only interested in saving our patch, so if you accidentally made a change to another plugin, make sure to uncheck that plugin in the list that appears before clicking OK.
