@@ -50,11 +50,11 @@ The first thing you need to do if you do need to make a patch is to copy a recor
 
 So, find a record that you need to patch as described in Step Zero.
 
-Then, right click on the header text of the farthest right column and select "Copy as overwrite..."
+Then, right click on the header text of the farthest right column and select "Copy as override into..."
 
 ![](https://i.imgur.com/Dbnx4ec.png)
 
-You will be prompted to select an ESP to copy the record into. As mentioned before, you should create a **new** ESL-flagged ESP for this patch.
+You will be prompted to select an ESP to copy the record into. As mentioned before, you should create a **new** ESL-flagged ESP for your patch.
 
 ![](https://i.imgur.com/7TqRSnn.png)
 
@@ -75,9 +75,9 @@ Congratulations, you've made a patch! Kind-of. Now the real work begins.
 
 The easiest way to explain what you're now looking at is this:
 
-SSEEdit is an enormous spreadsheet handler, and every cell in the spreadsheet has a purpose in the game. For ease of reading, SSEEdit divides the spreadsheet into columns. Each column represents a separate ESM/ESP/ESL that makes a change to whatever record you have selected. Green in this view means that a given cell is identical to all of the cells to that cell's left. The farthest right column is the lowest plugin in your load order that makes a change to the record in question. The farthest left column is the original version of that record, usually provided by vanilla Skyrim. Therefore, it's not uncommon to see that several distinct plugins make changes to a single record.
+SSEEdit is an enormous spreadsheet handler, and every cell in the spreadsheet has a purpose in the game. For ease of reading, SSEEdit divides the spreadsheet into columns. Each column represents a separate ESM/ESP/ESL that makes a change to whatever record you have selected. Green in this view means that a given cell is identical to all of the cells to that cell's left and that no changes have been made within that row. The farthest right column is the lowest plugin in your load order that makes a change to the record in question. The farthest left column is the original version of that record, usually provided by vanilla Skyrim. Therefore, it's not uncommon to see that several distinct plugins make changes to a single record.
 
-One of the most useful things about SSEEdit is that it allows you to drag and drop the value of any cell. So, if we extend our example from earlier where we determined we needed to combine the changes from AI Overhaul and NPC VO Merged, we would just drag the cell we need to forward into our patch and drop it into an empty cell **on the same row as the original cell**.
+One of the most useful things about SSEEdit is that it allows you to drag and drop the value of any cell. So, if we extend our example from earlier where we determined we needed to combine the changes from AI Overhaul and NPC VO Merged, we would just drag the cell we need to forward into our patch and drop it into the empty cell **on the same row as the original cell**.
 
 ![](https://i.imgur.com/e2cjsyB.png)
 
@@ -91,7 +91,7 @@ And when you do, that row should turn green:
 
 Congratulations! You've patched a record. For this example we would repeat the drag & drop process for the other two red rows as well before moving on. The yellow rows can be ignored because the values there are provided by a merge, which is correct.
 
-Once you have moved all of the cell values you need to move, it's time to carry on to the next record. Simply go back to the beginning of Step One and continue onwards. Note that you do not need to create a new ESP for every record you want to change - once you've made a patch's ESP the first time, you'll just need to select your patch from the window that appears when you Copy as Overwrite to continue adding records to the patch. A patch can (and should) contain numerous records.
+Once you have moved all of the cell values you need to move, it's time to carry on to the next record. Simply go back to the beginning of Step One and continue onwards. Note that you do not need to create a new ESP for every record you want to change - once you've made a patch's ESP the first time, you'll just need to select your patch from the window that appears when you Copy as Override to continue adding records to the patch. A patch can (and should) contain numerous records.
 
 ## Step Three
 ### Saving your Patch
