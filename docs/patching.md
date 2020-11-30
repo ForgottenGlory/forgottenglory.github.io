@@ -36,8 +36,9 @@ And conversely, how do you know if you need to make a patch? Let's look at anoth
 
 ![](https://i.imgur.com/QQ1Kw6m.png)
 ```
-Protip: Right-click in the right pane of SSEEdit and select "Hide no conflict and empty rows" 
-to condense the information there down to only where conflicts are occurring. 
+Protip: Right-click in the right pane of SSEEdit and select 
+"Hide no conflict and empty rows" to condense the information 
+there down to only where conflicts are occurring. 
 ```
 
 In this example from AI Overhaul, we can see that NPC VO Merged is missing some data that AI Overhaul has added. Because NPC VO Merged is missing that data (indicated in red), we need to make a patch to **combine** the changes AI Overhaul makes with the changes that NPC VO Merged makes.
@@ -88,7 +89,7 @@ And when you do, that row should turn green:
 
 ![](https://i.imgur.com/pKVDW2R.png)
 
-Congratulations! You've patched a record. For this example we would repeat the drag & drop process for the other two red rows as well before moving on.
+Congratulations! You've patched a record. For this example we would repeat the drag & drop process for the other two red rows as well before moving on. The yellow rows can be ignored because the values there are provided by a merge, which is correct.
 
 Once you have moved all of the cell values you need to move, it's time to carry on to the next record. Simply go back to the beginning of Step One and continue onwards. Note that you do not need to create a new ESP for every record you want to change - once you've made a patch's ESP the first time, you'll just need to select your patch from the window that appears when you Copy as Overwrite to continue adding records to the patch. A patch can (and should) contain numerous records.
 
