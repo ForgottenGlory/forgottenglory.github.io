@@ -9,7 +9,13 @@ layout: default
 
 ## Setup
 
+Before you do anything, you need to make sure you open SSEEdit properly. So, launch SSEEdit and make sure you load every single ESP there is. Once everything has loaded (indicated by a "Background loader complete" message in the bottom left corner of SSEEdit), left click anywhere in the left pane of SSEEdit. Then, press Ctrl+A to select everything.
 
+Now, right-click anywhere in the left-pane of SSEEdit and pick "Apply Filter to show Conflicts".
+
+This may take several minutes to run. When finished, you'll see a **lot** of red. Don't panic! Red does not necessarily mean bad.
+
+Now, pick an ESP from the list - any ESP. Start going through the list of records and look for yellow, green, or red. Green you can (usually) ignore. Yellow and Red is where a patch might be needed.
 
 ## Step Zero
 ### Do you really have to patch this?
