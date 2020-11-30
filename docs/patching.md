@@ -34,24 +34,37 @@ This isn't what we want. If we look at some other records in the Idle Animations
 
 And conversely, how do you know if you need to make a patch? Let's look at another example.
 
-` Protip: Right-click in the right pane of SSEEdit and select "Hide no conflict and empty rows" to condense the information there down to only where conflicts are occurring. `
+![](https://i.imgur.com/QQ1Kw6m.png)
+```
+Protip: Right-click in the right pane of SSEEdit and select "Hide no conflict and empty rows" to condense the information there down to only where conflicts are occurring. 
+```
+
+In this example from AI Overhaul, we can see that NPC VO Merged is missing some data that AI Overhaul has added. Because NPC VO Merged is missing that data (indicated in red), we need to make a patch to **combine** the changes AI Overhaul makes with the changes that NPC VO Merged makes.
 
 ## Step One
 ### Creating a Patch
 
 The first thing you need to do if you do need to make a patch is to copy a record into a new ESL. Patches for LS3 should **always** be ESL flagged ESPs. We'll talk about that more in a moment.
 
-So, find a record that you need to patch:
+So, find a record that you need to patch.
 
-Right click on the header and select "Copy as overwrite..."
+Then, right click on the header text of the farthest right column and select "Copy as overwrite..."
 
-You will be prompted to select an ESP to copy the record into. As mentioned before, you should create a **new** ESL-flagged ESP for this patch. Name the patch as follows:
+![](https://i.imgur.com/Dbnx4ec.png)
+
+You will be prompted to select an ESP to copy the record into. As mentioned before, you should create a **new** ESL-flagged ESP for this patch.
+
+![](https://i.imgur.com/7TqRSnn.png)
+
+Name the patch as follows:
 
 ```
 LS3 [Mod Name] Patch
 ```
 
 Replacing [Mod Name] with an abbreviation of the name of whatever mod you are making a patch for.
+
+![](https://i.imgur.com/6bb8z9H.png)
 
 Congratulations, you've made a patch! Kind-of. Now the real work begins.
 
@@ -62,7 +75,19 @@ The easiest way to explain what you're now looking at is this:
 
 SSEEdit is an enormous spreadsheet handler, and every cell in the spreadsheet has a purpose in the game. For ease of reading, SSEEdit divides the spreadsheet into columns. Each column represents a separate ESM/ESP/ESL that makes a change to whatever record you have selected. Green in this view means that a given cell is identical to all of the cells to that cell's left. The farthest right column is the lowest plugin in your load order that makes a change to the record in question. The farthest left column is the original version of that record, usually provided by vanilla Skyrim. Therefore, it's not uncommon to see that several distinct plugins make changes to a single record.
 
-One of the most useful things about SSEEdit is that it allows you to drag and drop the value of any cell. So, if we extend our example from earlier where we determined we needed to combine the changes from two separate plugins, we would just drag the cell we need to forward into our patch and drop it into an empty cell **on the same row as the original cell**.
+One of the most useful things about SSEEdit is that it allows you to drag and drop the value of any cell. So, if we extend our example from earlier where we determined we needed to combine the changes from AI Overhaul and NPC VO Merged, we would just drag the cell we need to forward into our patch and drop it into an empty cell **on the same row as the original cell**.
+
+![](https://i.imgur.com/e2cjsyB.png)
+
+If SSEEdit warns you about adding a master to your patch, click Yes.
+
+![](https://i.imgur.com/7XWuH2P.png)
+
+And when you do, that row should turn green:
+
+![](https://i.imgur.com/pKVDW2R.png)
+
+Congratulations! You've patched a record. For this example we would repeat the drag & drop process for the other two red rows as well before moving on.
 
 Once you have moved all of the cell values you need to move, it's time to carry on to the next record. Simply go back to the beginning of Step One and continue onwards. Note that you do not need to create a new ESP for every record you want to change - once you've made a patch's ESP the first time, you'll just need to select your patch from the window that appears when you Copy as Overwrite to continue adding records to the patch. A patch can (and should) contain numerous records.
 
@@ -70,3 +95,5 @@ Once you have moved all of the cell values you need to move, it's time to carry 
 ### Saving your Patch
 
 When you've gone through the entire sea of red/yellow for the mod you wanted to patch, it's time to save your work. Close SSEEdit (yes, really). Before the program shuts down, it will show you a list of all the plugins you've made changes to and ask you if you want to save your changes to them. We're only interested in saving our patch, so if you accidentally made a change to another plugin, make sure to uncheck that plugin in the list that appears before clicking OK.
+
+![](https://i.imgur.com/Or78ujU.png)
