@@ -32,7 +32,7 @@ The easiest way to explain what you're now looking at is this:
 
 SSEEdit is an enormous spreadsheet handler, and every cell in the spreadsheet has a purpose in the game. For ease of reading, SSEEdit divides the spreadsheet into columns. Each column represents a separate ESM/ESP/ESL that makes a change to whatever record you have selected. The farthest right column is the lowest plugin in your load order that makes a change to the record in question (and, therefore, contains the changes that actually appear in the game). The farthest left column is the original version of that record, usually provided by vanilla Skyrim. It's not uncommon to see that several distinct plugins make changes to a single record.
 
-Green in this view means that a given cell is identical to all of the other cells in that row and that no changes have been made within that row (AKA no conflict). Yellow indicates that changes have been made when compared to the original version of the record, but also that no data is missing (only that the values have been changed). Red indicates that data has been added by one of the columns and that data is not present in all of the plugins modifying the record you're looking at. This isn't a perfect explanation of the colors you're seeing, but in general this is what's going on. You'll have to look at whatever row is in question to see what exactly is happening with data being added/changed/removed.
+Green in this view means that a given cell is identical to all of the other cells in that row and that no changes have been made within that row (AKA no conflict). Yellow indicates that changes have been made when compared to the other versions of the record, but also that no data is missing (only that the values have been changed). Red indicates that data has been added by one of the columns and that data is not present in all of the plugins modifying the record you're looking at. This isn't a perfect explanation of the colors you're seeing, but in general this is what's going on. You'll have to look at whatever row is in question to see what exactly is happening with data being added/changed/removed.
 
 Anyway, back to our example. We can see that Blade & Blunt is loading after VioLens. You can tell this is the case because Blade & Blunt is the farthest right of the columns we see.
 
@@ -52,7 +52,7 @@ In this example from AI Overhaul, we can see that NPC VO Merged is missing some 
 ## Step One
 ### Creating a Patch
 
-The first thing you need to do if you do need to make a patch is to copy a record into a new ESL. Patches for LS3 should **always** be ESL flagged ESPs. We'll talk about that more in a moment.
+The first thing you need to do if you do need to make a patch is to copy a record into a new ESP. Patches for LS3 should **always** be ESL flagged ESPs. We'll talk about that more in a moment.
 
 So, find a record that you need to patch as described in Step Zero.
 
