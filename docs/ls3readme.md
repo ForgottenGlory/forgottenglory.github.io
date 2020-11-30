@@ -9,6 +9,7 @@ permalink: /readme/ls3/
 ![](https://i.imgur.com/Vokoo6f.png)
 
 ## This readme is a work in progress
+Links will be broken, entire sections are incomplete, and phrasing/ordering of the Readme still needs to be revised.
 
 
 Current version: 3.0.0 Dev Build 1 (Pre-Alpha)
@@ -24,7 +25,7 @@ Current version: 3.0.0 Dev Build 1 (Pre-Alpha)
 Before you get started installing or playing Living Skyrim, it's important to note a few things:
 
 * You are not required to have Nexus Premium to install Living Skyrim, however, it is **highly recommended.** Nexus Premium will cut your install time to a fraction of what it would be by automating both the mod download and mod install processes of installing the list.
-* As of version 3.0.0, Living Skyrim requires [an amount of GB] of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing to an SSD/NVMe is not required, but also **highly recommended.** Download and installation times vary based on your computer and internet speeds, but expect the entire process to take a few hours. If you are installing the list without Nexus Premium, expect the process to take a couple of days of 8+ hour sessions downloading mods.
+* As of version 3.0.0, Living Skyrim requires 208GB of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing to an SSD/NVMe is not required, but also **highly recommended.** Download and installation times vary based on your computer and internet speeds, but expect the entire process to take a few hours. If you are installing the list without Nexus Premium, expect the process to take a couple of days of 8+ hour sessions downloading mods.
 * To maximize performance, both Skyrim: Special Edition and Living Skyrim should be installed on the same hard drive, ideally an SSD/NVMe. This is not required, just recommended if you want the smoothest gameplay experience.
 * If you are not familiar with the contents of this modlist, a complete documentation of every mod in the list including links to the mods is available on the [LS3 Modlist Spreadsheet]().
 * If you instead only wish for a brief overview of the major changes this modlist makes, you should refer to the [Important Mods You Need to Know About](#important-mods-you-need-to-know-about) section of this document.
