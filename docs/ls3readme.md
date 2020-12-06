@@ -189,7 +189,7 @@ To actually launch and then play Living Skyrim, follow these steps:
 
 ## Important Mods You Need to Know About
 
-### Character Creation Mods
+### Character Customization Mods
 When creating your character, you'll find there are a lot of options that are available to you. From hairs to tattoos to eyes and more, Living Skyrim has included a comprehensive suite of mods that allow you to tweak your character's appearance to exactly what you want. And, if you're struggling to figure out where to begin with character creation, a number of presets made by the Living Skyrim community have been included for you to pick from. In general, you'll have more options for *everything*.
 
 There is one particular mod you need to be aware of during character creation: [High Poly Head](https://vectorplexus.com/files/file/283-high-poly-head/). To have your character use High Poly Head, you'll need to change the head part using the RaceMenu slider of the same name to option 3. Note that if you do use High Poly Head, you may need to do some manual sculpting using the RaceMenu sculpt feature to remove any clipping issues with eyebrows or beards. 
@@ -212,14 +212,11 @@ The short answer: wait for an update to the list. The long answer is you can try
 #### "Wabbajack says I'm out of requests."
 Nexus Premium is limited to 2500 downloads in a given 24 hour timeframe. Usually this limit resets around 8PM Eastern Time. Wait for your limit to reset and you'll be able to proceed. Usually this only occurs after attempting to download the list multiple times in a row or when attempting to download multiple lists.
 
-#### "Rayek's End is reporting something weird during installation."
-Click this link for a workaround: [Rayek's End Workaround](https://github.com/ForgottenGlory/Living-Skyrim-2/issues/69#issuecomment-643644342) This is usually caused by having a language other than English installed on your system.
-
 #### "Can I pause the installation?"
 Yes, just close Wabbajack. When you start the installation process again it will pick up from where it left off.
 
 #### "Can I delete the downloads folder after installing?"
-Yes, but remember that if you need to update the list you will have to download all of the mods again.
+Yes, but remember that if you need to update the list you will have to download all of the mods that have updated again.
 
 #### "The LS2 DynDOLOD Output fails to download."
 You'll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [LS2 DynDOLOD 2.4.0](https://drive.google.com/file/d/1tSWvQiXIHqgngYmoW5eUHQFerUsOP7Wo/view?usp=sharing)
@@ -237,17 +234,8 @@ Only if you are **not** changing your character's gender or race. Changing gende
 #### "Can I change my attributes after starting?"
 No. The choices you make are permanent. You can increase your attributes through various methods, refer to this modpage for more details: [AVA](https://www.nexusmods.com/skyrimspecialedition/mods/23329)
 
-#### "When I click to select a bonus after leveling up my stats don't change."
-This is intended. Natural Character Growth and Decay adjusts your stats as you use them. Using a lot of health/stamina? They'll automatically increase over time. The option to pick health/stamina/magicka will still appear due to game limitations, but it won't do anything. The same is true of carry weight: it will go up automatically over time if you're carrying a lot of items. If you want to cheat, you can turn the level-up bonuses to health/magicka/stamina back on in the NCGD MCM menu.  
-
 #### "My screen is zoomed in or weirdly off-center."
 Check the SSE Display Tweaks INI file to make sure you have the resolution for your screen set correctly. You may also need to check BethINI or the Skyrim INI files to make sure they all match your screen's resolution.
-
-#### "Dead NPCs turn purple?"
-This is part of Frozen Electrocuted Combustion, specifically the decay part. Modpage for more details: [FEC](https://www.nexusmods.com/skyrimspecialedition/mods/3532)
-
-#### "Is Hunterborn broken?" or "QuickLoot breaks Hunterborn?"
-The current version of QuickLoot has some weird effects when used in conjunction with mods that affect looting, primarily Hunterborn (but also a few others too). These issues are known to the author of QuickLoot and will be resolved at some point with an update to that mod. QuickLoot can be safely disabled in Mod Organizer 2 without any repurcussions if you find this behavior annoying/unsatisfying.
 
 #### "MO2 cannot find SKSE."
 You'll need to manually set the path for SKSE using the Edit Executables menu in MO2. Also make sure you have followed the [Game Folder Files](#game-folder-files) step of this readme.
@@ -259,7 +247,7 @@ I strongly advise against it. With as many mods as there are in the list, you'll
 Make sure you’ve disabled all overlays for Skyrim. The most common ones are Discord, Steam, and nVidia. Other overlays from things like MSI Afterburner and f.lux have also been known to cause issues.
 
 #### "Can I play this list on a 75/100/144hz screen?"
-Yes. Display Tweaks SSE is included which allows for this.
+Technically yes, but also no. Movement Behavior Overhaul requires that the FPS of the game be capped at 60FPS. Display Tweaks SSE is included to allow higher refresh rates, but exceeding 60FPS is a recipe for disaster.
 
 #### "My equipment animations are broken/weird!"
 First, check to make sure you’ve followed the MCM instructions for XPMSE. This should fix any weirdness (sword on hip but being drawn from back, for example.). If you’ve just equipped a new weapon/shield, the animation to draw it may be weird for a few seconds but it will eventually fix itself. XPMSE and AllGUD need a few seconds to register the new weapon configuration and should fix themselves. This is not a bug, just be patient and the mods will figure it out eventually.
@@ -310,6 +298,7 @@ I don't know, can you?
   - Bearnard
   - Volkaru
   - JaxomOfRuatha
+  - TwistedModding
 - Contributors & Beta Testers:
   - Patchier
   - DwarfDude
@@ -322,7 +311,6 @@ I don't know, can you?
   - Sentrus
   - Nechrion
   - Xanza
-  - TwistedModding
   - tjbassoon
 - Halgari & The Wabbajack Team
   - Thank you for creating Wabbajack, you’re amazing!

@@ -477,6 +477,8 @@ Yes. To submit a mod to be considered for inclusion in LS, you must attach a cop
   - Magnus Hellfire
   - Bearnard
   - Volkaru
+  - JaxomofRuatha
+  - TwistedModding
 - Contributors & Beta Testers:
   - Patchier
   - DwarfDude
@@ -489,8 +491,8 @@ Yes. To submit a mod to be considered for inclusion in LS, you must attach a cop
   - Sentrus
   - Nechrion
   - Xanza
-  - TwistedModding
   - tjbassoon
+  - Unnoen
 - Halgari & The Wabbajack Team
   - Thank you for creating Wabbajack, you’re amazing!
   - [Halgari’s Patreon](https://www.patreon.com/user?u=11907933)
