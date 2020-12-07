@@ -160,7 +160,7 @@ When you first load up Atelier, there will be zero BodySlides created. You have 
 
 Before you get started, if you have your own personal BodySlide preset that you like, drop the XML file into `[Install Drive]\Atelier\mods\Custom Presets\Caliente Tools\BodySlide\SliderPresets` alongside "Summer.xml".
 
-One more thing: if you get an error about BodySlide not being able to find the output path, click on the Settings button in BodySlide, click on the "Advanced" button, and set the Output Path to `[Install Drive]\Atelier\mods\Bodyslide Output`.
+One more thing: if you get an error about BodySlide not being able to find the output path, click on the Settings button in BodySlide, click on the "Advanced" button, and set the Output Path to `[Install Drive]\Atelier\mods\BodyslideOutfitStudio - Overwrite`.
 
 1. Launch BodySlide from MO2.
 2. Click on the magnifying glass icon near the top of the BodySlide Window and select "Choose Groups..."
