@@ -54,7 +54,7 @@ Last, but certainly not least, Atelier includes a very lightweight SexLab setup 
 ### Warnings/Disclaimers
 Wabbajack no longer requires that you have Nexus Premium to install the modlist, however, having Nexus Premium will cut your install time to a fraction of what it would be instead of downloading each mod individually (and save you a couple thousand clicks or so).  
 
-The modlist requires ~159 (51GB Downloads/105GB Mods) of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing onto an SSD/NVMe is not required, but **strongly recommended**. Download and installation times vary based on your computer and internet speeds but expect the entire process to take a few of hours.
+The modlist requires ~174GB (46.7GB Downloads/128GB Mods) of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing onto an SSD/NVMe is not required, but **strongly recommended**. Download and installation times vary based on your computer and internet speeds but expect the entire process to take a few of hours.
 
 **NSFW Warning:** This modlist contains explicit sexual content and nude character models. Proceed at your own discretion.
 
@@ -70,7 +70,7 @@ Skyrim is very heavy on processors. Generally, anything above 3GHz should be fin
 
 ### Important Links 
 [Atelier FAQ & Troubleshooting](#troubleshooting--faq)  
-[Atelier Bug & Suggestions Tracker](https://github.com/ForgottenGlory/Dungeons-Deviousness/issues)  
+[Atelier Bug & Suggestions Tracker](https://github.com/ForgottenGlory/Atelier/issues)  
 [Atelier Discord](https://discord.gg/9dFvGnc)  
 [Atelier Patreon](https://www.patreon.com/LivingSkyrim)
 
@@ -93,11 +93,11 @@ Launch Skyrim SE to create any INI or registry entries the game needs. Immediate
 
 ### Wabbajack Preparations
 1. Download the latest version of [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases). Do not run anything until instructed to do so. Make sure you are using the latest version of Wabbajack or else Wabbajack will report a corrupted modlist.
-2. Create a new folder in the root of the drive where you want Wabbajack to be installed. (C:\ will be used as an example, but it can be placed in any drive.) Name this folder “Wabbajack”. **Important!:** Wabbajack must be placed in a separate folder from where the installation will occur. 
-3. Create a second folder called C:\Atelier. This folder is where the modlist will be installed.
+2. Create a new folder in the root of the drive where you want Wabbajack to be installed. Name this folder “Wabbajack”. **Important!:** Wabbajack must be placed in a separate folder from where the installation will occur. 
+3. Create a second folder called `[Install Drive]\Atelier`. This folder is where the modlist will be installed.
 4. Double check that you have *not* placed any of these folders in your Skyrim: Special Edition installation directory.
-5.  Ensure that C:\Atelier is **completely empty.**
-6.  Ensure that Wabbajack.exe is in C:\Wabbajack.
+5.  Ensure that `[Install Drive]\Atelier` is **completely empty.**
+6.  Ensure that Wabbajack.exe is in `[Install Drive]\Wabbajack`.
 
 ## Wabbajack Installation
 If you are updating your existing installation of Atelier, skip to [Updating Atelier](#updating-dungeons--deviousness).
@@ -105,7 +105,7 @@ If you are updating your existing installation of Atelier, skip to [Updating Ate
 1. Run Wabbajack.exe. 
 2. At the bottom of the window click Browse Modlists and click the download/down arrow icon on the Atelier card. 
 3. Once it finishes downloading, click the play/right arrow icon on the Atelier card.
-4. Set the Installation Location to C:\Atelier. The download location does not need to be set manually unless you have drive space limitations. Downloading to a separate folder is fine (for example, on a HDD), but as before it is recommended that the actual install be placed on a SSD. **Important!:** Do not install the modlist to your Skyrim SE installation folder OR the folder that Wabbajack.exe is in.
+4. Set the Installation Location to `[Install Drive]\Atelier`. The download location does not need to be set manually unless you have drive space limitations. Downloading to a separate folder is fine (for example, on a HDD), but as before it is recommended that the actual install be placed on a SSD. **Important!:** Do not install the modlist to your Skyrim SE installation folder OR the folder that Wabbajack.exe is in.
 5. Click the play/right arrow button to begin installation.
 
 ### With Nexus Premium
@@ -121,10 +121,10 @@ If Wabbajack fails to download a particular mod, it means that the mod has likel
 
 ## Post-Wabbajack Install
 ### Game Folder Files
-Now you have to copy some files to their correct locations. Navigate to C:\Atelier\Game Folder Files. Copy all of the files inside the Game Folder Files folder into [Steam Install Location]\steamapps\common\Skyrim Special Edition\ and Overwrite if prompted. This folder contains SKSE and Engine Fixes part 2, which are required to use Atelier and must be placed into your Skyrim's installation folder for the list to function.
+Now you have to copy some files to their correct locations. Navigate to `[Install Drive]\Atelier\Game Folder Files`. Copy all of the files inside the Game Folder Files folder into `[Steam Install Location]\steamapps\common\Skyrim Special Edition\` and Overwrite if prompted. This folder contains SKSE and Engine Fixes part 2, which are required to use Atelier and must be placed into your Skyrim's installation folder for the list to function.
 
 ### Mod Organizer 2
-1. Navigate to C:\Atelier and open ModOrganizer.exe. Your Mod Organizer window will have a dark theme already selected. If it doesn’t, something has gone wrong and you’ll likely need to do the Wabbajack installation again.
+1. Navigate to `[Install Drive]\Atelier` and open ModOrganizer.exe. Your Mod Organizer window will have a dark theme already selected. If it doesn’t, something has gone wrong and you’ll likely need to do the Wabbajack installation again.
 2. A dialogue will appear and ask if you want to associate Mod Organizer with nxm links. Click **Yes.**
 
 #### Configuration-Specific
@@ -138,7 +138,7 @@ In general, any ENB that is compatible with Obsidian Weathers will work with Ate
 In general, the process to install an ENB preset is:
 
 1. Download the latest ENB Binary from http://enbdev.com/download_mod_tesskyrimse.htm
-2. Open the .zip file, go into the WrapperVersion folder, and copy ONLY d3d11.dll and d3dcompiler_46e.dll into your Skyrim SE installation folder. (Usually located at C:\Steam\steamapps\common\Skyrim Special Edition)
+2. Open the .zip file, go into the WrapperVersion folder, and copy ONLY d3d11.dll and d3dcompiler_46e.dll into your Skyrim SE installation folder. (Usually located at `[Install Drive]\Steam\steamapps\common\Skyrim Special Edition`)
 3. Download your selected ENB preset. **Important!: Make sure it is compatible with Obsidian Weathers!**
 4. Follow any installation instructions included with your Preset. Every ENB has slight variations in their requirements, so make sure to follow the instructions included for that preset. **You should not need to download any additional files other than the preset. Things like ENB Helper and Particle Patch are already included!**
 
@@ -156,9 +156,9 @@ If you are updating Atelier, the process is very simple. Before you update, you 
 ## BodySlides
 When you first load up Atelier, there will be zero BodySlides created. You have to generate your own Bodyslides, as including them would make the Wabbajack installer file several gigabytes large.
 
-Before you get started, if you have your own personal BodySlide preset that you like, drop the XML file into C:\Atelier\mods\Custom Presets\Caliente Tools\BodySlide\SliderPresets alongside "Summer.xml".
+Before you get started, if you have your own personal BodySlide preset that you like, drop the XML file into `[Install Drive]\Atelier\mods\Custom Presets\Caliente Tools\BodySlide\SliderPresets` alongside "Summer.xml".
 
-One more thing: if you get an error about BodySlide not being able to find the output path, click on the Settings button in BodySlide, click on the "Advanced" button, and set the Output Path to [Install Drive]\Atelier\mods\Bodyslide Output.
+One more thing: if you get an error about BodySlide not being able to find the output path, click on the Settings button in BodySlide, click on the "Advanced" button, and set the Output Path to `[Install Drive]\Atelier\mods\Bodyslide Output`.
 
 1. Launch BodySlide from MO2.
 2. Click on the magnifying glass icon near the top of the BodySlide Window and select "Choose Groups..."
@@ -169,7 +169,7 @@ One more thing: if you get an error about BodySlide not being able to find the o
 7. Repeat steps 3 through 6 for "Atelier Outfits 2" and "Atelier Bodies". For Atelier Bodies you may want to select a different Bodyslide preset if you want armor/clothing to look different than the nude bodies. (Dream Angel Outfit for the armors and Dream Angel Nude for the body, for example.)
 
 ### A Note About Presets
-If you have your own favorite character face/head preset, drop the JSLOT file into C:\Atelier\mods\Custom Presets\SKSE\Plugins\CharGen\Presets alongside Anna.jslot and Summer.jslot. It will be available in RaceMenu the next time you go to make a character. Make sure to back this up before updating the list as updating will erase any added files like this. Adding presets (whether they be BodySlide or RaceMenu) does not void support for Atelier.
+If you have your own favorite character face/head preset, drop the JSLOT file into `[Install Drive]\Atelier\mods\Custom Presets\SKSE\Plugins\CharGen\Presets` alongside Anna.jslot and Summer.jslot. It will be available in RaceMenu the next time you go to make a character. Make sure to back this up before updating the list as updating will erase any added files like this. Adding presets (whether they be BodySlide or RaceMenu) does not void support for Atelier.
 
 If you have a preset (Bodyslide or RaceMenu, doesn't matter) that *you made* and you'd like it to be included in Atelier, send it to ForgottenGlory.
 
@@ -183,7 +183,7 @@ The hard part is now over. Carry on, the end is in sight!
 5. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
 
 ### The MCM Settings
-1. Consult the [Atelier MCM Configuration](https://forgottenglory.github.io/mcms/dndmcm/) document and follow all listed steps. This step is required if you want the list to work properly.
+1. Consult the [Atelier MCM Configuration](https://forgottenglory.github.io/mcms/ateliermcm/) document and follow all listed steps. This step is required if you want the list to work properly.
 2. Don’t forget to save your game after configuring the MCMs, I promise you don’t want to have to do this step more than once.
 
 ## Adding to Atelier
