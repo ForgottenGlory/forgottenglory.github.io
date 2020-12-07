@@ -5,8 +5,9 @@
 layout: atelier_readme
 permalink: /readme/atelier/
 ---
+![Atelier Logo](https://i.imgur.com/8NqqiFi.png)
 
-Current version: 1.0.0 12/6/2020
+Current version: 1.0.0.1 (Beta 1) 12/6/2020
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
@@ -33,6 +34,7 @@ Current version: 1.0.0 12/6/2020
   - [A Note About Presets](#a-note-about-presets)
 - [Launching Atelier](#launching-atelier)
   - [The MCM Settings](#the-mcm-settings)
+- [The Screenshots](#the-screenshots)
 - [Adding to Atelier](#adding-to-atelier)
 - [Important Mods You Need to Know About](#important-mods-you-need-to-know-about)
   - [The Screenshot Tools](#the-screenshot-tools)
@@ -102,20 +104,20 @@ Launch Skyrim SE to create any INI or registry entries the game needs. Immediate
 ## Wabbajack Installation
 If you are updating your existing installation of Atelier, skip to [Updating Atelier](#updating-dungeons--deviousness).
 
-1. Run Wabbajack.exe. 
-2. At the bottom of the window click Browse Modlists and click the download/down arrow icon on the Atelier card. 
-3. Once it finishes downloading, click the play/right arrow icon on the Atelier card.
+1. Download the latest version of the Atelier modlist installer (the .wabbajack file) from here: [Click Here](https://drive.google.com/drive/folders/1GYU6gFLmkTzntxv8kqem-7oDlmzE9VLA?usp=sharing)
+2. Run Wabbajack.exe. 
+3. At the bottom of the window click Install From Disk, then navigate to where you saved the file you downloaded and select that file.
 4. Set the Installation Location to `[Install Drive]\Atelier`. The download location does not need to be set manually unless you have drive space limitations. Downloading to a separate folder is fine (for example, on a HDD), but as before it is recommended that the actual install be placed on a SSD. **Important!:** Do not install the modlist to your Skyrim SE installation folder OR the folder that Wabbajack.exe is in.
 5. Click the play/right arrow button to begin installation.
 
 ### With Nexus Premium
 5. Wabbajack will walk you through logging into the Nexus and authorizing an API key so it can download mods if you have not done so previously.
-6. Let Wabbajack do its thing. This will take a little while (usually 3-4 hours at most), so go get a snack and read the [Important Mods You Need to Know About](#important-mods-you-need-to-know-about) section of this document. Seriously. Read it. This isn't optional.
+6. Let Wabbajack do its thing. This will take a little while (usually 3-4 hours at most), so go get a snack and read the [Important Mods You Need to Know About](#important-mods-you-need-to-know-about) section of this document.
 
 ### Without Nexus Premium
-5. Wabbajack will prompt you to click all the needed buttons to download the modlist. Be prepared for this to take a really long time, possibly more than one day. Also be aware that due to the amount of time required when installing this list manually, the list may update during the time it takes to install and you may need to start over if that happens. Put on some music or a TV show and make a day of it. If you need a break during this process, grab a snack and read the [Important Mods You Need to Know About](#important-mods-you-need-to-know-about) section of this document. Seriously. Read it. This isn't optional.
+1. Wabbajack will prompt you to click all the needed buttons to download the modlist. Be prepared for this to take a really long time, possibly more than one day. Also be aware that due to the amount of time required when installing this list manually, the list may update during the time it takes to install and you may need to start over if that happens. Put on some music or a TV show and make a day of it. If you need a break during this process, grab a snack and read the [Important Mods You Need to Know About](#important-mods-you-need-to-know-about) section of this document.
 
-Once complete, Wabbajack will say “Installation complete! You may exit the program.” If it does not, visit the [Wabbajack Discord server](https://discord.gg/wabbajack) for assistance. **Don’t forget to upload your log file!**  
+Once complete, Wabbajack will say “Installation complete! You may exit the program.” If it does not, visit the [FG's Modlists Discord server](https://discord.gg/9dFvGnc) for assistance. **Don’t forget to upload your log file!**  
 
 If Wabbajack fails to download a particular mod, it means that the mod has likely been updated. This also means that an update to Atelier is imminent. Be patient and wait for the new release. **Do not ask other people to share older files as this is a violation of the Nexus ToS.**  
 
@@ -143,11 +145,11 @@ In general, the process to install an ENB preset is:
 4. Follow any installation instructions included with your Preset. Every ENB has slight variations in their requirements, so make sure to follow the instructions included for that preset. **You should not need to download any additional files other than the preset. Things like ENB Helper and Particle Patch are already included!**
 
 ## Updating Atelier
-If you are updating Atelier, the process is very simple. Before you update, you should at a minimum backup your saves. Updating will delete any saves that are present. Make sure you are using the latest version of Wabbajack or else Wabbajack will report a corrupted modlist.
+If you are updating Atelier, the process is very simple. Before you update, you should at a minimum backup your saves. Updating may delete any saves that are present. Make sure you are using the latest version of Wabbajack or else Wabbajack will report a corrupted modlist.
 
-1. Run Wabbajack.exe. 
-2. At the bottom of the window click Browse Modlists and click the download/down arrow icon on the Atelier card. 
-3. Once it finishes downloading, click the play/right arrow icon on the Atelier card.
+1. Download the latest version of the Atelier modlist installer (the .wabbajack file) from here: [Click Here](https://drive.google.com/drive/folders/1GYU6gFLmkTzntxv8kqem-7oDlmzE9VLA?usp=sharing)
+2. Run Wabbajack.exe. 
+3. At the bottom of the window click Install From Disk, then navigate to where you saved the file you downloaded and select that file.
 4. Set the Installation Location to wherever you already have Atelier installed. 
 5. **Important!:** Set your downloads folder path to the same downloads folder location you used when you first installed Atelier. Failure to do this will make Wabbajack download every mod again, which you want to avoid if possible.
 6. Click Run.
@@ -163,7 +165,7 @@ One more thing: if you get an error about BodySlide not being able to find the o
 1. Launch BodySlide from MO2.
 2. Click on the magnifying glass icon near the top of the BodySlide Window and select "Choose Groups..."
 3. Put a checkmark into **ONLY** "Atelier Outfits 1".
-4. From the Preset dropdown, select your preferred preset.
+4. From the Preset dropdown, select your preferred preset. You can use the Preview button to preview what it will look like.
 5. Make sure that the "Build Morphs" checkbox is checked at the bottom of the BodySlide window.
 6. Click "Batch Build..." and then Build on the window that appears.
 7. Repeat steps 3 through 6 for "Atelier Outfits 2" and "Atelier Bodies". For Atelier Bodies you may want to select a different Bodyslide preset if you want armor/clothing to look different than the nude bodies. (Dream Angel Outfit for the armors and Dream Angel Nude for the body, for example.)
@@ -186,6 +188,11 @@ The hard part is now over. Carry on, the end is in sight!
 1. Consult the [Atelier MCM Configuration](https://forgottenglory.github.io/mcms/ateliermcm/) document and follow all listed steps. This step is required if you want the list to work properly.
 2. Don’t forget to save your game after configuring the MCMs, I promise you don’t want to have to do this step more than once.
 
+## The Screenshots
+Screenshots are, by default, saved to your Skyrim SE installation folder. If you are sharing your screenshots, make sure to upload the PNG version of the file and not the BMP version (the BMP version is created automatically by ENB). Many places (such as Discord) don't play nice with BMP files and prefer PNGs. 
+
+If you want some tips on how to take better screenshots, consult this link: [Click Here](https://www.tesgeneral.com/screenshot) If you're feeling particularly fancy, you can even open up your screenshots in Photoshop or GIMP and make adjustments to get the exact feeling/color/style you're going for.
+
 ## Adding to Atelier
 The only support provided for adding mods to Atelier is for adding additional Skyrim SE outfits using the CBBE or 3BBB bodies. Adding any other mods is not supported in any way, shape or form.
 
@@ -204,10 +211,10 @@ To add an outfit to Atelier, follow these steps:
 This section details the most important mods included in Atelier and is intended to give you a basic understanding of what to expect when you start the game.
 
 ### The Screenshot Tools
-For ease of taking screenshots, the following mods are included: FreeFlyCam, ScreenshotPad SE, Weather Control, Rail Light, and AddItemMenu. With these you should be able to set up any location to be exactly what you want for the screenshots you want to take. One minor note: Rail Light is only intended to be used by female characters, equipping one of its lights on a male character will have... interesting results, to say the least.
+For ease of taking screenshots, the following mods are included: FreeFlyCam, ScreenshotPad SE, Weather Control, Rail Light, and AddItemMenu. With these you should be able to set up any location to be exactly what you want for the screenshots you want to take. One minor note: Rail Light is only intended to be used by female characters, equipping one of its lights on a male character will have interesting results, to say the least.
 
 ### The Pose Mods
-Several pose packs are included: Halo's Poser, Shocky Pose Pack, GomaPeroPoses, and all three are included in Poser Hotkeys Plus, which allows you to quickly and easily cycle through poses.
+Several pose packs are included: Halo's Poser, Shocky Pose Pack, GomaPeroPoses, and all three are included in Poser Hotkeys Plus, which allows you to quickly and easily cycle through poses. Check the MCM for Poser Hotkeys to see the keybinds for this mod.
 
 ### The Character Customization Mods
 When creating your character, you'll find there are a lot of options that are available to you. From hairs to tattoos to eyes and more, Atelier has included a comprehensive suite of mods that allow you to tweak your character's appearance to exactly what you want. And, if you're struggling to figure out where to begin with character creation, a number of presets made by the Atelier community have been included for you to pick from in addition to many from Nexus. In general, you'll have more options for *everything*.
