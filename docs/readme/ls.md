@@ -203,7 +203,7 @@ Now you have to copy some files to their correct locations. Navigate to C:\Livin
 2. A dialogue will appear and ask if you want to associate Mod Organizer with nxm links. Click **Yes.**
 
 #### Configuration-Specific
-If you are using a widescreen monitor, make sure to enable Complete Widescreen Fix for SkyUI 5.2 SE in the left pane of MO2. If you are **not** using a widescreen monitor, make sure to **disable** Complete Widescreen Fix for SkyUI 5.2 SE in the left pane of MO2.
+If you are using an ultrawide monitor, make sure to enable Complete Widescreen Fix for SkyUI 5.2 SE in the left pane of MO2. If you are **not** using an ultrawide monitor, make sure to **disable** Complete Widescreen Fix for SkyUI 5.2 SE in the left pane of MO2. If your resolution still seems incorrect after this, you may need to update the SSE Display Tweaks INI such that its resolution matches the resolution of your monitor.
 
 ### ENB
 ENB is not required to run Living Skyrim, but it is intended to be used with it. You may skip these instructions if you don’t want to use ENB. Skipping ENB is *strongly recommended* for weaker computers. 
