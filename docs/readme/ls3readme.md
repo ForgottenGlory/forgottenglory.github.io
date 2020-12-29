@@ -304,7 +304,7 @@ To actually launch and then play Living Skyrim, follow these steps:
 <table class="tg">
 <thead>
   <tr>
-    <th class="warning"><b>WARNING:</b> Loading a save from another modlist or from before you installed Living Skyrim will corrupt that save, do not do this.
+    <th class="warning"><b>WARNING:</b> Loading a save from another modlist or from before you installed Living Skyrim will corrupt that save, do not do this.</th>
   </tr>
 </thead>
 </table>
@@ -312,7 +312,6 @@ To actually launch and then play Living Skyrim, follow these steps:
 ### The MCM Settings
 
 ### Getting Started in Living Skyrim
-
 
 ## Important Mods You Need to Know About
 
