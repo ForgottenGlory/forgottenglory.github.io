@@ -14,6 +14,7 @@ permalink: /readme/ls3/
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .protip{background-color:#353535;border-style:dashed;border-color:#93bd20;color:#f0e7d5;text-align:center;vertical-align:top}
 .tg .important{background-color:#353535;border-style:dashed;border-color:#ffcb31;color:#ffcb31;text-align:center;vertical-align:top}
+.tg .warning{background-color:#353535;border-style:dashed;border-color:#c6271b;color:#c6271b;text-align:center;vertical-align:top}
 </style>
 
 ![](https://i.imgur.com/Vokoo6f.png)
@@ -209,6 +210,14 @@ Now, you must copy some files to your installation folder of Skyrim Special Edit
 2. Copy everything inside the "Game Folder Files" folder into your Skyrim Special Edition install folder.
 3. Overwrite existing files if you are prompted to do so.
 
+<table class="tg">
+<thead>
+  <tr>
+    <th class="warning"><b>WARNING:</b> These files include SKSE and Engine Fixes Part 2, both of which are essential for the list to function correctly. Failure to copy these files will result in the list not working.</th>
+  </tr>
+</thead>
+</table>
+
 These files include SKSE and Engine Fixes Part 2, both of which are essential for the list to function correctly. Failure to copy these files will result in the list not working.
 
 ## Post-Wabbajack Install
@@ -235,7 +244,7 @@ If you wish to use ENB, follow these steps:
 <table class="tg">
 <thead>
   <tr>
-    <th class="important">Important!: Make sure your chosen ENB preset is compatible with Obsidian Weathers!</th>
+    <th class="important"><b>Important!:</b> Make sure your chosen ENB preset is compatible with Obsidian Weathers!</th>
   </tr>
 </thead>
 </table>
@@ -246,7 +255,7 @@ If you wish to use ENB, follow these steps:
 <table class="tg">
 <thead>
   <tr>
-    <th class="important">Important!: You should not need to download any additional files other than the preset. Things like ENB Helper and Particle Patch are already included!</th>
+    <th class="important"><b>Important!:</b> You should not need to download any additional files other than the preset. Things like ENB Helper and Particle Patch are already included!</th>
   </tr>
 </thead>
 </table>
