@@ -40,11 +40,11 @@ Current version: 3.0.0 Dev Build 1 (Pre-Alpha)
         <li><a href="https://forgottenglory.github.io/readme/ls3/#mod-organizer-2">Mod Organizer 2</a></li>
         <li><a href="https://forgottenglory.github.io/readme/ls3/#configuration-specific">Configuration-Specific Setup</a></li>
         <li>ENB</li>
+        <li>Updating Living Skyrim</li>
       </ul>
     </th>
     <th>
       <ul style="list-style-type:none;">
-        <li>Updating Living Skyrim</li>
         <li>Launching Living Skyrim</li>
         <li>The MCM Settings</li>
         <li>Getting Started in Living Skyrim</li>
