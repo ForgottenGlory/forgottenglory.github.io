@@ -6,6 +6,15 @@ layout: LS_readme
 permalink: /readme/ls3/
 ---
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .protip{background-color:#ffcb2f;border-style:dashed;border-color:#cd9934;color:#000000;text-align:left;vertical-align:top}
+</style>
+
 ![](https://i.imgur.com/Vokoo6f.png)
 
 ## This readme is a work in progress
@@ -145,6 +154,14 @@ Afterwards, you need to disable automatic updates for Skyrim to avoid a game upd
 2. In Steam, disable the Steam Overlay. (Right-click > Properties... > General > Enable the Steam Overlay while in-game checkbox)
    
 Finally, once the above steps are completed, launch Skyrim SE through Steam to create any INI or registry entries the game needs. Immediately exit the launcher once it has successfully selected a graphics preset for your hardware. The INIs it just created will be overwritten by the ones included in the modlist, but this is a necessary step for Wabbajack to recognize that you have the game installed.
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-protip"><span style="font-weight:bold">Protip:</span> If you want to be absolutely certain you have uninstalled Skyrim completely, download and use Skyrim Shredder.</th>
+  </tr>
+</thead>
+</table>
 
 ### Wabbajack Preparations
 A video version of the installation instructions from this point forward exists here: [Click Me!](https://youtu.be/sW7s5IhN7qs)  
