@@ -78,7 +78,7 @@ Next, you'll need a clean copy of Skyrim Special Edition. To get your copy to th
 2. If there are any files leftover in the Skyrim Special Edition game folder (Right-click > Properties… > Local Files > Browse Local Files…), delete them.
 3. Install Skyrim: Special Edition.
 
-Afterwards, you need to disable automatic updates for Skyrim to avoid a random update breaking your copy of the game and therefore the modlist.
+Afterwards, you need to disable automatic updates for Skyrim to avoid a game update breaking your copy of the game and therefore the modlist.
 
 1. In Steam, set Skyrim: Special Edition to update only when opened. (Right-click > Properties… > Updates > Automatic updates > Only update this game when I launch it)
 2. In Steam, disable the Steam Overlay. (Right-click > Properties... > General > Enable the Steam Overlay while in-game checkbox)
@@ -92,7 +92,7 @@ We'll now setup the folders needed for the installation to proceed smoothly.
 
 1. Create two empty folders: one named Wabbajack and the other named Living Skyrim.
 2. Ensure that these two folders are not within any of the following folders: your Skyrim Special Edition install folder, your Program Files folder, or your Program Files (x86) folder. 
-3. Additionally, ensure that these two folders are not contained within each other. For example, C:\Wabbajack\Living Skyrim is **incorrect**. Ideally, both the Wabbajack folder and Living Skyrim folder will be in the root of the drive you are installing the list to. Example: C:\Wabbajack and C:\Living Skyrim
+3. Additionally, ensure that these two folders are not contained within each other. For example, `[install drive]\Wabbajack\Living Skyrim` is **incorrect**. Ideally, both the Wabbajack folder and Living Skyrim folder will be in the root of the drive you are installing the list to. Example: `[install drive]\Wabbajack` and `[install drive]\Living Skyrim`
 4. Ensure that both the Wabbajack and Living Skyrim folders are completely empty. If they are not empty, make them empty.
 5. Download the latest version of Wabbajack from the Wabbajack website: [Wabbajack](https://www.wabbajack.org/#/).
 6. Place the Wabbajack.exe file you just downloaded into the folder you created earlier called Wabbajack.
@@ -151,7 +151,7 @@ The following ENB presets are known to look great when playing Living Skyrim: Am
 If you wish to use ENB, follow these steps:
 
 1. Download the latest ENB Binary from http://enbdev.com/download_mod_tesskyrimse.htm
-2. Open the .zip file, go into the WrapperVersion folder, and copy ONLY d3d11.dll and d3dcompiler_46e.dll into your Skyrim SE installation folder. (Usually located at C:\Steam\steamapps\common\Skyrim Special Edition)
+2. Open the .zip file, go into the WrapperVersion folder, and copy ONLY d3d11.dll and d3dcompiler_46e.dll into your Skyrim SE installation folder. (Usually located at `[install drive]\Steam\steamapps\common\Skyrim Special Edition`)
 3. Download your selected ENB preset. **Important!: Make sure it is compatible with Obsidian Weathers!**
 4. Follow any installation instructions included with your Preset. Every ENB has slight variations in their requirements, so make sure to follow the instructions included for that preset. **You should not need to download any additional files other than the preset. Things like ENB Helper and Particle Patch are already included!**
 5. Ensure that ForceVsync is set to false in enblocal.ini
