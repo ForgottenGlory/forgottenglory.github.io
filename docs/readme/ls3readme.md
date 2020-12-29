@@ -12,8 +12,8 @@ permalink: /readme/ls3/
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .protip{background-color:#353535;border-style:dashed;border-color:#93bd20;color:#f0e7d5;text-align:left;vertical-align:top}
-.tg .important{background-color:#353535;border-style:dashed;border-color:#ffcb31;color:#ffcb31;text-align:left;vertical-align:top}
+.tg .protip{background-color:#353535;border-style:dashed;border-color:#93bd20;color:#f0e7d5;text-align:center;vertical-align:top}
+.tg .important{background-color:#353535;border-style:dashed;border-color:#ffcb31;color:#ffcb31;text-align:center;vertical-align:top}
 </style>
 
 ![](https://i.imgur.com/Vokoo6f.png)
@@ -231,7 +231,6 @@ If you wish to use ENB, follow these steps:
 
 * Download the latest ENB Binary from http://enbdev.com/download_mod_tesskyrimse.htm
 * Open the .zip file, go into the WrapperVersion folder, and copy ONLY d3d11.dll and d3dcompiler_46e.dll into your Skyrim SE installation folder. (Usually located at`[install drive]\Steam\steamapps\common\Skyrim Special Edition`)
-* Download your selected ENB preset.
 
 <table class="tg">
 <thead>
@@ -241,6 +240,7 @@ If you wish to use ENB, follow these steps:
 </thead>
 </table>
 
+* Download your selected ENB preset.
 * Follow any installation instructions included with your Preset. Every ENB has slight variations in their requirements, so make sure to follow the instructions included for that preset. 
 
 <table class="tg">
