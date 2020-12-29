@@ -226,8 +226,6 @@ Now, you must copy some files to your installation folder of Skyrim Special Edit
 </thead>
 </table>
 
-These files include SKSE and Engine Fixes Part 2, both of which are essential for the list to function correctly. Failure to copy these files will result in the list not working.
-
 ## Post-Wabbajack Install
 ### Mod Organizer 2
 Among other things, Wabbajack has installed a copy of Mod Organizer 2 for you. This copy of Mod Organizer 2 is specific to Living Skyrim and will not affect any other modlists you have installed.
