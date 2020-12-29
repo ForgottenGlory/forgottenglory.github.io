@@ -148,20 +148,20 @@ Next, you'll need a clean copy of Skyrim Special Edition. To get your copy to th
 2. If there are any files leftover in the Skyrim Special Edition game folder (Right-click > Properties… > Local Files > Browse Local Files…), delete them.
 3. Install Skyrim: Special Edition.
 
+<table class="tg">
+<thead>
+  <tr>
+    <th class="protip"><span style="font-weight:bold">Protip:</span> If you want to be absolutely certain you have uninstalled Skyrim completely, download and use <a href="https://www.nexusmods.com/skyrimspecialedition/mods/30133">Skyrim Shredder</a>.</th>
+  </tr>
+</thead>
+</table>
+
 Afterwards, you need to disable automatic updates for Skyrim to avoid a game update breaking your copy of the game and therefore the modlist.
 
 1. In Steam, set Skyrim: Special Edition to update only when opened. (Right-click > Properties… > Updates > Automatic updates > Only update this game when I launch it)
 2. In Steam, disable the Steam Overlay. (Right-click > Properties... > General > Enable the Steam Overlay while in-game checkbox)
    
 Finally, once the above steps are completed, launch Skyrim SE through Steam to create any INI or registry entries the game needs. Immediately exit the launcher once it has successfully selected a graphics preset for your hardware. The INIs it just created will be overwritten by the ones included in the modlist, but this is a necessary step for Wabbajack to recognize that you have the game installed.
-
-<table class="tg">
-<thead>
-  <tr>
-    <th class="protip"><span style="font-weight:bold">Protip:</span> If you want to be absolutely certain you have uninstalled Skyrim completely, download and use Skyrim Shredder.</th>
-  </tr>
-</thead>
-</table>
 
 ### Wabbajack Preparations
 A video version of the installation instructions from this point forward exists here: [Click Me!](https://youtu.be/sW7s5IhN7qs)  
