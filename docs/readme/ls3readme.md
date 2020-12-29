@@ -18,9 +18,29 @@ Current version: 3.0.0 Dev Build 1 (Pre-Alpha)
 ![build-status](https://img.shields.io/endpoint?label=List%20Status&style=for-the-badge&url=https://build.wabbajack.org/lists/status/living_skyrim/badge.json)
 
 ## Table of Contents
-|                                                                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                        |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Preface](#preface)<br>[Before You Get Started](#before-you-get-started)<br>[System Specifications](#system-specifications)<br>Important Links<br>Screenshots<br>Videos<br>Pre-Installation<br>Steam & SSE Setup<br>Wabbajack Preparations<br>Installing the List<br>With Nexus Premium<br>Without Nexus Premium<br>Game Folder Files<br>Post-Wabbajack Install<br>Mod Organizer 2<br>Configuration-Specific Setup | ENB<br>Updating Living Skyrim<br>Launching Living Skyrim<br>The MCM Settings<br>Getting Started in Living Skyrim<br>Important Mods You Need to Know About<br>Character Customization Mods<br>The Economy and Loot Mods<br>Bug Reporting, Github, and You<br>Common Issues<br>Wabbajack Issues<br>Gameplay Issues<br>Adding to Living Skyrim<br>Performance Optimizations<br>Other Common Questions<br>Credits & Thanks | 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"><a href="#preface"><span style="color:#905">[Preface](#preface)</span></a><br><a href="#before-you-get-started"><span style="color:#905">[Before You Get Started](#before-you-get-started)</span></a><br><a href="#system-specifications"><span style="color:#905">[System Specifications](#system-specifications)</span></a><br>Important Links<br>Screenshots<br>Videos<br>Pre-Installation<br>Steam &amp; SSE Setup<br>Wabbajack Preparations<br>Installing the List<br>With Nexus Premium<br>Without Nexus Premium<br>Game Folder Files<br>Post-Wabbajack Install<br>Mod Organizer 2<br>Configuration-Specific Setup<br></td>
+    <td class="tg-0pky">ENB<br>Updating Living Skyrim<br>Launching Living Skyrim<br>The MCM Settings<br>Getting Started in Living Skyrim<br>Important Mods You Need to Know About<br>Character Customization Mods<br>The Economy and Loot Mods<br>Bug Reporting, Github, and You<br>Common Issues<br>Wabbajack Issues<br>Gameplay Issues<br>Adding to Living Skyrim<br>Performance Optimizations<br>Other Common Questions<br>Credits &amp; Thanks</td>
+  </tr>
+</tbody>
+</table>
 
 ## Preface
 
