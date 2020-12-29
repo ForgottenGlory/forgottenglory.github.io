@@ -177,6 +177,14 @@ We'll now setup the folders needed for the installation to proceed smoothly.
 5. Download the latest version of Wabbajack from the Wabbajack website: [Wabbajack](https://www.wabbajack.org/#/).
 6. Place the Wabbajack.exe file you just downloaded into the folder you created earlier called Wabbajack.
 
+<table class="tg">
+<thead>
+  <tr>
+    <th class="warning"><b>WARNING:</b> Failure to set up these folders properly will result in the install failing.</th>
+  </tr>
+</thead>
+</table>
+
 ## Installing The List
 If you are updating your existing installation of Living Skyrim, skip to the [Updating Living Skyrim](#updating-living-skyrim) section of this document.
 
