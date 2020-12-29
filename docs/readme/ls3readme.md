@@ -310,6 +310,7 @@ To actually launch and then play Living Skyrim, follow these steps:
 </table>
 
 ### The MCM Settings
+The MCM settings for Living Skyrim 3 have all been set for you. You are still encouraged to look through them and tweak them to your liking, but changing MCM settings is not required. You can start the game and begin playing once all mods have initialized.
 
 ### Getting Started in Living Skyrim
 
