@@ -39,8 +39,8 @@ Current version: 3.0.0 Dev Build 1 (Pre-Alpha)
         <li><a href="https://forgottenglory.github.io/readme/ls3/#post-wabbajack-install">Post-Wabbajack Install</a></li>
         <li><a href="https://forgottenglory.github.io/readme/ls3/#mod-organizer-2">Mod Organizer 2</a></li>
         <li><a href="https://forgottenglory.github.io/readme/ls3/#configuration-specific">Configuration-Specific Setup</a></li>
-        <li>ENB</li>
-        <li>Updating Living Skyrim</li>
+        <li><a href="https://forgottenglory.github.io/readme/ls3/#enb">ENB</a></li>
+        <li><a href="https://forgottenglory.github.io/readme/ls3/#updating-living-skyrim">Updating Living Skyrim</a></li>
       </ul>
     </th>
     <th>
