@@ -172,7 +172,7 @@ We'll now setup the folders needed for the installation to proceed smoothly.
 
 1. Create two empty folders: one named Wabbajack and the other named Living Skyrim.
 2. Ensure that these two folders are not within any of the following folders: your Skyrim Special Edition install folder, your Program Files folder, or your Program Files (x86) folder. 
-3. Additionally, ensure that these two folders are not contained within each other. For example,`[install drive]\Wabbajack\Living Skyrim`is **incorrect**. Ideally, both the Wabbajack folder and Living Skyrim folder will be in the root of the drive you are installing the list to. Example:`[install drive]\Wabbajack`and`[install drive]\Living Skyrim`
+3. Additionally, ensure that these two folders are not contained within each other. Ideally, both the Wabbajack folder and Living Skyrim folder will be in the root of the drive you are installing the list to. Example:`[install drive]\Wabbajack`and`[install drive]\Living Skyrim`
 4. Ensure that both the Wabbajack and Living Skyrim folders are completely empty. If they are not empty, make them empty.
 5. Download the latest version of Wabbajack from the Wabbajack website: [Wabbajack](https://www.wabbajack.org/#/).
 6. Place the Wabbajack.exe file you just downloaded into the folder you created earlier called Wabbajack.
@@ -180,7 +180,7 @@ We'll now setup the folders needed for the installation to proceed smoothly.
 <table class="tg">
 <thead>
   <tr>
-    <th class="warning"><b>WARNING:</b> Failure to set up these folders properly will result in the install failing.</th>
+    <th class="warning"><b>WARNING:</b> Failure to set up these folders properly will result in the install failing. For example, [install drive]\Wabbajack\Living Skyrim is <b>incorrect</b>.</th>
   </tr>
 </thead>
 </table>
