@@ -19,7 +19,9 @@ Current version: 3.0.0 Dev Build 1 (Pre-Alpha)
 
 ## Preface
 
-## TOC
+## Table of Contents
+| [Preface](#preface)<br>[Before You Get Started](#before-you-get-started)<br>[System Specifications](#system-specifications)<br>Important Links<br>Screenshots<br>Videos<br>Pre-Installation<br>Steam & SSE Setup<br>Wabbajack Preparations<br>Installing the List<br>With Nexus Premium<br>Without Nexus Premium<br>Game Folder Files<br>Post-Wabbajack Install<br>Mod Organizer 2<br>Configuration-Specific Setup | ENB<br>Updating Living Skyrim<br>Launching Living Skyrim<br>The MCM Settings<br>Getting Started in Living Skyrim<br>Important Mods You Need to Know About<br>Character Customization Mods<br>The Economy and Loot Mods<br>Bug Reporting, Github, and You<br>Common Issues<br>Wabbajack Issues<br>Gameplay Issues<br>Adding to Living Skyrim<br>Performance Optimizations<br>Other Common Questions<br>Credits & Thanks |
+|-|-|
 
 ## Before You Get Started
 Before you get started installing or playing Living Skyrim, it's important to note a few things:
