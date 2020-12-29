@@ -229,9 +229,9 @@ The following ENB presets are known to look great when playing Living Skyrim: Am
 
 If you wish to use ENB, follow these steps:
 
-1. Download the latest ENB Binary from http://enbdev.com/download_mod_tesskyrimse.htm
-2. Open the .zip file, go into the WrapperVersion folder, and copy ONLY d3d11.dll and d3dcompiler_46e.dll into your Skyrim SE installation folder. (Usually located at`[install drive]\Steam\steamapps\common\Skyrim Special Edition`)
-3. Download your selected ENB preset.
+* Download the latest ENB Binary from http://enbdev.com/download_mod_tesskyrimse.htm
+* Open the .zip file, go into the WrapperVersion folder, and copy ONLY d3d11.dll and d3dcompiler_46e.dll into your Skyrim SE installation folder. (Usually located at`[install drive]\Steam\steamapps\common\Skyrim Special Edition`)
+* Download your selected ENB preset.
 
 <table class="tg">
 <thead>
@@ -241,7 +241,7 @@ If you wish to use ENB, follow these steps:
 </thead>
 </table>
 
-4. Follow any installation instructions included with your Preset. Every ENB has slight variations in their requirements, so make sure to follow the instructions included for that preset. 
+* Follow any installation instructions included with your Preset. Every ENB has slight variations in their requirements, so make sure to follow the instructions included for that preset. 
 
 <table class="tg">
 <thead>
@@ -251,7 +251,7 @@ If you wish to use ENB, follow these steps:
 </thead>
 </table>
 
-5. Ensure that ForceVsync is set to false in enblocal.ini
+* Ensure that ForceVsync is set to false in enblocal.ini
 
 ## Updating Living Skyrim
 If you are updating Living Skyrim, the process is very similar to installing the list. Before you update, you should at a minimum backup your save files. Updating may delete any saves that are present. Additionally, make sure you are using the latest version of Wabbajack (it should automatically update itself when you launch the program).
