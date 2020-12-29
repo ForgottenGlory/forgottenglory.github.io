@@ -51,8 +51,16 @@ Current version: 3.0.0 Dev Build 1 (Pre-Alpha)
       <ul style="list-style-type:none;">
         <li><a href="https://forgottenglory.github.io/readme/ls3/#important-mods-you-need-to-know-about">Important Mods You Need to Know About</a></li>
           <ul style="list-style-type:none;">
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#character-customization-mods">Character Customization Mods</a></li>
+            <li>The Population Mods</li>
+            <li>The Quest Mods</li>
+            <li>The Magic Mods</li>
+            <li>The Combat Mods</li>
+            <li>The Perks & Leveling Mods</li>
             <li><a href="https://forgottenglory.github.io/readme/ls3/#the-economy-and-loot-mods">The Economy and Loot Mods</a></li>
+            <li>The HUD Mods</li>
+            <li><a href="https://forgottenglory.github.io/readme/ls3/#character-customization-mods">Character Customization Mods</a></li>
+            <li>Player Homes</li>
+            <li>Nether's Follower Framework</li>
           </ul>
         <li><a href="https://forgottenglory.github.io/readme/ls3/#bug-reporting-github-and-you">Bug Reporting, Github, and You</a></li><br>
         <li><a href="https://forgottenglory.github.io/readme/ls3/#common-issues">Common Issues</a></li>
