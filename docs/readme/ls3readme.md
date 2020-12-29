@@ -13,6 +13,7 @@ permalink: /readme/ls3/
 .tg th{border-color:black;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .protip{background-color:#353535;border-style:dashed;border-color:#93bd20;color:#f0e7d5;text-align:left;vertical-align:top}
+.tg .important{background-color:#353535;border-style:dashed;border-color:#ffcb31;color:#ffcb31;text-align:left;vertical-align:top}
 </style>
 
 ![](https://i.imgur.com/Vokoo6f.png)
@@ -230,8 +231,26 @@ If you wish to use ENB, follow these steps:
 
 1. Download the latest ENB Binary from http://enbdev.com/download_mod_tesskyrimse.htm
 2. Open the .zip file, go into the WrapperVersion folder, and copy ONLY d3d11.dll and d3dcompiler_46e.dll into your Skyrim SE installation folder. (Usually located at`[install drive]\Steam\steamapps\common\Skyrim Special Edition`)
-3. Download your selected ENB preset. **Important!: Make sure it is compatible with Obsidian Weathers!**
-4. Follow any installation instructions included with your Preset. Every ENB has slight variations in their requirements, so make sure to follow the instructions included for that preset. **You should not need to download any additional files other than the preset. Things like ENB Helper and Particle Patch are already included!**
+3. Download your selected ENB preset.
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="important">Important!: Make sure your chosen ENB preset is compatible with Obsidian Weathers!</th>
+  </tr>
+</thead>
+</table>
+
+4. Follow any installation instructions included with your Preset. Every ENB has slight variations in their requirements, so make sure to follow the instructions included for that preset. 
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="important">Important!: You should not need to download any additional files other than the preset. Things like ENB Helper and Particle Patch are already included!</th>
+  </tr>
+</thead>
+</table>
+
 5. Ensure that ForceVsync is set to false in enblocal.ini
 
 ## Updating Living Skyrim
