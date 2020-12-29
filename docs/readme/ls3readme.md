@@ -158,7 +158,7 @@ Finally, once the above steps are completed, launch Skyrim SE through Steam to c
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-protip"><span style="font-weight:bold">Protip:</span> If you want to be absolutely certain you have uninstalled Skyrim completely, download and use Skyrim Shredder.</th>
+    <th class="protip"><span style="font-weight:bold">Protip:</span> If you want to be absolutely certain you have uninstalled Skyrim completely, download and use Skyrim Shredder.</th>
   </tr>
 </thead>
 </table>
