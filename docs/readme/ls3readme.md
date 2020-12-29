@@ -45,29 +45,31 @@ Current version: 3.0.0 Dev Build 1 (Pre-Alpha)
     </th>
     <th>
       <ul style="list-style-type:none;">
-        <li>Launching Living Skyrim</li>
-        <li>The MCM Settings</li>
-        <li>Getting Started in Living Skyrim</li>
-        <li>Important Mods You Need to Know About</li>
+        <li><a href="https://forgottenglory.github.io/readme/ls3/#launching-living-skyrim">Launching Living Skyrim</a></li>
+        <li><a href="https://forgottenglory.github.io/readme/ls3/#the-mcm-settings">The MCM Settings</a></li>
+        <li><a href="https://forgottenglory.github.io/readme/ls3/#getting-started-in-living-skyrim">Getting Started in Living Skyrim</a></li>
+        <li><a href="https://forgottenglory.github.io/readme/ls3/#important-mods-you-need-to-know-about">Important Mods You Need to Know About</a></li>
           <ul style="list-style-type:none;">
-            <li>Character Customization Mods</li>
-            <li>The Economy and Loot Mods</li>
+            <li><a href="https://forgottenglory.github.io/readme/ls3/#character-customization-mods">Character Customization Mods</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls3/#the-economy-and-loot-mods">The Economy and Loot Mods</a></li>
           </ul>
-        <li>Bug Reporting, Github, and You</li>
-        <li>Common Issues</li>
+        <li><a href="https://forgottenglory.github.io/readme/ls3/#bug-reporting-github-and-you">Bug Reporting, Github, and You</a></li>
+        <li><a href="https://forgottenglory.github.io/readme/ls3/#common-issues">Common Issues</a></li>
           <ul style="list-style-type:none;">
-            <li>Wabbajack Issues</li>
-            <li>Gameplay Issues</li>
+            <li><a href="https://forgottenglory.github.io/readme/ls3/#wabbajack-issues">Wabbajack Issues</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls3/#gameplay-issues">Gameplay Issues</a></li>
           </ul>
-        <li>Adding to Living Skyrim</li>
-        <li>Performance Optimizations</li>
-        <li>Other Common Questions</li>
-        <li>Credits &amp; Thanks</li>
+        <li><a href="https://forgottenglory.github.io/readme/ls3/#adding-to-living-skyrim">Adding to Living Skyrim</a></li>
+        <li><a href="https://forgottenglory.github.io/readme/ls3/#performance-optimizations">Performance Optimizations</a></li>
+        <li><a href="https://forgottenglory.github.io/readme/ls3/#other-common-questions">Other Common Questions</a></li>
+        <li><a href="https://forgottenglory.github.io/readme/ls3/#credits--thanks">Credits &amp; Thanks</a></li>
       </ul>
     </th>
   </tr>
 </thead>
 </table>
+
+[asdf](#credits--thanks)
 
 ## Preface
 
