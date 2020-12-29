@@ -31,8 +31,10 @@ Current version: 3.0.0 Dev Build 1 (Pre-Alpha)
             <li><a href="https://forgottenglory.github.io/readme/ls3/#videos">Videos</a></li>
           </ul>
         <li><a href="https://forgottenglory.github.io/readme/ls3/#pre-installation">Pre-Installation</a></li>
-        <li><a href="https://forgottenglory.github.io/readme/ls3/#steam--skyrim-special-edition-setup">Steam &amp; SSE Setup</a></li>
-        <li><a href="https://forgottenglory.github.io/readme/ls3/#wabbajack-preparations">Wabbajack Preparations</a></li><br>
+          <ul style="list-style-type:none;">
+            <li><a href="https://forgottenglory.github.io/readme/ls3/#steam--skyrim-special-edition-setup">Steam &amp; SSE Setup</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls3/#wabbajack-preparations">Wabbajack Preparations</a></li>
+          </ul>
         <li><a href="https://forgottenglory.github.io/readme/ls3/#installing-the-list">Installing the List</a></li>
           <ul style="list-style-type:none;">
             <li><a href="https://forgottenglory.github.io/readme/ls3/#game-folder-files">Game Folder Files</a></li>
@@ -365,7 +367,7 @@ I don't know, can you?
 
 ## Credits & Thanks
 - Living Skyrim created by ForgottenGlory
-- Living Skyrim 2 Dev Team:
+- Living Skyrim Dev Team:
   - Volk
   - MadQueen (Formerly Melisandre)
   - JaceVenture
