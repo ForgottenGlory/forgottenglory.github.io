@@ -316,15 +316,63 @@ The MCM settings for Living Skyrim 3 have all been set for you. You are still en
 
 ## Important Mods You Need to Know About
 
-### The Population Mods
+### The Population Mods (WIP)
+Living Skyrim includes a number of mods that increase the population of both creatures and characters in the world. The first and most important one is [Genesis](https://www.nexusmods.com/skyrimspecialedition/mods/23871), which replaced Populated Skyrim in Living Skyrim 2.0.0. This mod dynamically spawns more enemies in dungeons and optionally in overworld locations as well. It is configurable by MCM to tweak how many extra enemies you come across. Genesis will also affect how quickly enemies respawn in dungeons you've cleared. Don't be surprised to return to a dungeon just a few days later to see it is chock full of enemies again.
 
-### The Quest Mods
+Next is [OBIS](https://www.nexusmods.com/skyrimspecialedition/mods/4145), which adds a ton of mid to high-level bandits to the world. In general this covers most of the overworld locations, which is why the surface spawns setting for Genesis is recommended to be turned off.
 
-### The Magic Mods
+[Organic Factions](https://www.nexusmods.com/skyrimspecialedition/mods/10289) adds groups of enemies that dynamically expand, recruit, and find new leaders. They will spread to conquer new territory and if left unchecked can take over entire holds. Keep an eye on the notifications for this mod, as it will keep you up to date on who is in control of what regions. You can also stumble across battles between factions if their territories overlap.
+
+Also for your consideration: [Immersive World Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/18330), [Immersive Patrols](https://www.nexusmods.com/skyrimspecialedition/mods/718), and [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194). For creatures, you'll find [SkyTEST](https://www.nexusmods.com/skyrimspecialedition/mods/1104) and [Animallica](https://www.nexusmods.com/skyrimspecialedition/mods/20456).
+
+What does this mean? Well, to put it simply, there are *a lot* of NPCs to find and interact with now. Silent Moons Camp for example now has somewhere in the range of 30 enemies to fight. It is impossible to go more than 5 minutes without coming across an NPC of some kind be it bandits, a patrol, or an animal. Getting a follower or two (or five) is highly encouraged. You will have to revisit some dungeons once you are stronger or have more followers. The [Take Notes](https://www.nexusmods.com/skyrimspecialedition/mods/13570) mod is included to chronicle your adventure and also to help you remember what places you need to revisit.
+
+### The Quest Mods (WIP)
+Very few quests are untouched by Living Skyrim. Whether it's a location revamp like [Bleak Falls Barrow Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/33251), or a quest rewrite like [Finding Helgi and Laelette](https://www.nexusmods.com/skyrimspecialedition/mods/28973), it's unlikely you'll play most quests the same as you would in vanilla. This isn't even to mention all of the new quests added by Living Skyrim. See below for a complete list of quest-related changes and the new quests added by this list.
+
+|               Quest Changes              |         New Quests & Lands |
+|:----------------------------------------:|:--------------------------:|
+| Timing is Everything                     | Helgen Reborn              |
+| Not So Fast - Main Quest                 | Legacy of the Dragonborn   |
+| Not So Fast - Mage Guild                 | Vigilant SE                |
+| Opulent Thieves Guild                    | Moonpath to Elsweyr        |
+| The Brotherhood of Old                   | Carved Brink               |
+| All Thieves Guild Jobs Concurrently      | The Gray Cowl of Nocturnal |
+| Thieves Guild Requirements               | The Falkreath Hauntings    |
+| The Paarthurnax Dilemma                  | The Forgotten City         |
+| The Choice is Yours                      | Moon and Star              |
+| Boethiah for Good Guys                   | Wyrmstooth                 |
+| Better College Application               | Clockwork                  |
+| Namira for Good Guys                     | Darkend                    |
+| The Companions - Don't be a Milk Drinker | Project AHO                |
+| House of Horrors Divine Intervention     | Immersive World Encounters |
+| Finding Helgi and Laelette               | Missives                   |
+| Bounties are Worthwhile                  | Konahrik's Accoutrements   |
+| Even Better Quest Objectives             | Falskaar                   |
+| Thieves Guild for Good Guys              | Hammet's Dungeons & Vominheim |
+
+It would take a tome to cover every single mod here, but there are a few to be aware of in particular: [Not So Fast - Main Quest](https://www.nexusmods.com/skyrimspecialedition/mods/2475), [Not So Fast - Mage Guild](https://www.nexusmods.com/skyrimspecialedition/mods/5686), [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464), and [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802). The first two introduce breaks in the main storyline of Skyrim and the Mage's Guild questline, giving you time to go do other things while waiting for those to progress. You'll need these breaks as there's a significant difficulty spike between Bleak Falls Barrow and your first dragon fight as well as between the First Lessons quest and the expedition to Saarthal. Timing is Everything delays the DLCs (Dragonborn and Dawnguard, specifically) and various other quests until you are strong enough to take them on. 
+
+Legacy of the Dragonborn of course requires no introduction, but if you're somehow unaware, it adds a museum in Solitude that allows you to proudly display the various items you'll find in Skyrim. It has a home for almost every unique item (and many non-unique items) as well as introducing its own questline, a new guild you can be the leader of, and its own player home. While Legacy of the Dragonborn is not a focus of Living Skyrim, every applicable patch has been included as well as [LOTD Relic Notifications](https://www.nexusmods.com/skyrimspecialedition/mods/34604) so you can easily identify items that go in the museum and you can reasonably expect to have a home for any and all items you come across. If collecting and hoarding items is your thing, Legacy of the Dragonborn is for you.
+
+### The Magic Mods (WIP)
+[Sustained Magic](https://www.nexusmods.com/skyrimspecialedition/mods/15871) is another simple mod, with much larger gameplay consequences. Certain spells, such as Oakflesh, now last forever instead of having to recast them every 60-90 seconds. This does come at the cost of reducing your maximum available Magicka, so be careful how many spells you have sustained or you'll very quickly find yourself with near zero Magicka to use for offensive spells. To dispel the effects of a Sustained Magic spell (and therefore recoup your Magicka), either cast the spell again or cast the "Dispel Magic, Personal" spell.
+
+[Immersive Spell Learning](https://www.nexusmods.com/skyrimspecialedition/mods/33375) completely changes how your character learns new spells. Instead of "eating" the book and learning the spell, you now have to spend time studying notes about the spell to learn it over time. The amount of time it takes to learn new spells is completely configurable through this mod's MCM menu, so feel free to tweak it to your liking. This mod's inclusion is intended to help balance magic as the combination of magic mods included in Living Skyrim make magic *significantly* stronger.
+
+[Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/1090), [Forgotten Magic](https://www.nexusmods.com/skyrimspecialedition/mods/12711), [Thunderchild](https://www.nexusmods.com/skyrimspecialedition/mods/1460), [Summermyst](https://www.nexusmods.com/skyrimspecialedition/mods/6285), [iUnlock](https://www.nexusmods.com/skyrimspecialedition/mods/35438), and [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506) are all included to make magic as diverse as possible with a huge breadth of options. It's entirely possible to spend multiple playthroughs exploring all the magic-related playstyles. Wintersun covers the religious aspect of the game, Summermyst covers enchantments, and Thunderchild covers shouts. Apocalypse, Forgotten Magic, and iUnlock all add new spells.
+
+One final special mention: [Glory's Scaling Standing Stones](https://www.nexusmods.com/skyrimspecialedition/mods/35820). This is a custom mod hand-made by yours truly, ForgottenGlory. It is a lightweight overhaul of the standing stone effects and also makes them scale with you. If you are finding the game too difficult when starting out, I highly encourage you to seek out the standing stones. The Warrior, Thief, and Mage stones are particularly strong when starting out. Don't get used to having these bonuses though - they get weaker as you gain levels!
 
 ### The Combat Mods
+The core combat package of Living Skyrim is [Blade & Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549), The Ultimate Dodge Mod, and [VioLens](https://www.nexusmods.com/skyrimspecialedition/mods/668). Assuming a fair fight this generally means that combat will be fast-paced and somewhat deadly. You won't get one-shot unless you're fighting an enemy that is significantly higher level than you (10+ levels above your own).
+
+[Archery Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/24296) completely revamps the archery system in Skyrim. You'll find it now has much more realistic gameplay including arm fatigue, the ability to spread poisons across multiple arrows, stamina drain while the bowstring is pulled, and so on. This mod is highly configurable via its MCM menu, so feel free to tweak it to suit your playstyle.
+
+Also for your consideration: [SkyTEST](https://www.nexusmods.com/skyrimspecialedition/mods/1104), [Deadly Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/23723), and [Arena - An Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/19608). Enemies in general will be smarter and stronger across the board, and will dynamically update their levels to match or surpass you as appropriate.
 
 ### The Perks & Leveling Mods
+[Vokrii](https://www.nexusmods.com/skyrimspecialedition/mods/26176) is the perk overhaul of choice for Living Skyrim. It is a lightweight but still complete overhaul of the perk trees allowing for an incredibly diverse amount of character customization and specialization. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) is included to control the rate at which your skills and levels progress. By default, only clearing dungeons and completing quests will provide XP. The optional skills XP and kills XP modules can be turned on, but Living Skyrim isn't set up to use these by default so you may come across some oddities (enemies that don't grant XP when killed, for example).
 
 ### The Economy and Loot Mods
 There are two sides to the Skyrim economy: Loot, and trade. Loot is your primary source of income, and trade your primary source of expenditure. To address this, Living Skyrim seeks to overhaul both sides of this coin.
@@ -334,15 +382,25 @@ On the loot side, you'll find that chests and enemies are fairly abundant loot t
 Opposite the loot side, we have the economy side of things. Naturally, because of the increased amount of loot you'll find, the price of many items has been increased drastically. No longer will a set of steel armor cost just a couple hundred gold - instead, you'll find it costs well over 1000 gold, and higher level armors only get even more expensive. The same is true of just about everything you can purchase from a vendor. This is due to the combination of [Trade & Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081) and [Eve](https://www.nexusmods.com/skyrimspecialedition/mods/26325). Items will sell for less and cost more to buy across the board. This is necessary to make looting feel significant while also keeping some semblance of balance. In general it will be more difficult to obtain obscene amounts of gold, but it is still possible - that's just how Skyrim works without going completely overboard modifying the loot/economy. Also, for the more kleptomania-inclined among you, you'll find some helping hands in [Khajiits Steal Too](https://www.nexusmods.com/skyrimspecialedition/mods/18231).
 
 ### The HUD Mods
+Living Skyrim includes a completely different UI and HUD experience than what you're used to, probably even if you've played modded Skyrim before. [Less Intrusive HUD II](https://www.nexusmods.com/skyrimspecialedition/mods/17974) is 100% customizable through an in-game menu, allowing you to change the position, size, opacity, and anything else for any HUD element. [EZ2C Dialogue Menu](https://www.nexusmods.com/skyrimspecialedition/mods/2246) changes the dialogue menu to be easier to read and use and is also 100% configurable. See the mod description pages for EZ2C and Less Intrusive HUD II to see how to configure these to your liking. [Immersive HUD](https://www.nexusmods.com/skyrimspecialedition/mods/12440) keeps pesky HUD elements out of the way when you don't need to see them. Lastly, [Favorite Things](https://www.nexusmods.com/skyrimspecialedition/mods/27177) greatly expands the SkyUI Favorites menu to make it larger, easier to use, and more customizable. 
 
 ### Character Customization Mods
 When creating your character, you'll find there are a lot of options that are available to you. From hairs to tattoos to eyes and more, Living Skyrim has included a comprehensive suite of mods that allow you to tweak your character's appearance to exactly what you want. And, if you're struggling to figure out where to begin with character creation, a number of presets made by the Living Skyrim community have been included for you to pick from. In general, you'll have more options for *everything*.
 
 There is one particular mod you need to be aware of during character creation: [High Poly Head](https://vectorplexus.com/files/file/283-high-poly-head/). To have your character use High Poly Head, you'll need to change the head part using the RaceMenu slider of the same name to option 3. Note that if you do use High Poly Head, you may need to do some manual sculpting using the RaceMenu sculpt feature to remove any clipping issues with eyebrows or beards. 
 
-### Player Homes
+### Player Homes (WIP)
 
 ### Nether's Follower Framework
+[Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/18076) has too many features to list, but what you need to know is this: You can have multiple followers, you can configure just about anything about them, and you'll have a lot more flexibility with controlling your followers. You can also import followers added by mods to be able to use NFF's features on them. 
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="important"><b>Important!:</b> Do NOT import standalone followers (Inigo, Lucien, etc.) into Nether's Follower Framework. It will 100% break them. The notable exceptions to this are Auri, Sophia, and any of the Interesting NPCs followers.</th>
+  </tr>
+</thead>
+</table>
 
 ## Bug Reporting, Github, and You
 
