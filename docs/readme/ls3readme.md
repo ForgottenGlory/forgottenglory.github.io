@@ -11,7 +11,6 @@ permalink: /readme/ls3/
 ## This readme is a work in progress
 Links will be broken, entire sections are incomplete, and phrasing/ordering of the Readme still needs to be revised.
 
-
 Current version: 3.0.0 Dev Build 1 (Pre-Alpha)
 
 ![total-installs](https://img.shields.io/endpoint?label=Total%20Installs&style=for-the-badge&url=https://build.wabbajack.org/metrics/badge/living_skyrim/total_installs_badge.json)  
