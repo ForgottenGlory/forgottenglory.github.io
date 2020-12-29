@@ -296,10 +296,18 @@ To actually launch and then play Living Skyrim, follow these steps:
 1. Launch the copy of Mod Organizer 2 found inside your Living Skyrim folder.
 2. In the top-right corner of Mod Organizer, you'll see a large dropdown menu. Select SKSE [AKA LIVING SKYRIM] from this dropdown menu.
 3. This is how Living Skyrim should always be launched. You can create a shortcut to this selection on your desktop, if you wish, using the Shortcut button directly below the large Run button.
-4. Once Skyrim starts, create a new game. **Loading a save from another modlist or from before you installed Living Skyrim will corrupt that save, do not do this.**
+4. Once Skyrim starts, create a new game.
 5. Create your character and name them whatever you'd like.
 6. **As soon as you gain control of your character, do nothing.** The mods are initializing and this can take several minutes. You'll see a list of mods appearing in the top left corner of your screen.
 7. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="warning"><b>WARNING:</b> Loading a save from another modlist or from before you installed Living Skyrim will corrupt that save, do not do this.
+  </tr>
+</thead>
+</table>
 
 ### The MCM Settings
 
