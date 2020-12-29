@@ -51,16 +51,16 @@ Current version: 3.0.0 Dev Build 1 (Pre-Alpha)
       <ul style="list-style-type:none;">
         <li><a href="https://forgottenglory.github.io/readme/ls3/#important-mods-you-need-to-know-about">Important Mods You Need to Know About</a></li>
           <ul style="list-style-type:none;">
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#the-population-mods">The Population Mods</li>
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#the-quest-mods">The Quest Mods</li>
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#the-magic-mods">The Magic Mods</li>
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#the-combat-mods">The Combat Mods</li>
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#the-perks--leveling-mods">The Perks & Leveling Mods</li>
+            <li><a href="https://forgottenglory.github.io/readme/ls3/#the-population-mods">The Population Mods</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls3/#the-quest-mods">The Quest Mods</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls3/#the-magic-mods">The Magic Mods</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls3/#the-combat-mods">The Combat Mods</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls3/#the-perks--leveling-mods">The Perks & Leveling Mods</a></li>
             <li><a href="https://forgottenglory.github.io/readme/ls3/#the-economy-and-loot-mods">The Economy and Loot Mods</a></li>
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#the-hud-mods">The HUD Mods</li>
+            <li><a href="https://forgottenglory.github.io/readme/ls3/#the-hud-mods">The HUD Mods</a></li>
             <li><a href="https://forgottenglory.github.io/readme/ls3/#character-customization-mods">Character Customization Mods</a></li>
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#player-homes">Player Homes</li>
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#nethers-follower-framework">Nether's Follower Framework</li>
+            <li><a href="https://forgottenglory.github.io/readme/ls3/#player-homes">Player Homes</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls3/#nethers-follower-framework">Nether's Follower Framework</a></li>
           </ul>
         <li><a href="https://forgottenglory.github.io/readme/ls3/#bug-reporting-github-and-you">Bug Reporting, Github, and You</a></li><br>
         <li><a href="https://forgottenglory.github.io/readme/ls3/#common-issues">Common Issues</a></li>
