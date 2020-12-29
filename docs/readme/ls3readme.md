@@ -51,16 +51,16 @@ Current version: 3.0.0 Dev Build 1 (Pre-Alpha)
       <ul style="list-style-type:none;">
         <li><a href="https://forgottenglory.github.io/readme/ls3/#important-mods-you-need-to-know-about">Important Mods You Need to Know About</a></li>
           <ul style="list-style-type:none;">
-            <li>The Population Mods</li>
-            <li>The Quest Mods</li>
-            <li>The Magic Mods</li>
-            <li>The Combat Mods</li>
-            <li>The Perks & Leveling Mods</li>
+            <li><a href="https://forgottenglory.github.io/readme/ls3/#the-population-mods">The Population Mods</li>
+            <li><a href="https://forgottenglory.github.io/readme/ls3/#the-quest-mods">The Quest Mods</li>
+            <li><a href="https://forgottenglory.github.io/readme/ls3/#the-magic-mods">The Magic Mods</li>
+            <li><a href="https://forgottenglory.github.io/readme/ls3/#the-combat-mods">The Combat Mods</li>
+            <li><a href="https://forgottenglory.github.io/readme/ls3/#the-perks--leveling-mods">The Perks & Leveling Mods</li>
             <li><a href="https://forgottenglory.github.io/readme/ls3/#the-economy-and-loot-mods">The Economy and Loot Mods</a></li>
-            <li>The HUD Mods</li>
+            <li><a href="https://forgottenglory.github.io/readme/ls3/#the-hud-mods">The HUD Mods</li>
             <li><a href="https://forgottenglory.github.io/readme/ls3/#character-customization-mods">Character Customization Mods</a></li>
-            <li>Player Homes</li>
-            <li>Nether's Follower Framework</li>
+            <li><a href="https://forgottenglory.github.io/readme/ls3/#player-homes">Player Homes</li>
+            <li><a href="https://forgottenglory.github.io/readme/ls3/#nethers-follower-framework">Nether's Follower Framework</li>
           </ul>
         <li><a href="https://forgottenglory.github.io/readme/ls3/#bug-reporting-github-and-you">Bug Reporting, Github, and You</a></li><br>
         <li><a href="https://forgottenglory.github.io/readme/ls3/#common-issues">Common Issues</a></li>
@@ -248,10 +248,15 @@ To actually launch and then play Living Skyrim, follow these steps:
 
 ## Important Mods You Need to Know About
 
-### Character Customization Mods
-When creating your character, you'll find there are a lot of options that are available to you. From hairs to tattoos to eyes and more, Living Skyrim has included a comprehensive suite of mods that allow you to tweak your character's appearance to exactly what you want. And, if you're struggling to figure out where to begin with character creation, a number of presets made by the Living Skyrim community have been included for you to pick from. In general, you'll have more options for *everything*.
+### The Population Mods
 
-There is one particular mod you need to be aware of during character creation: [High Poly Head](https://vectorplexus.com/files/file/283-high-poly-head/). To have your character use High Poly Head, you'll need to change the head part using the RaceMenu slider of the same name to option 3. Note that if you do use High Poly Head, you may need to do some manual sculpting using the RaceMenu sculpt feature to remove any clipping issues with eyebrows or beards. 
+### The Quest Mods
+
+### The Magic Mods
+
+### The Combat Mods
+
+### The Perks & Leveling Mods
 
 ### The Economy and Loot Mods
 There are two sides to the Skyrim economy: Loot, and trade. Loot is your primary source of income, and trade your primary source of expenditure. To address this, Living Skyrim seeks to overhaul both sides of this coin.
@@ -259,6 +264,17 @@ There are two sides to the Skyrim economy: Loot, and trade. Loot is your primary
 On the loot side, you'll find that chests and enemies are fairly abundant loot thanks to [GOLD](https://www.nexusmods.com/skyrimspecialedition/mods/1796), [Dynamic Dungeon Loot](https://www.nexusmods.com/skyrimspecialedition/mods/10308), and [Lock Related Loot](https://www.nexusmods.com/skyrimspecialedition/mods/10308). In general, chests have been overhauled such that no two chests are ever the same and contain a fantastic assortment of things you can find. You may also find powerful items significantly earlier than normal due to Dynamic Dungeon Loot. Normally this would be cause for concern, but you will also find that the amount of just randomly placed objects in the world has been significantly decreased by [Iris](https://www.nexusmods.com/skyrimspecialedition/mods/41920). The removal of most of the items placed in the world shifts the focus of loot from picking up everything in a dungeon to seeking out and opening every chest you can find. Also, for good measure, you'll find a small quality of life improvement in [Lootable Woodpiles](https://www.nexusmods.com/skyrimspecialedition/mods/12238). 
 
 Opposite the loot side, we have the economy side of things. Naturally, because of the increased amount of loot you'll find, the price of many items has been increased drastically. No longer will a set of steel armor cost just a couple hundred gold - instead, you'll find it costs well over 1000 gold, and higher level armors only get even more expensive. The same is true of just about everything you can purchase from a vendor. This is due to the combination of [Trade & Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081) and [Eve](https://www.nexusmods.com/skyrimspecialedition/mods/26325). Items will sell for less and cost more to buy across the board. This is necessary to make looting feel significant while also keeping some semblance of balance. In general it will be more difficult to obtain obscene amounts of gold, but it is still possible - that's just how Skyrim works without going completely overboard modifying the loot/economy. Also, for the more kleptomania-inclined among you, you'll find some helping hands in [Khajiits Steal Too](https://www.nexusmods.com/skyrimspecialedition/mods/18231).
+
+### The HUD Mods
+
+### Character Customization Mods
+When creating your character, you'll find there are a lot of options that are available to you. From hairs to tattoos to eyes and more, Living Skyrim has included a comprehensive suite of mods that allow you to tweak your character's appearance to exactly what you want. And, if you're struggling to figure out where to begin with character creation, a number of presets made by the Living Skyrim community have been included for you to pick from. In general, you'll have more options for *everything*.
+
+There is one particular mod you need to be aware of during character creation: [High Poly Head](https://vectorplexus.com/files/file/283-high-poly-head/). To have your character use High Poly Head, you'll need to change the head part using the RaceMenu slider of the same name to option 3. Note that if you do use High Poly Head, you may need to do some manual sculpting using the RaceMenu sculpt feature to remove any clipping issues with eyebrows or beards. 
+
+### Player Homes
+
+### Nether's Follower Framework
 
 ## Bug Reporting, Github, and You
 
