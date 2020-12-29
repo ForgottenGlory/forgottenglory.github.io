@@ -22,21 +22,49 @@ Current version: 3.0.0 Dev Build 1 (Pre-Alpha)
 <thead>
   <tr>
     <th>
-      <a href="https://forgottenglory.github.io/readme/ls3/#preface">Preface</a><br>
-      <a href="https://forgottenglory.github.io/readme/ls3/#before-you-get-started">Before You Get Started</a><br>
-      <a href="https://forgottenglory.github.io/readme/ls3/#system-specifications">System Specifications</a><br>
-      <a href="https://forgottenglory.github.io/readme/ls3/#important-links">Important Links</a><br>
-      <a href="https://forgottenglory.github.io/readme/ls3/#screenshots">Screenshots</a><br>
-      <a href="https://forgottenglory.github.io/readme/ls3/#videos">Videos</a><br>
-      <a href="https://forgottenglory.github.io/readme/ls3/#pre-installation">Pre-Installation</a><br>
-      <a href="https://forgottenglory.github.io/readme/ls3/#steam--skyrim-special-edition-setup">Steam &amp; SSE Setup</a><br>
-      <a href="https://forgottenglory.github.io/readme/ls3/#wabbajack-preparations">Wabbajack Preparations</a><br>
-      <a href="https://forgottenglory.github.io/readme/ls3/#installing-the-list">Installing the List</a><br>
-      <a href="https://forgottenglory.github.io/readme/ls3/#game-folder-files">Game Folder Files</a><br>
-      <a href="https://forgottenglory.github.io/readme/ls3/#post-wabbajack-install">Post-Wabbajack Install</a><br>
-      <a href="https://forgottenglory.github.io/readme/ls3/#mod-organizer-2">Mod Organizer 2</a><br>
-      <a href="https://forgottenglory.github.io/readme/ls3/#configuration-specific">Configuration-Specific Setup</a><br></th>
-    <th>ENB<br>Updating Living Skyrim<br>Launching Living Skyrim<br>The MCM Settings<br>Getting Started in Living Skyrim<br>Important Mods You Need to Know About<br>Character Customization Mods<br>The Economy and Loot Mods<br>Bug Reporting, Github, and You<br>Common Issues<br>Wabbajack Issues<br>Gameplay Issues<br>Adding to Living Skyrim<br>Performance Optimizations<br>Other Common Questions<br>Credits &amp; Thanks</th>
+      <ul style="list-style-type:none;">
+        <li><a href="https://forgottenglory.github.io/readme/ls3/#preface">Preface</a></li>
+        <li><a href="https://forgottenglory.github.io/readme/ls3/#before-you-get-started">Before You Get Started</a></li>
+          <ul style="list-style-type:none;">
+            <li><a href="https://forgottenglory.github.io/readme/ls3/#system-specifications">System Specifications</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls3/#important-links">Important Links</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls3/#screenshots">Screenshots</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls3/#videos">Videos</a></li>
+          </ul>
+        <li><a href="https://forgottenglory.github.io/readme/ls3/#pre-installation">Pre-Installation</a></li>
+        <li><a href="https://forgottenglory.github.io/readme/ls3/#steam--skyrim-special-edition-setup">Steam &amp; SSE Setup</a></li>
+        <li><a href="https://forgottenglory.github.io/readme/ls3/#wabbajack-preparations">Wabbajack Preparations</a></li>
+        <li><a href="https://forgottenglory.github.io/readme/ls3/#installing-the-list">Installing the List</a></li>
+        <li><a href="https://forgottenglory.github.io/readme/ls3/#game-folder-files">Game Folder Files</a></li>
+        <li><a href="https://forgottenglory.github.io/readme/ls3/#post-wabbajack-install">Post-Wabbajack Install</a></li>
+        <li><a href="https://forgottenglory.github.io/readme/ls3/#mod-organizer-2">Mod Organizer 2</a></li>
+        <li><a href="https://forgottenglory.github.io/readme/ls3/#configuration-specific">Configuration-Specific Setup</a></li>
+        <li>ENB</li>
+      </ul>
+    </th>
+    <th>
+      <ul style="list-style-type:none;">
+        <li>Updating Living Skyrim</li>
+        <li>Launching Living Skyrim</li>
+        <li>The MCM Settings</li>
+        <li>Getting Started in Living Skyrim</li>
+        <li>Important Mods You Need to Know About</li>
+          <ul style="list-style-type:none;">
+            <li>Character Customization Mods</li>
+            <li>The Economy and Loot Mods</li>
+          </ul>
+        <li>Bug Reporting, Github, and You</li>
+        <li>Common Issues</li>
+          <ul style="list-style-type:none;">
+            <li>Wabbajack Issues</li>
+            <li>Gameplay Issues</li>
+          </ul>
+        <li>Adding to Living Skyrim</li>
+        <li>Performance Optimizations</li>
+        <li>Other Common Questions</li>
+        <li>Credits &amp; Thanks</li>
+      </ul>
+    </th>
   </tr>
 </thead>
 </table>
