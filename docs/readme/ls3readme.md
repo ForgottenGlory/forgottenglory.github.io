@@ -69,8 +69,6 @@ Current version: 3.0.0 Dev Build 1 (Pre-Alpha)
 </thead>
 </table>
 
-[asdf](#credits--thanks)
-
 ## Preface
 
 ## Before You Get Started
