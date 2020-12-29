@@ -48,13 +48,13 @@ Current version: 3.0.0 Dev Build 1 (Pre-Alpha)
         <li><a href="https://forgottenglory.github.io/readme/ls3/#updating-living-skyrim">Updating Living Skyrim</a></li>
         <li><a href="https://forgottenglory.github.io/readme/ls3/#launching-living-skyrim">Launching Living Skyrim</a></li>
         <li><a href="https://forgottenglory.github.io/readme/ls3/#the-mcm-settings">The MCM Settings</a></li>
-        <li><a href="https://forgottenglory.github.io/readme/ls3/#getting-started-in-living-skyrim">Getting Started in Living Skyrim</a></li>
+        <li><a href="https://forgottenglory.github.io/readme/ls3/#getting-started-in-living-skyrim">Getting Started in Living Skyrim</a></li><br>
         <li><a href="https://forgottenglory.github.io/readme/ls3/#important-mods-you-need-to-know-about">Important Mods You Need to Know About</a></li>
           <ul style="list-style-type:none;">
             <li><a href="https://forgottenglory.github.io/readme/ls3/#character-customization-mods">Character Customization Mods</a></li>
             <li><a href="https://forgottenglory.github.io/readme/ls3/#the-economy-and-loot-mods">The Economy and Loot Mods</a></li>
           </ul>
-        <li><a href="https://forgottenglory.github.io/readme/ls3/#bug-reporting-github-and-you">Bug Reporting, Github, and You</a></li>
+        <li><a href="https://forgottenglory.github.io/readme/ls3/#bug-reporting-github-and-you">Bug Reporting, Github, and You</a></li><br>
         <li><a href="https://forgottenglory.github.io/readme/ls3/#common-issues">Common Issues</a></li>
           <ul style="list-style-type:none;">
             <li><a href="https://forgottenglory.github.io/readme/ls3/#wabbajack-issues">Wabbajack Issues</a></li>
