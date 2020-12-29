@@ -172,7 +172,7 @@ We'll now setup the folders needed for the installation to proceed smoothly.
 
 1. Create two empty folders: one named Wabbajack and the other named Living Skyrim.
 2. Ensure that these two folders are not within any of the following folders: your Skyrim Special Edition install folder, your Program Files folder, or your Program Files (x86) folder. 
-3. Additionally, ensure that these two folders are not contained within each other. Ideally, both the Wabbajack folder and Living Skyrim folder will be in the root of the drive you are installing the list to. Example:`[install drive]\Wabbajack`and`[install drive]\Living Skyrim`
+3. Additionally, ensure that these two folders are not contained within each other. 
 4. Ensure that both the Wabbajack and Living Skyrim folders are completely empty. If they are not empty, make them empty.
 5. Download the latest version of Wabbajack from the Wabbajack website: [Wabbajack](https://www.wabbajack.org/#/).
 6. Place the Wabbajack.exe file you just downloaded into the folder you created earlier called Wabbajack.
@@ -202,10 +202,18 @@ It's now time to begin the installation of the list. Follow these steps:
 
 ### With Nexus Premium
 10. Wabbajack will ask you to login to Nexus and authorize your API key so it can download mods for you automatically. If this doesn't happen, it isn't a problem and means you've already set this up.
-11. Wabbajack will now download and install all of the mods. This will take a while (3-4 hours at most). Take this opportunity to read the [Important Mods You Need To Know About](#important-mods-you-need-to-know-about) section of this document. This isn't optional, you will have to read this section of the readme at some point, so now is a good time to do it.
+11. Wabbajack will now download and install all of the mods. This will take a while (3-4 hours at most). Take this opportunity to read the [Important Mods You Need To Know About](#important-mods-you-need-to-know-about) section of this document. 
 
 ### Without Nexus Premium
 10. Wabbajack will prompt you to click all the needed buttons to download the modlist. Be prepared for this to take an extraordinarily long time. Current reports indicate installing the list manually takes approximately 24 hours. Also be aware that due to the amount of time required when installing this list manually, the list may update during the time it takes to install and you may need to start over if that happens. Installing with Nexus Premium isn't required, but is strongly recommended if you value your time. If you must install the list manually, put on an audiobook or a TV show and make a day of it.
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="important"><b>Important!:</b> Reading the Important Mods section of this document is not optional. You won't have any idea what's going on if you don't.</th>
+  </tr>
+</thead>
+</table>
 
 Once complete, Wabbajack will indicate it is done with a green box that says "Installation complete". You may exit Wabbajack after this appears.
 
