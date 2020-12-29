@@ -12,7 +12,7 @@ permalink: /readme/ls3/
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .protip{background-color:#a87b32;border-style:dashed;border-color:#cd9934;color:#000000;text-align:left;vertical-align:top}
+.tg .protip{background-color:#8c8c8c;border-style:dashed;border-color:#ff7700;color:#000000;text-align:left;vertical-align:top}
 </style>
 
 ![](https://i.imgur.com/Vokoo6f.png)
