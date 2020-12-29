@@ -395,7 +395,7 @@ Technically yes, but also no. Movement Behavior Overhaul requires that the FPS o
 First, check to make sure you’ve followed the MCM instructions for XPMSE. This should fix any weirdness (sword on hip but being drawn from back, for example.). If you’ve just equipped a new weapon/shield, the animation to draw it may be weird for a few seconds but it will eventually fix itself. XPMSE and AllGUD need a few seconds to register the new weapon configuration and should fix themselves. This is not a bug, just be patient and the mods will figure it out eventually.
 
 #### "Can I use this list on an ultrawide monitor?"
-Yes, [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) is included by default. Just make sure to enable it
+Yes, [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) is included by default. Just make sure to enable it in the left pane of MO2.
 
 #### "Immersive Spell Learning still allows me to read the spell tome to learn spells instantly."
 Yes, this is a known issue and is somewhat intended. Legacy of the Dragonborn's museum counts spell tomes towards its display count, so rather than have players find/buy two copies of a spell tome (one to learn from and the other to store in the museum), I've opted to allow spell tomes to stay in your inventory. If you don't like having the temptation of "cheating" and don't mind having to hunt down a second copy of the book, you can always enable "Destroy Spell Tomes" in the Immersive Spell Learning MCM.
@@ -403,8 +403,8 @@ Yes, this is a known issue and is somewhat intended. Legacy of the Dragonborn's 
 #### "What the heck is going on with the dialogue menu?"
 It's being modified by [EZ2C Dialogue Menu](https://www.nexusmods.com/skyrimspecialedition/mods/2246/). Check that mod's page for details of how to configure it if it's not to your liking.
 
-### NeverNude?
-
+### Nudity?
+By default, Living Skyrim has every character be never nude. Underwear is worn by all NPCs and the player character and cannot be unequipped. Support is not provided for making the list Nude.
 
 ### Adding to Living Skyrim
 Many Skyrim modders ask the question: "Can I add mods to Living Skyrim?" (Or, "Can I remove mods from Living Skyrim?", or, "Can I change the mods included with Living Skyrim?")
