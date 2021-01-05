@@ -392,17 +392,38 @@ There is one particular mod you need to be aware of during character creation: [
 ### Player Homes
 Living Skyrim includes a fairly diverse selection of player homes that are suitable for a number of different character styles. See below for a complete listing.
 
-| Table 2 - Player Homes | |
-|-|-|
-| [Blackthorn](https://www.nexusmods.com/skyrimspecialedition/mods/2242)              | [Morskom Estate](https://www.nexusmods.com/skyrimspecialedition/mods/33408)         |
-| [The Scarlett](https://www.nexusmods.com/skyrimspecialedition/mods/2434)            | [Routa](https://www.nexusmods.com/skyrimspecialedition/mods/1193)                 |
-| [Riverside Shack](https://www.nexusmods.com/skyrimspecialedition/mods/20982)        | [The Raven's Breezehome](https://www.nexusmods.com/skyrimspecialedition/mods/20486) |
-| [Redspire Manor](https://www.nexusmods.com/skyrimspecialedition/mods/2460)          | [Mornfallow Manor](https://www.nexusmods.com/skyrimspecialedition/mods/411)       |
-| [Castle Volkihar Rebuilt](https://www.nexusmods.com/skyrimspecialedition/mods/324) | [JK's Riverfall Cottage](https://www.nexusmods.com/skyrimspecialedition/mods/34542) |
-| [Gleamblossom Hollow](https://www.nexusmods.com/skyrimspecialedition/mods/26277)     | [Zulfardin](https://www.nexusmods.com/skyrimspecialedition/mods/33889)              |
-| [Haafinheim](https://www.nexusmods.com/skyrimspecialedition/mods/9661)              | [Niflholm](https://www.nexusmods.com/skyrimspecialedition/mods/8681)               |
-| [Winking Skeever Loft](https://www.nexusmods.com/skyrimspecialedition/mods/41895)    | [Mona Alta](https://www.nexusmods.com/skyrimspecialedition/mods/9883)              |
-| [Windyridge](https://www.nexusmods.com/skyrimspecialedition/mods/8046)              | [Pinewood Manor](https://www.nexusmods.com/skyrimspecialedition/mods/6635)         |
+<table>
+<thead>
+  <tr>
+    <th>
+      <ul style="list-style-type:none;">
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/2242">Blackthorn</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/2434">The Scarlett</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/20982">Riverside Shack</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/2460">Redspire Manor</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/324">Castle Volkihar Rebuilt</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/26277">Gleamblossom Hollow</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/9661">Haafinheim</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/41895">Winking Skeever Loft</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/8046">Windyridge</a></li>
+      </ul>
+    </th>
+    <th>
+      <ul style="list-style-type:none;">
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/33408">Morskom Estate</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/1193">Routa</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/20486">The Raven's Breezehome</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/411">Mornfallow Manor</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/34542">JK's Riverfall Cottage</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/33889">Zulfardin</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/8681">Niflholm</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/9883">Mona Alta</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/6635">Pinewood Manor</a></li>
+      </ul>
+    </th>
+  </tr>
+</thead>
+</table>
 
 Additionally, several of the quest mods included with Living Skyrim have player homes associated with them. Namely, Legacy of the Dragonborn, Helgen Reborn, and Project AHO. Make sure to investigate all of your options!
 
