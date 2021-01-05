@@ -391,6 +391,7 @@ There is one particular mod you need to be aware of during character creation: [
 
 ### Player Homes
 Living Skyrim includes a fairly diverse selection of player homes that are suitable for a number of different character styles. See below for a complete listing.
+
 | Table 2 - Player Homes | |
 |-|-|
 | [Blackthorn](https://www.nexusmods.com/skyrimspecialedition/mods/2242)              | [Morskom Estate](https://www.nexusmods.com/skyrimspecialedition/mods/33408)         |
