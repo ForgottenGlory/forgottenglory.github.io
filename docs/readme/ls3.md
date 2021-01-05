@@ -406,27 +406,6 @@ Very few quests are untouched by Living Skyrim. Whether it's a location revamp l
 </tbody>
 </table>
 
-|               Quest Changes              |         New Quests & Lands |
-|:----------------------------------------:|:--------------------------:|
-| Timing is Everything                     | Helgen Reborn              |
-| Not So Fast - Main Quest                 | Legacy of the Dragonborn   |
-| Not So Fast - Mage Guild                 | Vigilant SE                |
-| Opulent Thieves Guild                    | Moonpath to Elsweyr        |
-| The Brotherhood of Old                   | Carved Brink               |
-| All Thieves Guild Jobs Concurrently      | The Gray Cowl of Nocturnal |
-| Thieves Guild Requirements               | The Falkreath Hauntings    |
-| The Paarthurnax Dilemma                  | The Forgotten City         |
-| The Choice is Yours                      | Moon and Star              |
-| Boethiah for Good Guys                   | Wyrmstooth                 |
-| Better College Application               | Clockwork                  |
-| Namira for Good Guys                     | Darkend                    |
-| The Companions - Don't be a Milk Drinker | Project AHO                |
-| House of Horrors Divine Intervention     | Immersive World Encounters |
-| Finding Helgi and Laelette               | Missives                   |
-| Bounties are Worthwhile                  | Konahrik's Accoutrements   |
-| Even Better Quest Objectives             | Falskaar                   |
-| Thieves Guild for Good Guys              | Hammet's Dungeons & Vominheim |
-
 It would take a tome to cover every single mod here, but there are a few to be aware of in particular: [Not So Fast - Main Quest](https://www.nexusmods.com/skyrimspecialedition/mods/2475), [Not So Fast - Mage Guild](https://www.nexusmods.com/skyrimspecialedition/mods/5686), [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464), and [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802). The first two introduce breaks in the main storyline of Skyrim and the Mage's Guild questline, giving you time to go do other things while waiting for those to progress. You'll need these breaks as there's a significant difficulty spike between Bleak Falls Barrow and your first dragon fight as well as between the First Lessons quest and the expedition to Saarthal. Timing is Everything delays the DLCs (Dragonborn and Dawnguard, specifically) and various other quests until you are strong enough to take them on. 
 
 Legacy of the Dragonborn of course requires no introduction, but if you're somehow unaware, it adds a museum in Solitude that allows you to proudly display the various items you'll find in Skyrim. It has a home for almost every unique item (and many non-unique items) as well as introducing its own questline, a new guild you can be the leader of, and its own player home. While Legacy of the Dragonborn is not a focus of Living Skyrim, every applicable patch has been included as well as [The Curator's Companion](https://www.nexusmods.com/skyrimspecialedition/mods/38529) so you can easily identify items that go in the museum and you can reasonably expect to have a home for any and all items you come across. If collecting and hoarding items is your thing, Legacy of the Dragonborn is for you.
