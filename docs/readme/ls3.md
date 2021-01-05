@@ -330,17 +330,26 @@ What does this mean? Well, to put it simply, there are *a lot* of NPCs to find a
 ### The Quest Mods (WIP)
 Very few quests are untouched by Living Skyrim. Whether it's a location revamp like [Bleak Falls Barrow Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/33251), or a quest rewrite like [Finding Helgi and Laelette](https://www.nexusmods.com/skyrimspecialedition/mods/28973), it's unlikely you'll play most quests the same as you would in vanilla. This isn't even to mention all of the new quests added by Living Skyrim. See below for a complete list of quest-related changes and the new quests added by this list.
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:none;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:bottom;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
 <thead>
   <tr>
-    <th>Quest Changes</th>
-    <th>New Quests</th>
-    <th>New Lands</th>
+    <th class="tg-c3ow"><b>Quest Changes</b></th>
+    <th class="tg-c3ow"><b>New Quests</b></th>
+    <th class="tg-c3ow"><b>New Lands</b></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>
+    <td class="tg-0pky">
       <ul style="list-style-type:none;">
         <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/25464">Timing is Everything</a></li>
         <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/2475">Not So Fast - Main Quest</a></li>
@@ -363,7 +372,7 @@ Very few quests are untouched by Living Skyrim. Whether it's a location revamp l
         <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/11076">Open Civil War</a></li>
       </ul>
     </td>
-    <td>
+    <td class="tg-0pky">
       <ul style="list-style-type:none;">
         <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/11849">Vigilant</a></li>
         <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/2303">Become a Bard</a></li>
@@ -383,7 +392,7 @@ Very few quests are untouched by Living Skyrim. Whether it's a location revamp l
         <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/11802">Legacy of the Dragonborn</a></li>
       </ul>
     </td>
-    <td>
+    <td class="tg-0pky">
       <ul style="list-style-type:none;">
         <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/2057">Falskaar</a></li>
         <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/12186">Hammet's Dungeons</a></li>
