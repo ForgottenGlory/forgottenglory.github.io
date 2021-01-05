@@ -389,7 +389,22 @@ When creating your character, you'll find there are a lot of options that are av
 
 There is one particular mod you need to be aware of during character creation: [High Poly Head](https://vectorplexus.com/files/file/283-high-poly-head/). To have your character use High Poly Head, you'll need to change the head part using the RaceMenu slider of the same name to option 3. Note that if you do use High Poly Head, you may need to do some manual sculpting using the RaceMenu sculpt feature to remove any clipping issues with eyebrows or beards. 
 
-### Player Homes (WIP)
+### Player Homes
+Living Skyrim includes a fairly diverse selection of player homes that are suitable for a number of different character styles. See below for a complete listing.
+
+| | |
+|-|-|
+| [Blackthorn](https://www.nexusmods.com/skyrimspecialedition/mods/2242)              | [Morskom Estate](https://www.nexusmods.com/skyrimspecialedition/mods/33408)         |
+| [The Scarlett](https://www.nexusmods.com/skyrimspecialedition/mods/2434)            | [Routa](https://www.nexusmods.com/skyrimspecialedition/mods/1193)                 |
+| [Riverside Shack](https://www.nexusmods.com/skyrimspecialedition/mods/20982)        | [The Raven's Breezehome](https://www.nexusmods.com/skyrimspecialedition/mods/20486) |
+| [Redspire Manor](https://www.nexusmods.com/skyrimspecialedition/mods/2460)          | [Mornfallow Manor](https://www.nexusmods.com/skyrimspecialedition/mods/411)       |
+| [Castle Volkihar Rebuilt](https://www.nexusmods.com/skyrimspecialedition/mods/324) | [JK's Riverfall Cottage](https://www.nexusmods.com/skyrimspecialedition/mods/34542) |
+| [Gleamblossom Hollow](https://www.nexusmods.com/skyrimspecialedition/mods/26277)     | [Zulfardin](https://www.nexusmods.com/skyrimspecialedition/mods/33889)              |
+| [Haafinheim](https://www.nexusmods.com/skyrimspecialedition/mods/9661)              | [Niflholm](https://www.nexusmods.com/skyrimspecialedition/mods/8681)               |
+| [Winking Skeever Loft](https://www.nexusmods.com/skyrimspecialedition/mods/41895)    | [Mona Alta](https://www.nexusmods.com/skyrimspecialedition/mods/9883)              |
+| [Windyridge](https://www.nexusmods.com/skyrimspecialedition/mods/8046)              | [Pinewood Manor](https://www.nexusmods.com/skyrimspecialedition/mods/6635)         |
+
+Additionally, several of the quest mods included with Living Skyrim have player homes associated with them. Namely, Legacy of the Dragonborn, Helgen Reborn, and Project AHO. Make sure to investigate all of your options!
 
 ### Nether's Follower Framework
 [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/18076) has too many features to list, but what you need to know is this: You can have multiple followers, you can configure just about anything about them, and you'll have a lot more flexibility with controlling your followers. You can also import followers added by mods to be able to use NFF's features on them. 
