@@ -330,6 +330,73 @@ What does this mean? Well, to put it simply, there are *a lot* of NPCs to find a
 ### The Quest Mods (WIP)
 Very few quests are untouched by Living Skyrim. Whether it's a location revamp like [Bleak Falls Barrow Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/33251), or a quest rewrite like [Finding Helgi and Laelette](https://www.nexusmods.com/skyrimspecialedition/mods/28973), it's unlikely you'll play most quests the same as you would in vanilla. This isn't even to mention all of the new quests added by Living Skyrim. See below for a complete list of quest-related changes and the new quests added by this list.
 
+<table>
+<thead>
+  <tr>
+    <th>Quest Changes</th>
+    <th>New Quests</th>
+    <th>New Lands</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+      <ul style="list-style-type:none;">
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/25464">Timing is Everything</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/2475">Not So Fast - Main Quest</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/5686">Not So Fast - Mage Guild</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/931">Opulent Thieves Guild</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/19490">The Companions - Don't be a Milk Drinker</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/28973">Finding Helgi and Laelette</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/32512">Finding Susanna Alive</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/336">Namira for Good Guys</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/23047">House of Horrors Divine Intervention</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/159">Even Better Quest Objectives</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/33256">Thieves Guild Requirements</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/14883">All Thieves Guild Jobs Concurrently</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/365">The Paarthurnax Dilemma</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/3850">The Choice is Yours</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/329">Boethiah for Good Guys</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/5272">Better College Application</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/33594">Bounties Are Worthwhile</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/34681">Save the Icerunner</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/11076">Open Civil War</a></li>
+      </ul>
+    </td>
+    <td>
+      <ul style="list-style-type:none;">
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/11849">Vigilant</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/2303">Become a Bard</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/5673">Helgen Reborn</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/24351">Carved Brink</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/20733">The Falkreath Hauntings</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/1179">The Forgotten City</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/4301">Moon and Star</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/4155">Clockwork</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/15996">Project AHO</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/22206">Konahrik's Accoutrements</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/15264">Artifacts - The Tournament of the Ten Bloods</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/748">The Wheels of Lull</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/14168">The Tools of Kagrenac</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/22513">Faction - Pit Fighter</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/36707">The Tale of Tsatampra Xiros</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/11802">Legacy of the Dragonborn</a></li>
+      </ul>
+    </td>
+    <td>
+      <ul style="list-style-type:none;">
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/2057">Falskaar</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/12186">Hammet's Dungeons</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/31472">Vominheim</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/19492">Wyrmstooth</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/4509">The Gray Cowl of Nocturnal</a></li>
+        <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/4341">Moonpath to Elsweyr</a></li>
+      </ul>
+    </td>
+  </tr>
+</tbody>
+</table>
+
 |               Quest Changes              |         New Quests & Lands |
 |:----------------------------------------:|:--------------------------:|
 | Timing is Everything                     | Helgen Reborn              |
