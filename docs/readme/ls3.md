@@ -153,7 +153,7 @@ Next, you'll need a clean copy of Skyrim Special Edition. To get your copy to th
 <table class="tg">
 <thead>
   <tr>
-    <th class="protip"><span style="font-weight:bold">Protip:</span> If you want to be absolutely certain you have uninstalled Skyrim completely, download and use <a href="https://www.nexusmods.com/skyrimspecialedition/mods/30133">Skyrim Shredder</a>.</th>
+    <th class="protip"><b>Protip:</b> If you want to be absolutely certain you have uninstalled Skyrim completely, download and use <a href="https://www.nexusmods.com/skyrimspecialedition/mods/30133">Skyrim Shredder</a>.</th>
   </tr>
 </thead>
 </table>

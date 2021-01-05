@@ -5,6 +5,18 @@
 layout: atelier_readme
 permalink: /readme/atelier/
 ---
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .protip{background-color:#353535;border-style:dashed;border-color:#93bd20;color:#f0e7d5;text-align:center;vertical-align:top}
+.tg .important{background-color:#353535;border-style:dashed;border-color:#ffcb31;color:#ffcb31;text-align:center;vertical-align:top}
+.tg .warning{background-color:#353535;border-style:dashed;border-color:#c6271b;color:#c6271b;text-align:center;vertical-align:top}
+</style>
+
 ![Atelier Logo](https://i.imgur.com/8NqqiFi.png)
 
 Current version: 1.0.0.1 (Beta 1) 12/6/2020
@@ -58,7 +70,13 @@ Wabbajack no longer requires that you have Nexus Premium to install the modlist,
 
 The modlist requires ~174GB (46.7GB Downloads/128GB Mods) of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing onto an SSD/NVMe is not required, but **strongly recommended**. Download and installation times vary based on your computer and internet speeds but expect the entire process to take a few of hours.
 
-**NSFW Warning:** This modlist contains explicit sexual content and nude character models. Proceed at your own discretion.
+<table class="tg">
+<thead>
+  <tr>
+    <th class="warning"><b>WARNING:</b> This modlist contains explicit sexual content and nude character models. Proceed at your own discretion.</th>
+  </tr>
+</thead>
+</table>
 
 ### System Specifications
 Atelier is somewhat graphically intensive, but with how lightweight the rest of the list is, it performs very well. As a result, the following hardware can run the list at a consistent 60+ FPS with ENB. Use it to gauge how your system might run the list.
@@ -87,6 +105,14 @@ As with any modlist, it is strongly recommended that you start with a clean, unm
 2. If there are any files leftover in the Skyrim Special Edition game folder (Right-click > Properties… > Local Files > Browse Local Files…), delete them.
 3. Install Skyrim: Special Edition.
 
+<table class="tg">
+<thead>
+  <tr>
+    <th class="protip"><b>Protip:</b> If you want to be absolutely certain you have uninstalled Skyrim completely, download and use <a href="https://www.nexusmods.com/skyrimspecialedition/mods/30133">Skyrim Shredder</a>.</th>
+  </tr>
+</thead>
+</table>
+
 ### Steam Setup
 1. In Steam, set Skyrim: Special Edition to update only when opened. (Right-click > Properties… > Updates > Automatic updates > Only update this game when I launch it)
 2. In Steam, disable the Steam Overlay. (Right-click > Properties... > General > Enable the Steam Overlay while in-game checkbox)
@@ -96,11 +122,19 @@ Launch Skyrim SE to create any INI or registry entries the game needs. Immediate
 
 ### Wabbajack Preparations
 1. Download the latest version of [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases). Do not run anything until instructed to do so. Make sure you are using the latest version of Wabbajack or else Wabbajack will report a corrupted modlist.
-2. Create a new folder in the root of the drive where you want Wabbajack to be installed. Name this folder “Wabbajack”. **Important!:** Wabbajack must be placed in a separate folder from where the installation will occur. 
+2. Create a new folder in the root of the drive where you want Wabbajack to be installed. Name this folder `Wabbajack`.
 3. Create a second folder called `[Install Drive]\Atelier`. This folder is where the modlist will be installed.
 4. Double check that you have *not* placed any of these folders in your Skyrim: Special Edition installation directory.
 5.  Ensure that `[Install Drive]\Atelier` is **completely empty.**
 6.  Ensure that Wabbajack.exe is in `[Install Drive]\Wabbajack`.
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="warning"><b>WARNING:</b> Failure to set up these folders properly will result in the install failing. For example, [install drive]\Wabbajack\Atelier is <b>incorrect</b>.</th>
+  </tr>
+</thead>
+</table>
 
 ## Wabbajack Installation
 If you are updating your existing installation of Atelier, skip to [Updating Atelier](#updating-dungeons--deviousness).
@@ -126,6 +160,14 @@ If Wabbajack fails to download a particular mod, it means that the mod has likel
 ### Game Folder Files
 Now you have to copy some files to their correct locations. Navigate to `[Install Drive]\Atelier\Game Folder Files`. Copy all of the files inside the Game Folder Files folder into `[Steam Install Location]\steamapps\common\Skyrim Special Edition\` and Overwrite if prompted. This folder contains SKSE and Engine Fixes part 2, which are required to use Atelier and must be placed into your Skyrim's installation folder for the list to function.
 
+<table class="tg">
+<thead>
+  <tr>
+    <th class="warning"><b>WARNING:</b> These files include SKSE and Engine Fixes Part 2, both of which are essential for the list to function correctly. Failure to copy these files will result in the list not working.</th>
+  </tr>
+</thead>
+</table>
+
 ### Mod Organizer 2
 1. Navigate to `[Install Drive]\Atelier` and open ModOrganizer.exe. Your Mod Organizer window will have a dark theme already selected. If it doesn’t, something has gone wrong and you’ll likely need to do the Wabbajack installation again.
 2. A dialogue will appear and ask if you want to associate Mod Organizer with nxm links. Click **Yes.**
@@ -138,12 +180,31 @@ ENB is not required to run Atelier, but it is intended to be used with it. You m
 
 In general, any ENB that is compatible with Obsidian Weathers will work with Atelier. My preferred ENBs are Rudy's, Amon Reborn, Silent Horizons, and Re-Engaged if you want some recommendations.
 
-In general, the process to install an ENB preset is:
+If you wish to use ENB, follow these steps:
 
-1. Download the latest ENB Binary from http://enbdev.com/download_mod_tesskyrimse.htm
-2. Open the .zip file, go into the WrapperVersion folder, and copy ONLY d3d11.dll and d3dcompiler_46e.dll into your Skyrim SE installation folder. (Usually located at `[Install Drive]\Steam\steamapps\common\Skyrim Special Edition`)
-3. Download your selected ENB preset. **Important!: Make sure it is compatible with Obsidian Weathers!**
-4. Follow any installation instructions included with your Preset. Every ENB has slight variations in their requirements, so make sure to follow the instructions included for that preset. **You should not need to download any additional files other than the preset. Things like ENB Helper and Particle Patch are already included!**
+* Download the latest ENB Binary from http://enbdev.com/download_mod_tesskyrimse.htm
+* Open the .zip file, go into the WrapperVersion folder, and copy ONLY d3d11.dll and d3dcompiler_46e.dll into your Skyrim SE installation folder. (Usually located at`[install drive]\Steam\steamapps\common\Skyrim Special Edition`)
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="important"><b>Important!:</b> Make sure your chosen ENB preset is compatible with Obsidian Weathers!</th>
+  </tr>
+</thead>
+</table>
+
+* Download your selected ENB preset.
+* Follow any installation instructions included with your Preset. Every ENB has slight variations in their requirements, so make sure to follow the instructions included for that preset. 
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="important"><b>Important!:</b> You should not need to download any additional files other than the preset. Things like ENB Helper and Particle Patch are already included!</th>
+  </tr>
+</thead>
+</table>
+
+* Ensure that ForceVsync is set to false in enblocal.ini
 
 ## Updating Atelier
 If you are updating Atelier, the process is very simple. Before you update, you should at a minimum backup your saves. Updating may delete any saves that are present. Make sure you are using the latest version of Wabbajack or else Wabbajack will report a corrupted modlist.
@@ -180,10 +241,18 @@ If you have a preset (Bodyslide or RaceMenu, doesn't matter) that *you made* and
 The hard part is now over. Carry on, the end is in sight!
 
 1. In Mod Organizer 2, select SKSE from the drop-down menu next to the Run button and click Run. This is how Atelier should always be launched. You can create a shortcut on your desktop if you wish using the Shortcut button under the Run button.
-2. Once Skyrim starts, create a new game. **Loading an old save at this point will corrupt that save, do not do this.** 
+2. Once Skyrim starts, create a new game. 
 3. Create your character (make sure your character is female or else the list won't work right) and name them whatever you’d like.
 4. **As soon as you gain control of your character, do nothing.** The mods are loading and this can take several minutes. You’ll see a list of mods initializing in the top left of the screen.
 5. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="warning"><b>WARNING:</b> Loading a save from another modlist or from before you installed Atelier will corrupt that save, do not do this.</th>
+  </tr>
+</thead>
+</table>
 
 ### The MCM Settings
 1. Consult the [Atelier MCM Configuration](https://forgottenglory.github.io/mcms/atelier/) document and follow all listed steps. This step is required if you want the list to work properly.
