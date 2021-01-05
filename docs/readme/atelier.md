@@ -266,7 +266,13 @@ If you want some tips on how to take better screenshots, consult this link: [Cli
 ## Adding to Atelier
 The only support provided for adding mods to Atelier is for adding additional Skyrim SE outfits using the CBBE or 3BBB bodies. Adding any other mods is not supported in any way, shape or form.
 
-**Before you add anything to Atelier, you should be familiar with the following things: Installing mods using Mod Organizer; running BodySlide; using xEdit. If you don't have all three of these skills, you need to learn how to do them. No support will be provided for learning these skills.**
+<table class="tg">
+<thead>
+  <tr>
+    <th class="warning"><b>WARNING:</b> Before you add anything to Atelier, you should be familiar with the following things: Installing mods using Mod Organizer; running BodySlide; using xEdit. If you don't have all three of these skills, you need to learn how to do them. No support will be provided for learning these skills.</th>
+  </tr>
+</thead>
+</table>
 
 To add an outfit to Atelier, follow these steps:
 
