@@ -4,11 +4,11 @@
 This list is subject to change at any point.
 
 ## Timeline
-This timeline is current as of 11/6/2020 and is subject to revision or delay as needed.
+This timeline is current as of 1/5/2020 and is subject to revision or delay as needed.
 
 12/1/2020: Pre-alpha complete, patching and actual work begins.  
-1/2/2021: Alpha complete, first Beta available.  
-2/15/2021: Beta complete, public release.  
+2/1/2021: Alpha complete, first Beta available.  
+2/28/2021: Beta complete, public release.  
 
 ## Guaranteed
 ### Stability Above All
