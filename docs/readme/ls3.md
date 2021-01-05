@@ -294,7 +294,7 @@ If you are updating Living Skyrim, the process is very similar to installing the
 To actually launch and then play Living Skyrim, follow these steps:
 
 1. Launch the copy of Mod Organizer 2 found inside your Living Skyrim folder.
-2. In the top-right corner of Mod Organizer, you'll see a large dropdown menu. Select SKSE [AKA LIVING SKYRIM] from this dropdown menu.
+2. In the top-right corner of Mod Organizer, you'll see a large dropdown menu. Select SKSE [AKA Living Skyrim] from this dropdown menu.
 3. This is how Living Skyrim should always be launched. You can create a shortcut to this selection on your desktop, if you wish, using the Shortcut button directly below the large Run button.
 4. Once Skyrim starts, create a new game.
 5. Create your character and name them whatever you'd like.
