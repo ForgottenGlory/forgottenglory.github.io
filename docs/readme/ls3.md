@@ -113,7 +113,7 @@ Before you get started installing or playing Living Skyrim, it's important to no
 ### System Specifications
 Living Skyrim v3.0.0 has been cut back severely from the performance hog it was in v2.0.0 and on. Textures range from 512x512 to 4K and everything in between. The following system is ForgottenGlory's personal computer and is able to run the list at a constant 60FPS including ENB at 1440p monitor resolution.
 
-- CPU: Intel i5-8600K Overclocked to 4.2GHz 
+- CPU: AMD Ryzen 9 3900X @ 4.2GHz  
 - RAM: 16GB DDR4 (16299MB actual)
 - GPU: nVidia RTX 2080 Super 8GB (8192MB actual)
 - Monitor: Dell S2716DGR 2560x1440 @ 144hz

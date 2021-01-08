@@ -96,10 +96,11 @@ I'll say it again just in case: Adding to, removing from, or changing the list i
 ### System Specifications
 Dungeons & Deviousness is not the most intense modlist by design - high-end graphics plus all of the scripts running is a recipe for disaster. As a result, the following hardware can run the list at a consistent 60+ FPS with ENB. Use it to gauge how your system might run the list.
 
-- CPU: Intel i5-8600K Overclocked to 4.2GHz 
+- CPU: AMD Ryzen 9 3900X @ 4.2GHz  
 - RAM: 16GB DDR4 (16299MB actual)
 - GPU: nVidia RTX 2080 Super 8GB (8192MB actual)
 - Monitor: Dell S2716DGR 2560x1440 @ 144hz
+- Storage: Sabrent Rocket 2TB M.2 NVMe 2280
 
 Skyrim is very heavy on processors. Generally, anything above 3GHz should be fine but I can’t guarantee it. 6GB or 8GB of VRAM should be plenty, with 4GB of VRAM probably capable of 60FPS without ENB.
 

@@ -118,7 +118,7 @@ Support is **not** provided for adding to, removing from, or changing the list i
 ### System Specifications
 Living Skyrim v2.0.0 is brutal on computers. Almost every texture is 4K and the ENB you choose can cause *drastic* impacts on your performance. The following is the computer Living Skyrim was compiled and tested on and it averaged 50-60FPS in exteriors and 60FPS in interiors with ENB enabled. Without ENB, it averaged over 60FPS everywhere.
 
-- CPU: Intel i5-8600K Overclocked to 4.2GHz 
+- CPU: AMD Ryzen 9 3900X @ 4.2GHz  
 - RAM: 16GB DDR4 (16299MB actual)
 - GPU: nVidia RTX 2080 Super 8GB (8192MB actual)
 - Monitor: Dell S2716DGR 2560x1440 @ 144hz

@@ -26,11 +26,11 @@ I will do my best to provide support for adding mods to this list, but I make no
 ## SYSTEM SPECIFICATIONS
 Let's be real. Morrowind could run on a toaster at this point. However, there are a few options selected that may make particularly old/slow hardware struggle. Below are my system specifications. I have zero issues with stutter, loading times, or anything else.
 
-* CPU: Intel i5-8600K Overclocked to 4.2GHz
-* Hard Drive: Sabrent Rocket 2TB NVMe M.2
-* RAM: 16GB (16299MB actual)
-* GPU: nVidia GTX 2080 Super 8GB (8192MB actual)
-* Monitor: Dell S2716DGR 2560x1440 @ 144hz
+- CPU: AMD Ryzen 9 3900X @ 4.2GHz  
+- RAM: 16GB DDR4 (16299MB actual)
+- GPU: nVidia RTX 2080 Super 8GB (8192MB actual)
+- Monitor: Dell S2716DGR 2560x1440 @ 144hz
+- Storage: Sabrent Rocket 2TB M.2 NVMe 2280
 
 In general, I would recommend at least 4GB of VRAM and 8GB of RAM just to be on the safe side.
 
