@@ -6,6 +6,8 @@ layout: default
 permalink: /changelogs/moise/
 ---
 
+# MOISE Changelog
+
 ### 4/29/2020 Initial Release 1.0.0
 
 ### 5/7/2020 1.0.1
