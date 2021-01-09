@@ -6,6 +6,17 @@ layout: DND_readme
 permalink: /readme/dnd/
 ---
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .protip{background-color:#353535;border-style:dashed;border-color:#93bd20;color:#f0e7d5;text-align:center;vertical-align:top}
+.tg .important{background-color:#353535;border-style:dashed;border-color:#ffcb31;color:#ffcb31;text-align:center;vertical-align:top}
+.tg .warning{background-color:#353535;border-style:dashed;border-color:#c6271b;color:#c6271b;text-align:center;vertical-align:top}
+</style>
+
 Current version: 1.2.2 11/13/2020  
 ![total-installs](https://img.shields.io/endpoint?label=Total%20Installs&style=for-the-badge&url=https://build.wabbajack.org/metrics/badge/dungeons_and_deviousness/total_installs_badge.json)  
 ![build-status](https://img.shields.io/endpoint?label=List%20Status&style=for-the-badge&url=https://build.wabbajack.org/lists/status/dungeons_and_deviousness/badge.json)
@@ -76,9 +87,21 @@ Wabbajack no longer requires that you have Nexus Premium to install the modlist,
 
 The modlist requires ~159 (51GB Downloads/105GB Mods) of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing onto an SSD/NVMe is not required, but **strongly recommended**. Download and installation times vary based on your computer and internet speeds but expect the entire process to take a few of hours.
 
-**NSFW Warning:** This modlist contains explicit sexual content. Proceed at your own discretion.
+<table class="tg">
+<thead>
+  <tr>
+    <th class="warning"><b>WARNING:</b> This modlist contains explicit sexual content. Proceed at your own discretion.</th>
+  </tr>
+</thead>
+</table>
 
-**This modlist only functions with female player characters. Sorry, but that's how it is.**
+<table class="tg">
+<thead>
+  <tr>
+    <th class="important"><b>Important!:</b> This modlist only functions with female player characters. Sorry, but that's how it is.</th>
+  </tr>
+</thead>
+</table>
 
 ### Adding to Dungeons & Deviousness
 This goes for making changes/removals to/from the list as well, but the short answer is: don't.
@@ -129,11 +152,19 @@ Launch Skyrim SE to create any INI or registry entries the game needs. Immediate
 
 ### Wabbajack Preparations
 1. Download the latest version of [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases). Do not run anything until instructed to do so. Make sure you are using the latest version of Wabbajack or else Wabbajack will report a corrupted modlist.
-2. Create a new folder in the root of the drive where you want Wabbajack to be installed. (C:\ will be used as an example, but it can be placed in any drive.) Name this folder “Wabbajack”. **Important!:** Wabbajack must be placed in a separate folder from where the installation will occur. 
+2. Create a new folder in the root of the drive where you want Wabbajack to be installed. (C:\ will be used as an example, but it can be placed in any drive.) Name this folder “Wabbajack”.
 3. Create a second folder called C:\Dungeons & Deviousness. This folder is where the modlist will be installed.
 4. Double check that you have *not* placed any of these folders in your Skyrim: Special Edition installation directory.
 5.  Ensure that C:\Dungeons & Deviousness is **completely empty.**
 6.  Ensure that Wabbajack.exe is in C:\Wabbajack.
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="warning"><b>WARNING:</b> Failure to set up these folders properly will result in the install failing. For example, [install drive]\Wabbajack\Dungeons & Deviousness is <b>incorrect</b>.</th>
+  </tr>
+</thead>
+</table>
 
 ## Wabbajack Installation
 If you are updating your existing installation of Dungeons & Deviousness, skip to [Updating Dungeons & Deviousness](#updating-dungeons--deviousness).
@@ -169,14 +200,33 @@ There are two mods included with Dungeons & Deviousness that you can optionally 
 ### ENB
 ENB is not required to run Dungeons & Deviousness, but it is intended to be used with it. You may skip these instructions if you don’t want to use ENB. 
 
-In general, any ENB that is compatible with Obsidian Weathers will work with D&D. My preferred ENBs are Rudy's, Amon Reborn, and Silent Horizons if you want some recommendations.
+In general, any ENB that is compatible with Obsidian Weathers will work with Dungeons & Deviousness. My preferred ENBs are Rudy's, Amon Reborn, Silent Horizons, and Re-Engaged if you want some recommendations.
 
-In general, the process to install an ENB preset is:
+If you wish to use ENB, follow these steps:
 
-1. Download the latest ENB Binary from http://enbdev.com/download_mod_tesskyrimse.htm
-2. Open the .zip file, go into the WrapperVersion folder, and copy ONLY d3d11.dll and d3dcompiler_46e.dll into your Skyrim SE installation folder. (Usually located at C:\Steam\steamapps\common\Skyrim Special Edition)
-3. Download your selected ENB preset. **Important!: Make sure it is compatible with Obsidian Weathers!**
-4. Follow any installation instructions included with your Preset. Every ENB has slight variations in their requirements, so make sure to follow the instructions included for that preset. **You should not need to download any additional files other than the preset. Things like ENB Helper and Particle Patch are already included!**
+* Download the latest ENB Binary from http://enbdev.com/download_mod_tesskyrimse.htm
+* Open the .zip file, go into the WrapperVersion folder, and copy ONLY d3d11.dll and d3dcompiler_46e.dll into your Skyrim SE installation folder. (Usually located at`[install drive]\Steam\steamapps\common\Skyrim Special Edition`)
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="important"><b>Important!:</b> Make sure your chosen ENB preset is compatible with Obsidian Weathers!</th>
+  </tr>
+</thead>
+</table>
+
+* Download your selected ENB preset.
+* Follow any installation instructions included with your Preset. Every ENB has slight variations in their requirements, so make sure to follow the instructions included for that preset. 
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="important"><b>Important!:</b> You should not need to download any additional files other than the preset. Things like ENB Helper and Particle Patch are already included!</th>
+  </tr>
+</thead>
+</table>
+
+* Ensure that ForceVsync is set to false in enblocal.ini
 
 ## Updating Dungeons & Deviousness
 If you are updating Dungeons & Deviousness, the process is very simple. Before you update, you should at a minimum backup your saves. Updating will delete any saves that are present. Make sure you are using the latest version of Wabbajack or else Wabbajack will report a corrupted modlist.
@@ -190,12 +240,20 @@ If you are updating Dungeons & Deviousness, the process is very simple. Before y
 7. When prompted if you would like to overwrite the existing installation, click "Confirm."
 
 ## BodySlides
+<table class="tg">
+<thead>
+  <tr>
+    <th class="warning"><b>WARNING:</b> Failure to do either of the following options will result in your character's body turning invisible when equipped with certain outfits.</th>
+  </tr>
+</thead>
+</table>
+
 When you first load up D&D, there will be zero BodySlides created. You have two options here: Download the prebuilt ones I've made using the MelaRockingPhysique, or make your own. 
 
 ### Prebuilt Bodyslides
 If you don't really care what preset you use and/or are fine with MelaRockingPhysique, follow these steps.
 
-1. Download this zip file: [D&D Prebuilt Bodyslides](https://drive.google.com/file/d/1g6Z0zJqNetNTE3A05SSWyx7RVxRMKGhM/view?usp=sharing)
+1. Download this zip file: [D&D Prebuilt Bodyslides](https://drive.google.com/file/d/1Z4VX-OFKicz6AWSSMsJY-RGgIOgCbb8U/view?usp=sharing)
 2. Open the ZIP file.
 3. Copy everything inside the zip file into [Install Drive]\Dungeons & Deviousness\mods\Bodyslide Output
 4. That's it, you're done!
@@ -232,6 +290,14 @@ The hard part is now over. Carry on, the end is in sight!
 ### The MCM Settings
 1. Consult the [Dungeons & Deviousness MCM Configuration](https://forgottenglory.github.io/mcms/dndmcm/) document and follow all listed steps. This step is required if you want the list to work properly.
 2. Don’t forget to save your game after configuring the MCMs, I promise you don’t want to have to do this step more than once.
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="warning"><b>WARNING:</b> The MCMs for Dungeons & Deviousness must be set correctly, failure to do this will result in the list not working.</th>
+  </tr>
+</thead>
+</table>
 
 ## Important Mods You Need to Know About
 This section details the most important mods included in Dungeons & Deviousness and is intended to give you a basic understanding of what to expect when you start the game.

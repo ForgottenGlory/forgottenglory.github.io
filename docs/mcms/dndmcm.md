@@ -6,6 +6,17 @@ layout: dndmcm
 permalink: /mcms/dndmcm/
 ---
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .protip{background-color:#353535;border-style:dashed;border-color:#93bd20;color:#f0e7d5;text-align:center;vertical-align:top}
+.tg .important{background-color:#353535;border-style:dashed;border-color:#ffcb31;color:#ffcb31;text-align:center;vertical-align:top}
+.tg .warning{background-color:#353535;border-style:dashed;border-color:#c6271b;color:#c6271b;text-align:center;vertical-align:top}
+</style>
+
 For Dungeons & Deviousness to work properly, the MCM and Skyrim in-game settings should be set as follows.
 
 Before you get started, a word about difficulty: Dungeons & Deviousness is intended to be a semi-hardcore list with survival elements and a relatively high difficulty curve. Playing on either the Expert or Master difficulties is recommended.
@@ -13,7 +24,13 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
 * AVA
   * When you see a popup asking if you'd like to select your attributes, click "Yes" if you want to assign them now or "No" if you want to have a power (shout) added to your character to set them up later. Don't forget to do this, as without assigning attributes your character will be severely weakened! As with the difficulty, it is recommended that you pick either Expert or Master for the amount of points you get.
 
-**BEFORE DOING ANYTHING WITH THE MCM, WAIT FOR ALL THE MESSAGES IN THE TOP LEFT TO FINISH APPEARING AND THEN SAVE YOUR GAME AND THEN LOAD THAT SAVE. Also, do not equip any weapons/spells until you have exited the Abandoned Prison!**
+<table class="tg">
+<thead>
+  <tr>
+    <th class="warning"><b>WARNING:</b> Before doing anything with the MCM, wait for all the messages in the top left to finish appearing. Then, save your game and load the save you just created. Once that save has loaded, you must once again wait for all messages in the top left to disappear. Also, do not equip any weapons/spells until you have selected your Alternate Start or escaped the initial Alternate Start cell!</th>
+  </tr>
+</thead>
+</table>
 
 * Settings
     - Depth of Field: Minimum/Off
@@ -36,7 +53,14 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
 * Cursed Loot
   * Debug
     * Import Settings
-  * Now go look at what all has been set and configure Cursed Loot to your liking. The included preset is tough but fair, but you'll 110% want to tweak it.
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="important"><b>Important!</b> Now, go look at what all has been set by the Cursed Loot import and configure Cursed Loot to your liking. The included preset is tough but fair, and I'd be willing to guarantee you'll want to tweak it. Cursed Loot is very subjective.</th>
+  </tr>
+</thead>
+</table>
 
 * Deadly Dragons
   * Presets: Expert
@@ -60,7 +84,7 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
     * Click Load Setting
 
 * Estrus Chaurus+
-  * If Estrus Chaurus doesn't appear in the MCM menu, you need to go back to the start of this document and read the bold text. :)
+  * If Estrus Chaurus doesn't appear in the MCM menu, you need to go back to the start of this document and read the red text. :)
   * Options
     * Short Birth Duration: Enabled
   * Animations
@@ -143,7 +167,7 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
     * Vertical Anchor (Personal preference): Middle or Bottom
 
 * SexLab Eager NPCs
-  * Click Enable and set Defaults
+  * Click Enable and set Defaults. Immediately exit the MCM, wait for SLEN to finish configuring, then go back into it.
   * SOS Integration
     * Futanari CBBE: Enabled
 
@@ -165,7 +189,7 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
 
 * SexLab Survival
   * Settings
-    * Click Import Settings
+    * Click Import Settings. When it says Actioning, you are free to move on.
 
 * Simple Slavery
   * SD+: Enabled
@@ -203,22 +227,27 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
     * Sexuality: Pick your character's preference.
 
 * SL Anim Loader
-  * Gemeral Options
+  * General Options
     * Click Enable All
-    * Click Register Animations **This can take up to 5 minutes to complete, wait in the MCM until it is finished.**
   * More Nasty Critters
     * Click Disable All 
   * General Options (again)
-    * Click Rebuild SexLab Anim Registry. This can also take a few minutes to complete, wait in the MCM until it is finished.
+    * Click Register Animations **This can take up to 5 minutes to complete, wait in the MCM until it is finished.**
 
 * ELSA
-  * Open your Powers menu and select Reflect..., then activate it by pressing your Shout key (usually Z). Select whatever background you want.
+  * Open your Powers menu and select "Reflect", then activate it by pressing your Shout key (usually Z). Select whatever background you want.
 
 * Spell Research
   * Options
     * Click Import Spells, then exit the MCM and click on Yes on all the popups until it completes.
 
-**The following should only be configured after you have selected your Alternate Start and loaded into the game world or have escaped the Abandoned Prison.**
+<table class="tg">
+<thead>
+  <tr>
+    <th class="warning"><b>Important!</b> The following should only be configured after you have selected your Alternate Start and loaded into the game world or have escaped the Abandoned Prison.</th>
+  </tr>
+</thead>
+</table>
 
 * Realistic Needs
   * Click Start RN&D
@@ -241,4 +270,10 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
   * Main
     * Click Load, then wait for the "Load Complete" message to appear. This may take a minute or two.
 
-**Save your game! I promise you don't want to have to do the MCM setups more than once. After completing MCM setup it is safe to equip weapons/spells. You'll be prompted to pick a class and birthsign. The descriptions for the birthsigns are incorrect currently, I know. I'll fix it when I can.**
+<table class="tg">
+<thead>
+  <tr>
+    <th class="warning"><b>Important!</b> Save your game! I promise you don't want to have to do the MCM setups more than once. After completing MCM setup it is safe to equip weapons/spells. You'll be prompted to pick a class and birthsign.</th>
+  </tr>
+</thead>
+</table>
