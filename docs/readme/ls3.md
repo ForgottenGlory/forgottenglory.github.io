@@ -110,6 +110,22 @@ Before you get started installing or playing Living Skyrim, it's important to no
 * If you want some tips related to getting started playing the list, refer to the [Getting Started in Living Skyrim](#getting-started-in-living-skyrim) section of this document.
 * By default, Living Skyrim has the game running in exclusive fullscreen mode to assist with game performance.
 
+<table class="tg">
+<thead>
+  <tr>
+    <th class="important"><b>Important!:</b> Blocks labeled important like this one will tell you when you need to pay extra attention to something.</th>
+  </tr>
+</thead>
+</table>
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="warning"><b>WARNING:</b> Warning blocks like this will warn you when you absolutely must not forget to do something. Failure to heed to warning blocks is cause for disaster.</th>
+  </tr>
+</thead>
+</table>
+
 ### System Specifications
 Living Skyrim v3.0.0 has been cut back severely from the performance hog it was in v2.0.0 and on. Textures range from 512x512 to 4K and everything in between. The following system is ForgottenGlory's personal computer and is able to run the list at a constant 60FPS including ENB at 1440p monitor resolution.
 
