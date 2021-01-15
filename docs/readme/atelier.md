@@ -19,7 +19,7 @@ permalink: /readme/atelier/
 
 ![Atelier Logo](https://i.imgur.com/8NqqiFi.png)
 
-Current version: 1.0.0.1 (Beta 1) 12/6/2020
+Current version: 1.0.0 1/15/2020
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
