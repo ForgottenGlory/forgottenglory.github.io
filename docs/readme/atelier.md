@@ -140,10 +140,10 @@ Launch Skyrim SE to create any INI or registry entries the game needs. Immediate
 ## Wabbajack Installation
 If you are updating your existing installation of Atelier, skip to [Updating Atelier](#updating-dungeons--deviousness).
 
-1. Download the latest version of the Atelier modlist installer (the .wabbajack file) from here: [Click Here](https://drive.google.com/drive/folders/1GYU6gFLmkTzntxv8kqem-7oDlmzE9VLA?usp=sharing)
-2. Run Wabbajack.exe. 
-3. At the bottom of the window click Install From Disk, then navigate to where you saved the file you downloaded and select that file.
-4. Set the Installation Location to `[Install Drive]\Atelier`. The download location does not need to be set manually unless you have drive space limitations. Downloading to a separate folder is fine (for example, on a HDD), but as before it is recommended that the actual install be placed on a SSD. **Important!:** Do not install the modlist to your Skyrim SE installation folder OR the folder that Wabbajack.exe is in.
+1. Run Wabbajack.exe. 
+2. At the bottom of the window click Browse Modlists and click the download/down arrow icon on the Atelier card. 
+3. Once it finishes downloading, click the play/right arrow icon on the Atelier card.
+4. Set the Installation Location to `[install drive]\Atelier`. The download location does not need to be set manually unless you have drive space limitations. Downloading to a separate folder is fine (for example, on a HDD), but as before it is recommended that the actual install be placed on a SSD. **Important!:** Do not install the modlist to your Skyrim SE installation folder OR the folder that Wabbajack.exe is in.
 5. Click the play/right arrow button to begin installation.
 
 ### With Nexus Premium
@@ -210,9 +210,9 @@ If you wish to use ENB, follow these steps:
 ## Updating Atelier
 If you are updating Atelier, the process is very simple. Before you update, you should at a minimum backup your saves. Updating may delete any saves that are present. Make sure you are using the latest version of Wabbajack or else Wabbajack will report a corrupted modlist.
 
-1. Download the latest version of the Atelier modlist installer (the .wabbajack file) from here: [Click Here](https://drive.google.com/drive/folders/1GYU6gFLmkTzntxv8kqem-7oDlmzE9VLA?usp=sharing)
-2. Run Wabbajack.exe. 
-3. At the bottom of the window click Install From Disk, then navigate to where you saved the file you downloaded and select that file.
+1. Run Wabbajack.exe. 
+2. At the bottom of the window click Browse Modlists and click the download/down arrow icon on the Atelier card. 
+3. Once it finishes downloading, click the play/right arrow icon on the Atelier card.
 4. Set the Installation Location to wherever you already have Atelier installed. 
 5. **Important!:** Set your downloads folder path to the same downloads folder location you used when you first installed Atelier. Failure to do this will make Wabbajack download every mod again, which you want to avoid if possible.
 6. Click Run.
