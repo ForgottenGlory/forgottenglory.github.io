@@ -138,7 +138,7 @@ Launch Skyrim SE to create any INI or registry entries the game needs. Immediate
 </table>
 
 ## Wabbajack Installation
-If you are updating your existing installation of Atelier, skip to [Updating Atelier](#updating-dungeons--deviousness).
+If you are updating your existing installation of Atelier, skip to [Updating Atelier](#updating-atelier).
 
 1. Run Wabbajack.exe. 
 2. At the bottom of the window click Browse Modlists and click the download/down arrow icon on the Atelier card. 
