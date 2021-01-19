@@ -39,7 +39,6 @@ Current version: 1.0.0 1/15/2020
 - [Post-Wabbajack Install](#post-wabbajack-install)
   - [Game Folder Files](#game-folder-files)
   - [Mod Organizer 2](#mod-organizer-2)
-    - [Configuration-Specific](#configuration-specific)
   - [ENB](#enb)
 - [Updating Atelier](#updating-atelier)
 - [BodySlides](#bodyslides)
@@ -172,9 +171,6 @@ Now you have to copy some files to their correct locations. Navigate to `[Instal
 ### Mod Organizer 2
 1. Navigate to `[Install Drive]\Atelier` and open ModOrganizer.exe. Your Mod Organizer window will have a dark theme already selected. If it doesn’t, something has gone wrong and you’ll likely need to do the Wabbajack installation again.
 2. A dialogue will appear and ask if you want to associate Mod Organizer with nxm links. Click **Yes.**
-
-#### Configuration-Specific
-There are two mods included with Atelier that you can optionally enable under the "Configuration Specific" section in the left pane of MO2. The first is Improved Camera, which I've included if you can handle it (I personally get motion sickness while using it.). The second is Dear Diary Dark Mode 21:9, which you **need** to enable if you have a 21:9 monitor.
 
 ### ENB
 ENB is not required to run Atelier, but it is intended to be used with it. You may skip these instructions if you don’t want to use ENB. 
