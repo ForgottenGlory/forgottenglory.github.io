@@ -19,6 +19,8 @@ permalink: /readme/atelier/
 
 ![Atelier Logo](https://i.imgur.com/8NqqiFi.png)
 
+![total-installs](https://img.shields.io/endpoint?label=Total%20Installs&style=for-the-badge&url=https://build.wabbajack.org/metrics/badge/atelier/total_installs_badge.json)  
+![build-status](https://img.shields.io/endpoint?label=List%20Status&style=for-the-badge&url=https://build.wabbajack.org/lists/status/atelier/badge.json)  
 Current version: 1.0.0 1/15/2020
 
 ## Table of Contents
