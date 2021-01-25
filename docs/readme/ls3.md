@@ -614,13 +614,20 @@ I don't know, can you?
 - Living Skyrim created by ForgottenGlory
 - Living Skyrim Dev Team:
   - Volk
-  - MadQueen (Formerly Melisandre)
-  - JaceVenture
+  - Spandanahan (Formerly Melisandre)
+  - Rite of Spring (Formerly JaceVenture)
   - Magnus Hellfire
   - Bearnard
   - Volkaru
   - JaxomOfRuatha
   - TwistedModding
+- Living Skyrim Discord Staff:
+  - Aronax
+  - goolito
+  - Logan
+  - Pulesfire ezreal
+  - Sae the Intern
+  - Day7
 - Contributors & Beta Testers:
   - Patchier
   - DwarfDude
@@ -634,6 +641,11 @@ I don't know, can you?
   - Nechrion
   - Xanza
   - tjbassoon
+- LS Community Helpers:
+  - Bizarro Jerry
+  - celadoneiron
+  - Sean Misses Scotch
+  - TheCampingOwl
 - Halgari & The Wabbajack Team
   - Thank you for creating Wabbajack, you’re amazing!
   - [Halgari’s Patreon](https://www.patreon.com/user?u=11907933)
@@ -641,6 +653,7 @@ I don't know, can you?
   - The TUCO Modding Team - Their modlist is a great way to get a Vanilla+ experience with a tutorial that is extremely helpful for learning the basics of creating a modlist.
   - DarkLadyLexy - Her LotD list is an invaluable resource not only for an awesome modlist, but also for learning many fundamentals of modding and compiling a modlist.
   - EzioTheDeadPoet - For their SME(FT) modlist. The ability to start from scratch on a whim while building this list has been invaluable.
+  - My Patreon patrons.
 - Mod Authors
   - None of this would be possible without the people who make the quality content we’ve grown to know and love. Please endorse the authors’ works.
 
