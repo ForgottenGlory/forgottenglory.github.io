@@ -62,14 +62,6 @@ permalink: /mcms/ls3mcm/
         * Control Mode: Toggle
         * Hotkey: X
 
-
-* AGO
-  * Settings
-    * Arrow Wounds (Player): Disabled
-    * Arrow Wounds (NPCs): Disabled
-    * Persistent Arrows: Disabled
-    * Arm Fatigue: Disabled
-
 * Campfire
   * Gameplay
     * Hotkeys
