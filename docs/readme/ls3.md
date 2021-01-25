@@ -258,8 +258,12 @@ Among other things, Wabbajack has installed a copy of Mod Organizer 2 for you. T
 2. Mod Organizer 2 will have a dark theme already selected for you. If it does not, something has gone wrong and you will need to start over at the [Installing the List](#installing-the-list) section of this document.
 3. A dialogue may appear and ask if you want to associate Mod Organizer with .nxm links. Click Yes. If this dialogue does not appear, it is not an issue and means you've likely already done this.
 
-#### Configuration-Specific
+### Configuration-Specific
+There are two mods that can be optionally enabled, depending on your preferences and computer configuration. 
 
+The first is [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778?tab=description). This should only be enabled if you are using a 21:9 monitor at 2560x1080 resolution or higher.
+
+The second is QuickLoot, which adds a Fallout 4 style loot menu to bodies, containers, etc. This mod provides a significant quality of life improvement to looting, however it can cause issues with mods that run scripts upon looting certain objects. Enable it, or don't, it's entirely up to your personal preference.
 
 ### ENB
 ENB is not required to run Living Skyrim, however, it is intended to be used with it and highly recommended. Weaker computers should opt to skip ENB or use Reshade. Support is not provided for Reshade.
@@ -310,12 +314,13 @@ If you are updating Living Skyrim, the process is very similar to installing the
 To actually launch and then play Living Skyrim, follow these steps:
 
 1. Launch the copy of Mod Organizer 2 found inside your Living Skyrim folder.
-2. In the top-right corner of Mod Organizer, you'll see a large dropdown menu. Select SKSE [AKA Living Skyrim] from this dropdown menu.
-3. This is how Living Skyrim should always be launched. You can create a shortcut to this selection on your desktop, if you wish, using the Shortcut button directly below the large Run button.
-4. Once Skyrim starts, create a new game.
-5. Create your character and name them whatever you'd like.
-6. **As soon as you gain control of your character, do nothing.** The mods are initializing and this can take several minutes. You'll see a list of mods appearing in the top left corner of your screen.
-7. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
+2. In the top-right corner of Mod Organizer, you'll see a large dropdown menu. Select Living Skyrim [SKSE] from this dropdown menu.
+3. Click the large Run button.
+4. This is how Living Skyrim should always be launched. You can create a shortcut to this selection on your desktop, if you wish, using the Shortcut button directly below the large Run button.
+5. Once Skyrim starts, create a new game.
+6. Create your character and name them whatever you'd like.
+7. **As soon as you gain control of your character, do nothing.** The mods are initializing and this can take several minutes. You'll see a list of mods appearing in the top left corner of your screen.
+8. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
 
 <table class="tg">
 <thead>
