@@ -117,7 +117,7 @@ Before you get started installing or playing Living Skyrim, it's important to no
 * To maximize performance, both Skyrim: Special Edition and Living Skyrim should be installed on the same hard drive, ideally an SSD/NVMe. This is not required, just recommended if you want the smoothest gameplay experience.
 * If you are not familiar with the contents of this modlist, a complete documentation of every mod in the list including links to the mods is available on the [LS3 Modlist Spreadsheet]().
 * If you instead only wish for a brief overview of the major changes this modlist makes, you should refer to the [Important Mods You Need to Know About](#important-mods-you-need-to-know-about) section of this document.
-* Autosaves for this modlist are disabled. This save option is known to cause issues with modlists running a large number of scripted mods. Instead, quicksaves are automatically turned into manual saves by SSE Engine Fixes. It is recommended to save early and often. Every 15 minutes and before interacting with quest NPCs, quest objects, and before entering new zones should be sufficient.
+* Autosaves for Living Skyrim 3 are partially disabled. The game will still autosave when you rest, wait, or fast travel - but at no other time will it autosave. You should make your quicksave button your best friend (usually, the F5 key).
 * Continuing the last point, it is always better to save **before** entering a loading screen instead of after. After a loading screen it is very likely that scripts will be running for at least 30 seconds, so if you must save after a loading screen, at least wait that long before doing so.
 * Wabbajack does support updating an existing installation of a modlist. However, as part of this process, it does delete files that don't match with what it is installing. This includes RaceMenu presets, mods you've added/changed, and possibly even save files. It is a good practice to keep backups of your save files so that you can update safely. Saves are stored within the folder you install Living Skyrim to.
 * Living Skyrim 3 has been updated such that NPCs and player characters are never nude. Underwear is worn by all NPCs and the player character and cannot be unequipped.
@@ -136,6 +136,8 @@ Living Skyrim v3.0.0 has been cut back severely from the performance hog it was 
 - Storage: Sabrent Rocket 2TB M.2 NVMe 2280
 
 In general, it is recommended that you have a processor with a clock speed of at least 3GHz and a graphics card with at least 6GB of VRAM. 4GB graphics cards may be able to run the list if you do not use ENB, but it is not guaranteed.
+
+As for RAM, 16GB is the minimum recommended specification for running the list. 32GB is the ideal amount, and anything more than that is honestly overkill for this list.
 
 If your PC is struggling to run Living Skyrim, see the [Performance Optimizations](#performance-optimizations) section of this document for tips and tricks to receive better performance.
 
@@ -608,7 +610,7 @@ I don't know, can you?
 ### Performance Optimizations
 
 ## Other Common Questions
-
+Questions will get added here as they are asked.
 
 ## Credits & Thanks
 - Living Skyrim created by ForgottenGlory
