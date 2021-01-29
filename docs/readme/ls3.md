@@ -163,7 +163,7 @@ If your PC is struggling to run Living Skyrim, see the [Performance Optimization
 [One](https://cdn.discordapp.com/attachments/771075313849466922/802781636781277204/SkyrimSE_2021-01-24_00-01-33_original.png) [Two](https://cdn.discordapp.com/attachments/771075313849466922/799368412492857354/ScreenShot153.png) [Three](https://cdn.discordapp.com/attachments/771075313849466922/793938031644114964/enb2020_12_30_14_59_11.png) [Four](https://cdn.discordapp.com/attachments/771075313849466922/783880191482134548/SkyrimSE_2020-12-02_20-15-19.png) [Five](https://cdn.discordapp.com/attachments/771075313849466922/783113018833240064/enb2020_11_30_13_24_55.png) [Six](https://cdn.discordapp.com/attachments/771075313849466922/778085567660556298/ScreenShot88.png) [Seven](https://cdn.discordapp.com/attachments/771075313849466922/778085516318605382/ScreenShot91.png) [Eight](https://cdn.discordapp.com/attachments/771075313849466922/778085553336877106/ScreenShot96.png) [Nine](https://cdn.discordapp.com/attachments/771075313849466922/778085573864849428/ScreenShot90.png) [Ten](https://cdn.discordapp.com/attachments/771075313849466922/799368537885769728/ScreenShot160.png) [Eleven](https://cdn.discordapp.com/attachments/771075313849466922/802026560433291264/SkyrimSE_2021-01-21_22-54-34_ReShadePreset.png) [Twelve](https://cdn.discordapp.com/attachments/771075313849466922/802026617282494518/SkyrimSE_2021-01-21_22-57-54_ReShadePreset.png) [Thirteen](https://cdn.discordapp.com/attachments/771075313849466922/799368405664792636/ScreenShot156.png) [Fourteen](https://cdn.discordapp.com/attachments/771075313849466922/799368411573387334/ScreenShot157.png) [Fifteen](https://cdn.discordapp.com/attachments/771075313849466922/799368430926692372/ScreenShot163.png) [Sixteen](https://cdn.discordapp.com/attachments/771075313849466922/799368554654072832/ScreenShot162.png) [Seventeen](https://cdn.discordapp.com/attachments/771075313849466922/778085570719121438/ScreenShot89.png) [Eighteen](https://cdn.discordapp.com/attachments/771075313849466922/778085571368976384/ScreenShot87.png) [Nineteen](https://cdn.discordapp.com/attachments/771075313849466922/778085561051119626/ScreenShot82.png) [Twenty](https://cdn.discordapp.com/attachments/771075313849466922/778085548748177448/ScreenShot95.png)
 
 #### Videos
-
+WIP
 
 ## Pre-Installation
 ### Steam & Skyrim Special Edition Setup
@@ -531,7 +531,7 @@ Additionally, several of the quest mods included with Living Skyrim have player 
 <table class="tg">
 <thead>
   <tr>
-    <th class="important"><b>Important!:</b> Do NOT import standalone followers (Inigo, Lucien, etc.) into Nether's Follower Framework. It will 100% break them. The notable exceptions to this are Auri, Sophia, and any of the Interesting NPCs followers.</th>
+    <th class="important"><b>Important!:</b> Do NOT import standalone followers (Inigo, Lucien, etc.) into Nether's Follower Framework. It will 100% break them. The notable exceptions to this are Auri, Sofia, and any of the Interesting NPCs followers.</th>
   </tr>
 </thead>
 </table>
@@ -547,7 +547,15 @@ To report a bug, follow these steps:
 4. Input a title and fill out the form in the large text box. If you need to attach a screenshot, it can be dragged from your computer to the Github post to insert it.
 5. When you have filled out the form completely, click the green "Submit new issue" button.
 
-After that, you've filed your bug report and the LS dev team will take a look at it as soon as possible. Don't forget to check back on your report periodically just in case we request more information from you.
+After that, you've filed your bug report and the LS dev team will take a look at it as soon as possible. 
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="important"><b>Important!:</b> Don't forget to check back on your report periodically just in case we request more information from you.</th>
+  </tr>
+</thead>
+</table>
 
 ## Common Issues
 ### Wabbajack Issues
