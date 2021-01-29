@@ -6,6 +6,8 @@ layout: lsmcm
 permalink: /mcms/ls3mcm/
 ---
 
+The following is for documentation purposes only, these are the MCM options that are set up for Living Skyrim 3.
+
 * A Matter of Time (auto)
   * Presets
     * Click Load User Preset
