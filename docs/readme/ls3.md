@@ -102,7 +102,7 @@ I hope you enjoy Living Skyrim.
 
 Oh, and before I forget: Living Skyrim exists exclusively as a Wabbajack installer. A manual guide is not planned and will not happen.
 
--ForgottenGlory 
+- ForgottenGlory 
 
 ## Before You Get Started
 Before you get started installing or playing Living Skyrim, it's important to note a few things:
