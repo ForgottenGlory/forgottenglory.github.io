@@ -153,8 +153,9 @@ As for RAM, 16GB is the minimum recommended specification for running the list. 
 If your PC is struggling to run Living Skyrim, see the [Performance Optimizations](#performance-optimizations) section of this document for tips and tricks to receive better performance.
 
 ### Important Links
-[The Modlist Spreadsheet (INCOMPLETE)]()  
-[Living Skyrim FAQ & Troubleshooting](#troubleshooting--faq)  
+[The Modlist Spreadsheet](https://docs.google.com/spreadsheets/d/1PxBMg2rIApANPaS0jW5d597dnDjNy8kcHKNoprf6NDs/edit?usp=sharing)  
+[LS3 Default Keymap](http://www.keyboard-layout-editor.com/#/gists/0469bf568cf28f1ea8e9e78dba13c169)  
+[Living Skyrim Common Issues](#common-issues)  
 [Living Skyrim Bug & Suggestions Tracker](https://github.com/ForgottenGlory/Living-Skyrim-3/issues)  
 [User Testimonials](https://docs.google.com/document/d/1eXeG852teL9EOnIHTAFTLW4Rq1c_pYGRYPtW_eNJqLg/edit?usp=sharing)  
 [Living Skyrim Discord](https://discord.gg/9dFvGnc)  
@@ -165,7 +166,7 @@ If your PC is struggling to run Living Skyrim, see the [Performance Optimization
 [One](https://cdn.discordapp.com/attachments/771075313849466922/802781636781277204/SkyrimSE_2021-01-24_00-01-33_original.png) [Two](https://cdn.discordapp.com/attachments/771075313849466922/799368412492857354/ScreenShot153.png) [Three](https://cdn.discordapp.com/attachments/771075313849466922/793938031644114964/enb2020_12_30_14_59_11.png) [Four](https://cdn.discordapp.com/attachments/771075313849466922/783880191482134548/SkyrimSE_2020-12-02_20-15-19.png) [Five](https://cdn.discordapp.com/attachments/771075313849466922/783113018833240064/enb2020_11_30_13_24_55.png) [Six](https://cdn.discordapp.com/attachments/771075313849466922/778085567660556298/ScreenShot88.png) [Seven](https://cdn.discordapp.com/attachments/771075313849466922/778085516318605382/ScreenShot91.png) [Eight](https://cdn.discordapp.com/attachments/771075313849466922/778085553336877106/ScreenShot96.png) [Nine](https://cdn.discordapp.com/attachments/771075313849466922/778085573864849428/ScreenShot90.png) [Ten](https://cdn.discordapp.com/attachments/771075313849466922/799368537885769728/ScreenShot160.png) [Eleven](https://cdn.discordapp.com/attachments/771075313849466922/802026560433291264/SkyrimSE_2021-01-21_22-54-34_ReShadePreset.png) [Twelve](https://cdn.discordapp.com/attachments/771075313849466922/802026617282494518/SkyrimSE_2021-01-21_22-57-54_ReShadePreset.png) [Thirteen](https://cdn.discordapp.com/attachments/771075313849466922/799368405664792636/ScreenShot156.png) [Fourteen](https://cdn.discordapp.com/attachments/771075313849466922/799368411573387334/ScreenShot157.png) [Fifteen](https://cdn.discordapp.com/attachments/771075313849466922/799368430926692372/ScreenShot163.png) [Sixteen](https://cdn.discordapp.com/attachments/771075313849466922/799368554654072832/ScreenShot162.png) [Seventeen](https://cdn.discordapp.com/attachments/771075313849466922/778085570719121438/ScreenShot89.png) [Eighteen](https://cdn.discordapp.com/attachments/771075313849466922/778085571368976384/ScreenShot87.png) [Nineteen](https://cdn.discordapp.com/attachments/771075313849466922/778085561051119626/ScreenShot82.png) [Twenty](https://cdn.discordapp.com/attachments/771075313849466922/778085548748177448/ScreenShot95.png)
 
 #### Videos
-WIP
+[LS3 Beta Preview]()
 
 ## Pre-Installation
 ### Steam & Skyrim Special Edition Setup
@@ -344,7 +345,7 @@ To actually launch and then play Living Skyrim, follow these steps:
 </table>
 
 ### The MCM Settings
-The MCM settings for Living Skyrim 3 have all been set for you. You are still encouraged to look through them and tweak them to your liking, but changing MCM settings is not required. You can start the game and begin playing once all mods have initialized.
+For the Beta, some MCM settings have been pre-set for you. See this document to set the remaining MCMs that are required for LS3 to function correctly: [Click Here](https://forgottenglory.github.io/mcms/ls3mcm/)
 
 ### Getting Started in Living Skyrim
 If you're coming from a previous version of Living Skyrim (1.x.x or 2.x.x), throw out everything you thought you knew. If you're new to Living Skyrim, welcome! It's gonna be a bumpy ride - at first.
@@ -583,6 +584,9 @@ Read this modpage: [Not So Fast - Main Quest](https://www.nexusmods.com/skyrimsp
 #### "Tolfdir doesn't invite me to Saarthal right away."
 Read this modpage: [Not So Fast - Mage Guild](https://www.nexusmods.com/skyrimspecialedition/mods/5686)
 
+### My character gets stuck when dodging!
+This is a known issue with TUDM. Press the Dodge Style Toggle key (Your `\ |` key, by default) and your character should resume moving.
+
 #### "Can I access RaceMenu after character creation?"
 Only if you are **not** changing your character's gender or race. Changing gender/race will cause issues with powers and passive buffs your character has.
 
@@ -639,6 +643,7 @@ Lastly, I (ForgottenGlory) and the Living Skyrim development team do not support
 I don't know, can you?
 
 ### Performance Optimizations
+[WIP]
 
 ## Other Common Questions
 Questions will get added here as they are asked.
@@ -672,7 +677,7 @@ Questions will get added here as they are asked.
   - Dracosaber
   - Sentrus
   - Nechrion
-  - Xanza
+  - Xanza (For MCM Automation, thank you!)
   - tjbassoon
 - LS Community Helpers:
   - Bizarro Jerry

@@ -6,7 +6,125 @@ layout: lsmcm
 permalink: /mcms/ls3mcm/
 ---
 
-The following is for documentation purposes only, these are the MCM options that are set up for Living Skyrim 3.
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .protip{background-color:#353535;border-style:dashed;border-color:#93bd20;color:#f0e7d5;text-align:center;vertical-align:top}
+.tg .important{background-color:#353535;border-style:dashed;border-color:#ffcb31;color:#ffcb31;text-align:center;vertical-align:top}
+.tg .warning{background-color:#353535;border-style:dashed;border-color:#c6271b;color:#c6271b;text-align:center;vertical-align:top}
+</style>
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="important"><b>Important!:</b> There are a few mods that you will need to configure during character creation to set up your character properly.</th>
+  </tr>
+</thead>
+</table>
+
+## AVA & ELSA
+Immediately after you create your character, you'll be prompted to assign your attributes using AVA. You may do this now, or later by selecting the appropriate response when the popup appears.
+
+ELSA gives you a bonus to a single skill based on your character's background. To do this, select the "Reflect" option from your Power/Shout menu and then press the Shout key (Usually Z) to select your background.
+
+These choices are permanent and cannot be changed!
+
+## Classic Classes Reimagined
+You will start the game with a book in your inventory called "Classic Classes". Read this book to select a class and birthsign for your character. This choice is permanent and cannot be changed!
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="warning"><b>WARNING:</b> The following options must be set manually in the MCM for Living Skyrim 3 to work properly. These will eventually be (mostly) automated over the course of the Beta.</th>
+  </tr>
+</thead>
+</table>
+
+* AGO
+  * Settings
+      * Persistent Arrows: Disabled
+      * Arm Fatigue: Disabled
+
+* Deadly Dragons
+  * Dragons
+    * Presets
+      * Difficulty: Expert
+
+* Destructible Display Cases
+  * Blunt Objects: Enabled
+  * Fire and Frost Spells: Disabled
+  * Claws and Cutters: Enabled
+  * Arrows: Disabled
+  * Shouts: Disabled
+
+* Follower Framework
+  * Activity
+    * Ignore Special Furniture: Enabled
+  * System
+    * Command Followers Hotkey: H
+    * Followers Attack Hotkey: G
+
+* OBIS - Patrols
+  * Settings
+    * Enable?: Enabled
+
+* Real Names
+  * Basic Options
+    * Keep Generic Name: Brackets (New Line)
+
+* Sky UI
+  * Advanced
+    * SWF Version Checking
+      * Map Menu: Disabled
+
+* Imm. Spell Learning
+  * Click Start Immersive Spell Learning
+
+* Take Notes!
+  * Controls
+    * Open Journal: B
+
+* Trade & Barter
+  * Barter Rates
+    * Presets
+      * Barter Presets: Medium
+
+* The Ultimate Dodge Mod
+  * General Settings
+    * Combat Dodging Style: Roll Only
+    * Lock Default Dodging Style: Enabled
+    * Dodging Style Hotkey: \
+  * NPC Settings
+    * NPC Dodging Frequency: Not Frequent
+
+* Thieves Guild Req.
+  * Main Quest
+    * Requirements to Begin Recruitment Quest
+      * Items Stolen: 150
+    * Requirements to Begin 3rd Quest
+      * Radiant Jobs completed: 5
+    * Requirements to begin 4th Quest
+      * Radiant Jobs Completed: 15
+
+* VioLens
+  * Melee & Ranged
+    * Ranged
+      * Killmoves: Off
+  * Stealth & Triggers
+    * Triggers
+      * Left Attacks: Enabled
+      * Alt Werewolf Attacks: Enabled
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="important"><b>Important!:</b> The following are purely for documentation purposes, the MCM options below have been pre-set for you.</th>
+  </tr>
+</thead>
+</table>
 
 * A Matter of Time (auto)
   * Presets
@@ -72,33 +190,11 @@ The following is for documentation purposes only, these are the MCM options that
       * Harvest Wood: ;
       * Instincts: '
 
-* Deadly Dragons
-  * Dragons
-    * Presets
-      * Difficulty: Expert
-
-* Destructible Display Cases
-  * Blunt Objects: Enabled
-  * Fire and Frost Spells: Disabled
-  * Claws and Cutters: Enabled
-  * Arrows: Disabled
-  * Shouts: Disabled
-
-* Divserse Dragons Col. 3
+* Diverse Dragons Col. 3
   * Dragons
     * Sanguine Dragon: Disabled
     * Vile Dragon: Disabled
 
-* Follower Framework
-  * Activity
-    * Ignore Special Furniture: Enabled
-    * Only Sandbox in Town: Enabled
-  * System
-    * Command Followers Hotkey: H
-    * Followers Attack Hotkey: G
-  * Slots & History
-    * Number of Followers Allowed: 4
-  
 * GIST Soul Trap
   * Main
     * Show message on soul lost: Disabled
@@ -147,10 +243,6 @@ The following is for documentation purposes only, these are the MCM options that
   * Craftloot
     * Craftloot Status: Prompt
 
-* OBIS - Patrols
-  * Settings
-    * Enable?: Enabled
-
 * Populated Hell Edition
   * 50 Percent Less NPCs: Enabled
 
@@ -162,60 +254,18 @@ The following is for documentation purposes only, these are the MCM options that
 * Quick Light
   * Brightness: Bright
 
-* Real Names
-  * Basic Options
-    * Keep Generic Name: Brackets (New Line)
-
-* Sky UI
-  * Advanced
-    * SWF Version Checking
-      * Map Menu: Disabled
+* Sofia
+  * Comment Frequency: 24
+  * Comments Disabled: Enabled
 
 * Skyrim's Unique Treasures
   * SUT Configuration
     * Lore friendly items only: Enabled
-
-* Take Notes!
-  * Controls
-    * Open Journal: B
-
-* The Ultimate Dodge Mod
-  * General Settings
-    * Combat Dodging Style: Roll Only
-    * Lock Default Dodging Style: Enabled
-    * Dodging Style Hotkey: \
-  * NPC Settings
-    * NPC Dodging Frequency: Not Frequent
-
-* Thieves Guild Req.
-  * Main Quest
-    * Requirements to Begin Recruitment Quest
-      * Items Stolen: 150
-    * Requirements to Begin 3rd Quest
-      * Radiant Jobs completed: 5
-    * Requirements to begin 4th Quest
-      * Radiant Jobs Completed: 15
 
 * Timing is Everything
   * Other Options
     * The Break of Dawn: No Vampires: Enabled
   * Extra Options
     * Thalmor Squad: Quest Requirement: Enabled
-
-* Trade & Barter
-  * Barter Rates
-    * Settings
-      * Modify Barter Settings: Enabled
-    * Presets
-      * Barter Presets: Medium
-
-* VioLens
-  * Melee & Ranged
-    * Ranged
-      * Killmoves: Off
-  * Stealth & Triggers
-    * Triggers
-      * Left Attacks: Enabled
-      * Alt Werewolf Attacks: Enabled
 
 
