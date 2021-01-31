@@ -19,10 +19,7 @@ permalink: /readme/ls3/
 
 ![](https://i.imgur.com/Vokoo6f.png)
 
-## This readme is a work in progress
-Links will be broken, entire sections are incomplete, and phrasing/ordering of the Readme still needs to be revised.
-
-Current version: 3.0.0 Dev Build 1 (Pre-Alpha)
+Current version: 2/1/2021 3.0.0.1 Beta 1
 
 ![total-installs](https://img.shields.io/endpoint?label=Total%20Installs&style=for-the-badge&url=https://build.wabbajack.org/metrics/badge/living_skyrim/total_installs_badge.json)  
 ![build-status](https://img.shields.io/endpoint?label=List%20Status&style=for-the-badge&url=https://build.wabbajack.org/lists/status/living_skyrim/badge.json)
@@ -166,7 +163,7 @@ If your PC is struggling to run Living Skyrim, see the [Performance Optimization
 [One](https://cdn.discordapp.com/attachments/771075313849466922/802781636781277204/SkyrimSE_2021-01-24_00-01-33_original.png) [Two](https://cdn.discordapp.com/attachments/771075313849466922/799368412492857354/ScreenShot153.png) [Three](https://cdn.discordapp.com/attachments/771075313849466922/793938031644114964/enb2020_12_30_14_59_11.png) [Four](https://cdn.discordapp.com/attachments/771075313849466922/783880191482134548/SkyrimSE_2020-12-02_20-15-19.png) [Five](https://cdn.discordapp.com/attachments/771075313849466922/783113018833240064/enb2020_11_30_13_24_55.png) [Six](https://cdn.discordapp.com/attachments/771075313849466922/778085567660556298/ScreenShot88.png) [Seven](https://cdn.discordapp.com/attachments/771075313849466922/778085516318605382/ScreenShot91.png) [Eight](https://cdn.discordapp.com/attachments/771075313849466922/778085553336877106/ScreenShot96.png) [Nine](https://cdn.discordapp.com/attachments/771075313849466922/778085573864849428/ScreenShot90.png) [Ten](https://cdn.discordapp.com/attachments/771075313849466922/799368537885769728/ScreenShot160.png) [Eleven](https://cdn.discordapp.com/attachments/771075313849466922/802026560433291264/SkyrimSE_2021-01-21_22-54-34_ReShadePreset.png) [Twelve](https://cdn.discordapp.com/attachments/771075313849466922/802026617282494518/SkyrimSE_2021-01-21_22-57-54_ReShadePreset.png) [Thirteen](https://cdn.discordapp.com/attachments/771075313849466922/799368405664792636/ScreenShot156.png) [Fourteen](https://cdn.discordapp.com/attachments/771075313849466922/799368411573387334/ScreenShot157.png) [Fifteen](https://cdn.discordapp.com/attachments/771075313849466922/799368430926692372/ScreenShot163.png) [Sixteen](https://cdn.discordapp.com/attachments/771075313849466922/799368554654072832/ScreenShot162.png) [Seventeen](https://cdn.discordapp.com/attachments/771075313849466922/778085570719121438/ScreenShot89.png) [Eighteen](https://cdn.discordapp.com/attachments/771075313849466922/778085571368976384/ScreenShot87.png) [Nineteen](https://cdn.discordapp.com/attachments/771075313849466922/778085561051119626/ScreenShot82.png) [Twenty](https://cdn.discordapp.com/attachments/771075313849466922/778085548748177448/ScreenShot95.png)
 
 #### Videos
-[LS3 Beta Preview]()
+[LS3 Beta Preview](https://www.youtube.com/watch?v=QOCMLid39Hw)
 
 ## Pre-Installation
 ### Steam & Skyrim Special Edition Setup
@@ -193,7 +190,9 @@ Afterwards, you need to disable automatic updates for Skyrim to avoid a game upd
 1. In Steam, set Skyrim: Special Edition to update only when opened. (Right-click > Properties… > Updates > Automatic updates > Only update this game when I launch it)
 2. In Steam, disable the Steam Overlay. (Right-click > Properties... > General > Enable the Steam Overlay while in-game checkbox)
    
-Finally, once the above steps are completed, launch Skyrim SE through Steam to create any INI or registry entries the game needs. Immediately exit the launcher once it has successfully selected a graphics preset for your hardware. The INIs it just created will be overwritten by the ones included in the modlist, but this is a necessary step for Wabbajack to recognize that you have the game installed.
+Once the above steps are completed, launch Skyrim SE through Steam to create any INI or registry entries the game needs. Immediately exit the launcher once it has successfully selected a graphics preset for your hardware. The INIs it just created will be overwritten by the ones included in the modlist, but this is a necessary step for Wabbajack to recognize that you have the game installed.\
+
+Last, but certainly not least, make sure you have deleted or disabled any and all Creation Club content that may have downloaded with the game.
 
 ### Wabbajack Preparations
 A video version of the installation instructions from this point forward exists here: [Click Me!](https://youtu.be/sW7s5IhN7qs)  

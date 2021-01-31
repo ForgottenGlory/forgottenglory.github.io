@@ -143,6 +143,8 @@ As with any modlist, it is strongly recommended that you start with a clean, unm
 2. If there are any files leftover in the Skyrim Special Edition game folder (Right-click > Properties… > Local Files > Browse Local Files…), delete them.
 3. Install Skyrim: Special Edition.
 
+Also make sure you have deleted or disabled any and all Creation Club content that may have downloaded with the game.
+
 ### Steam Setup
 1. In Steam, set Skyrim: Special Edition to update only when opened. (Right-click > Properties… > Updates > Automatic updates > Only update this game when I launch it)
 2. In Steam, disable the Steam Overlay. (Right-click > Properties... > General > Enable the Steam Overlay while in-game checkbox)

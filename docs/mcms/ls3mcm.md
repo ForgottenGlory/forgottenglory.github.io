@@ -30,10 +30,12 @@ Immediately after you create your character, you'll be prompted to assign your a
 
 ELSA gives you a bonus to a single skill based on your character's background. To do this, select the "Reflect" option from your Power/Shout menu and then press the Shout key (Usually Z) to select your background.
 
-These choices are permanent and cannot be changed!
+These choices you make in the AVA and ELSA menus are permanent and cannot be changed!
 
-## Classic Classes Reimagined
-You will start the game with a book in your inventory called "Classic Classes". Read this book to select a class and birthsign for your character. This choice is permanent and cannot be changed!
+## Classic Classes & Birthsigns Reimagined
+You will start the game with a book in your inventory called "Classic Classes". Read this book to select a class and birthsign for your character. Selecting a class and birthsign using Classic Classes is 100% optional, as it can make the game significantly easier. The book can be safely disposed of as you wish. If you want a challenge, try playing without selecting a class/birthsign. You can still select a birthsign by finding the appropriate standing stone at any time.
+
+The choices you make in the CC&BR menu are permanent and cannot be changed!
 
 <table class="tg">
 <thead>
