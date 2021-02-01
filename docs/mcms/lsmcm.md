@@ -26,11 +26,11 @@ permalink: /mcms/lsmcm/
 </table>
 
 ## AVA & ELSA
-Immediately after you create your character, you'll be prompted to assign your attributes using AVA. You may do this now, or later by selecting the appropriate response when the popup appears.
+Immediately after you create your character, you'll be prompted to assign your attributes using AVA. You may do this now, or later by selecting the appropriate response when the popup appears. If you choose to do this later, you'll be given a power in your Powers/Shouts menu that you can activate to assign your attributes.
 
 ELSA gives you a bonus to a single skill based on your character's background. To do this, select the "Reflect" option from your Power/Shout menu and then press the Shout key (Usually Z) to select your background.
 
-These choices you make in the AVA and ELSA menus are permanent and cannot be changed!
+The choices you make in the AVA and ELSA menus are permanent and cannot be changed!
 
 ## Classic Classes & Birthsigns Reimagined
 You will start the game with a book in your inventory called "Classic Classes". Read this book to select a class and birthsign for your character. Selecting a class and birthsign using Classic Classes is 100% optional, as it can make the game significantly easier. The book can be safely disposed of as you wish. If you want a challenge, try playing without selecting a class/birthsign. You can still select a birthsign by finding the appropriate standing stone at any time.

@@ -121,9 +121,9 @@ Before you get started installing or playing Living Skyrim, it's important to no
 </table>
 
 * You are not required to have Nexus Premium to install Living Skyrim, however, it is **highly recommended.** Nexus Premium will cut your install time to a fraction of what it would be by automating both the mod download and mod install processes of installing the list.
-* As of version 3.0.0, Living Skyrim requires 208GB of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing to an SSD/NVMe is not required, but also **highly recommended.** Download and installation times vary based on your computer and internet speeds, but expect the entire process to take a few hours. If you are installing the list without Nexus Premium, expect the process to take a couple of days of 8+ hour sessions downloading mods.
+* As of version 3.0.0.1, Living Skyrim requires 224GB of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing to an SSD/NVMe is not required, but also **highly recommended.** Download and installation times vary based on your computer and internet speeds, but expect the entire process to take a few hours. If you are installing the list without Nexus Premium, expect the process to take a couple of days of 8+ hour sessions downloading mods.
 * To maximize performance, both Skyrim: Special Edition and Living Skyrim should be installed on the same hard drive, ideally an SSD/NVMe. This is not required, just recommended if you want the smoothest gameplay experience.
-* If you are not familiar with the contents of this modlist, a complete documentation of every mod in the list including links to the mods is available on the [LS3 Modlist Spreadsheet]().
+* If you are not familiar with the contents of this modlist, a complete documentation of every mod in the list including links to the mods is available on the [LS3 Modlist Spreadsheet](https://docs.google.com/spreadsheets/d/1PxBMg2rIApANPaS0jW5d597dnDjNy8kcHKNoprf6NDs/edit?usp=sharing).
 * If you instead only wish for a brief overview of the major changes this modlist makes, you should refer to the [Important Mods You Need to Know About](#important-mods-you-need-to-know-about) section of this document.
 * Autosaves for Living Skyrim 3 are partially disabled. The game will still autosave when you rest, wait, or fast travel - but at no other time will it autosave. You should make your quicksave button your best friend (usually, the F5 key).
 * Continuing the last point, it is always better to save **before** entering a loading screen instead of after. After a loading screen it is very likely that scripts will be running for at least 30 seconds, so if you must save after a loading screen, at least wait that long before doing so.
@@ -219,22 +219,21 @@ If you are updating your existing installation of Living Skyrim, skip to the [Up
 
 It's now time to begin the installation of the list. Follow these steps:
 
-1. Run Wabbajack.exe. The program should automatically update itself to the latest version.
-2. At the bottom of the window, click Browse Modlists.
-3. Locate the Living Skyrim card. You can filter the gallery by game using the dropdown menu at the top of the gallery. Living Skyrim is listed under Skyrim Special Edition.
-4. On the Living Skyrim card, click the download/down arrow icon.
-5. Once it finishes downloading, click the play/right arrow icon on the Living Skyrim card.
-6. Below the image you see of the Living Skyrim logo, there are three text boxes. The second and third need to be filled out.
-7. Click the three dots in the second (middle) box. Navigate to your Living Skyrim folder and then select this folder in the window that appears. This middle box tells you where the list will be installed, including the copy of Mod Organizer 2 that you'll need to use to launch the list.
-8. The third (bottom) box will automatically populate using the folder you just selected. This third box tells you where all of the mods will be downloaded. If you have hard drive limitations, you may change this to another folder on another hard drive by clicking the three dots in this box and selecting a new folder.
-9. Click the play/right arrow button to begin the installation.
+1. Download this .wabbajack installer file: [Click Here](https://drive.google.com/file/d/1YRxIBbRSCRX2ajChKH53HgaayBujWDnP/view?usp=sharing)
+2. Run Wabbajack.exe.
+3. At the bottom of the window, click Install From Disk.
+4. Locate the installer file you just downloaded using the window that appears and open it.
+5. Below the image you see of the Living Skyrim logo, there are three text boxes. The second and third need to be filled out.
+6. Click the three dots in the second (middle) box. Navigate to your Living Skyrim folder and then select this folder in the window that appears. This middle box tells you where the list will be installed, including the copy of Mod Organizer 2 that you'll need to use to launch the list.
+7. The third (bottom) box will automatically populate using the folder you just selected. This third box tells you where all of the mods will be downloaded. If you have hard drive limitations, you may change this to another folder on another hard drive by clicking the three dots in this box and selecting a new folder.
+8.  Click the play/right arrow button to begin the installation.
 
 ### With Nexus Premium
-10. Wabbajack will ask you to login to Nexus and authorize your API key so it can download mods for you automatically. If this doesn't happen, it isn't a problem and means you've already set this up.
-11. Wabbajack will now download and install all of the mods. This will take a while (3-4 hours at most). Take this opportunity to read the [Important Mods You Need To Know About](#important-mods-you-need-to-know-about) section of this document. 
+9. Wabbajack will ask you to login to Nexus and authorize your API key so it can download mods for you automatically. If this doesn't happen, it isn't a problem and means you've already set this up.
+10. Wabbajack will now download and install all of the mods. This will take a while (3-4 hours at most). Take this opportunity to read the [Important Mods You Need To Know About](#important-mods-you-need-to-know-about) section of this document. 
 
 ### Without Nexus Premium
-10. Wabbajack will prompt you to click all the needed buttons to download the modlist. Be prepared for this to take an extraordinarily long time. Current reports indicate installing the list manually takes approximately 24 hours. Also be aware that due to the amount of time required when installing this list manually, the list may update during the time it takes to install and you may need to start over if that happens. Installing with Nexus Premium isn't required, but is strongly recommended if you value your time. If you must install the list manually, put on an audiobook or a TV show and make a day of it.
+9. Wabbajack will prompt you to click all the needed buttons to download the modlist. Be prepared for this to take an extraordinarily long time. Current reports indicate installing the list manually takes approximately 24 hours. Also be aware that due to the amount of time required when installing this list manually, the list may update during the time it takes to install and you may need to start over if that happens. Installing with Nexus Premium isn't required, but is strongly recommended if you value your time. If you must install the list manually, put on an audiobook or a TV show and make a day of it.
 
 <table class="tg">
 <thead>
@@ -312,16 +311,15 @@ If you wish to use ENB, follow these steps:
 ## Updating Living Skyrim
 If you are updating Living Skyrim, the process is very similar to installing the list. Before you update, you should at a minimum backup your save files. Updating may delete any saves that are present. Additionally, make sure you are using the latest version of Wabbajack (it should automatically update itself when you launch the program).
 
-1. Run Wabbajack.exe. The program should automatically update itself to the latest version.
-2. At the bottom of the window, click Browse Modlists.
-3. Locate the Living Skyrim card. You can filter the gallery by game using the dropdown menu at the top of the gallery. Living Skyrim is listed under Skyrim Special Edition.
-4. On the Living Skyrim card, click the download/down arrow icon.
-5. Once it finishes downloading, click the play/right arrow icon on the Living Skyrim card.
-6. Below the image you see of the Living Skyrim logo, there are three text boxes. The second and third need to be filled out.
-7. Click the three dots in the second (middle) box. Navigate to your Living Skyrim folder and then select this folder in the window that appears. This middle box tells you where the list will be installed, including the copy of Mod Organizer 2 that you'll need to use to launch the list.
-8. The third (bottom) box will automatically populate using the folder you just selected. This third box tells you where all of the mods will be downloaded. If you have hard drive limitations, you may change this to another folder on another hard drive by clicking the three dots in this box and selecting a new folder.
-9. Click the play/right arrow button to begin the installation.
-10. If you are prompted to overwrite, confirm that this is what you want to do by clicking the Confirm button.
+1. Download this .wabbajack installer file: [Click Here](https://drive.google.com/file/d/1YRxIBbRSCRX2ajChKH53HgaayBujWDnP/view?usp=sharing)
+2. Run Wabbajack.exe.
+3. At the bottom of the window, click Install From Disk.
+4. Locate the installer file you just downloaded using the window that appears and open it.
+5. Below the image you see of the Living Skyrim logo, there are three text boxes. The second and third need to be filled out.
+6. Click the three dots in the second (middle) box. Navigate to your Living Skyrim folder and then select this folder in the window that appears. This middle box tells you where the list will be installed, including the copy of Mod Organizer 2 that you'll need to use to launch the list.
+7. The third (bottom) box will automatically populate using the folder you just selected. This third box tells you where all of the mods will be downloaded. If you have hard drive limitations, you may change this to another folder on another hard drive by clicking the three dots in this box and selecting a new folder.
+8. Click the play/right arrow button to begin the installation.
+9.  If you are prompted to overwrite, confirm that this is what you want to do by clicking the Confirm button.
 
 ## Launching Living Skyrim
 To actually launch and then play Living Skyrim, follow these steps:
@@ -572,9 +570,6 @@ Yes, just close Wabbajack. When you start the installation process again it will
 
 #### "Can I delete the downloads folder after installing?"
 Yes, but remember that if you need to update the list you will have to download all of the mods that have updated again.
-
-#### "The LS2 DynDOLOD Output fails to download."
-You'll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [LS2 DynDOLOD 2.4.0](https://drive.google.com/file/d/1tSWvQiXIHqgngYmoW5eUHQFerUsOP7Wo/view?usp=sharing)
 
 ### Gameplay Issues
 #### "The Main Quest doesn't proceed after retrieving the Dragonstone."
