@@ -914,6 +914,6 @@ permalink: /changelogs/ls/
   - Added several custom patches to forward records from SkyRem Grace, Lawbringer, and a catch-all patch 
   - Moved meshes into a mod to fix Iona, a texture into Bijin NPCs to fix Adrianne, and added current Black Face Bug patch
 
-### 6/1/2020 3.0.0 Beta 1
+### 2/1/2020 3.0.0 Beta 1
 #### Major
 * **Everything changed.** 3.0.0 is a complete rebuild of the list from the ground up.
