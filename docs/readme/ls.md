@@ -30,58 +30,58 @@ Current version: 2/1/2021 3.0.0.1 Beta 1
   <tr>
     <th>
       <ul style="list-style-type:none;">
-        <li><a href="https://forgottenglory.github.io/readme/ls3/#preface">Preface</a></li>
-        <li><a href="https://forgottenglory.github.io/readme/ls3/#before-you-get-started">Before You Get Started</a></li>
+        <li><a href="https://forgottenglory.github.io/readme/ls/#preface">Preface</a></li>
+        <li><a href="https://forgottenglory.github.io/readme/ls/#before-you-get-started">Before You Get Started</a></li>
           <ul style="list-style-type:none;">
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#system-specifications">System Specifications</a></li>
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#important-links">Important Links</a></li>
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#screenshots">Screenshots</a></li>
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#videos">Videos</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls/#system-specifications">System Specifications</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls/#important-links">Important Links</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls/#screenshots">Screenshots</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls/#videos">Videos</a></li>
           </ul>
-        <li><a href="https://forgottenglory.github.io/readme/ls3/#pre-installation">Pre-Installation</a></li>
+        <li><a href="https://forgottenglory.github.io/readme/ls/#pre-installation">Pre-Installation</a></li>
           <ul style="list-style-type:none;">
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#steam--skyrim-special-edition-setup">Steam &amp; SSE Setup</a></li>
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#wabbajack-preparations">Wabbajack Preparations</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls/#steam--skyrim-special-edition-setup">Steam &amp; SSE Setup</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls/#wabbajack-preparations">Wabbajack Preparations</a></li>
           </ul>
-        <li><a href="https://forgottenglory.github.io/readme/ls3/#installing-the-list">Installing the List</a></li>
+        <li><a href="https://forgottenglory.github.io/readme/ls/#installing-the-list">Installing the List</a></li>
           <ul style="list-style-type:none;">
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#game-folder-files">Game Folder Files</a></li>
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#post-wabbajack-install">Post-Wabbajack Install</a></li>
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#mod-organizer-2">Mod Organizer 2</a></li>
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#configuration-specific">Configuration-Specific Setup</a></li>
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#enb">ENB</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls/#game-folder-files">Game Folder Files</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls/#post-wabbajack-install">Post-Wabbajack Install</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls/#mod-organizer-2">Mod Organizer 2</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls/#configuration-specific">Configuration-Specific Setup</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls/#enb">ENB</a></li>
           </ul>
-          <li><a href="https://forgottenglory.github.io/readme/ls3/#updating-living-skyrim">Updating Living Skyrim</a></li>
-          <li><a href="https://forgottenglory.github.io/readme/ls3/#launching-living-skyrim">Launching Living Skyrim</a></li>
-          <li><a href="https://forgottenglory.github.io/readme/ls3/#the-mcm-settings">The MCM Settings</a></li>
-          <li><a href="https://forgottenglory.github.io/readme/ls3/#getting-started-in-living-skyrim">Getting Started in Living Skyrim</a></li>
+          <li><a href="https://forgottenglory.github.io/readme/ls/#updating-living-skyrim">Updating Living Skyrim</a></li>
+          <li><a href="https://forgottenglory.github.io/readme/ls/#launching-living-skyrim">Launching Living Skyrim</a></li>
+          <li><a href="https://forgottenglory.github.io/readme/ls/#the-mcm-settings">The MCM Settings</a></li>
+          <li><a href="https://forgottenglory.github.io/readme/ls/#getting-started-in-living-skyrim">Getting Started in Living Skyrim</a></li>
       </ul>
     </th>
     <th>
       <ul style="list-style-type:none;">
-        <li><a href="https://forgottenglory.github.io/readme/ls3/#important-mods-you-need-to-know-about">Important Mods You Need to Know About</a></li>
+        <li><a href="https://forgottenglory.github.io/readme/ls/#important-mods-you-need-to-know-about">Important Mods You Need to Know About</a></li>
           <ul style="list-style-type:none;">
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#the-population-mods">The Population Mods</a></li>
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#the-quest-mods">The Quest Mods</a></li>
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#the-magic-mods">The Magic Mods</a></li>
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#the-combat-mods">The Combat Mods</a></li>
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#the-perks--leveling-mods">The Perks & Leveling Mods</a></li>
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#the-economy-and-loot-mods">The Economy and Loot Mods</a></li>
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#the-hud-mods">The HUD Mods</a></li>
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#character-customization-mods">Character Customization Mods</a></li>
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#player-homes">Player Homes</a></li>
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#nethers-follower-framework">Nether's Follower Framework</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls/#the-population-mods">The Population Mods</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls/#the-quest-mods">The Quest Mods</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls/#the-magic-mods">The Magic Mods</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls/#the-combat-mods">The Combat Mods</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls/#the-perks--leveling-mods">The Perks & Leveling Mods</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls/#the-economy-and-loot-mods">The Economy and Loot Mods</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls/#the-hud-mods">The HUD Mods</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls/#character-customization-mods">Character Customization Mods</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls/#player-homes">Player Homes</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls/#nethers-follower-framework">Nether's Follower Framework</a></li>
           </ul>
-        <li><a href="https://forgottenglory.github.io/readme/ls3/#bug-reporting-github-and-you">Bug Reporting, Github, and You</a></li><br>
-        <li><a href="https://forgottenglory.github.io/readme/ls3/#common-issues">Common Issues</a></li>
+        <li><a href="https://forgottenglory.github.io/readme/ls/#bug-reporting-github-and-you">Bug Reporting, Github, and You</a></li><br>
+        <li><a href="https://forgottenglory.github.io/readme/ls/#common-issues">Common Issues</a></li>
           <ul style="list-style-type:none;">
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#wabbajack-issues">Wabbajack Issues</a></li>
-            <li><a href="https://forgottenglory.github.io/readme/ls3/#gameplay-issues">Gameplay Issues</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls/#wabbajack-issues">Wabbajack Issues</a></li>
+            <li><a href="https://forgottenglory.github.io/readme/ls/#gameplay-issues">Gameplay Issues</a></li>
           </ul>
-        <li><a href="https://forgottenglory.github.io/readme/ls3/#adding-to-living-skyrim">Adding to Living Skyrim</a></li>
-        <li><a href="https://forgottenglory.github.io/readme/ls3/#performance-optimizations">Performance Optimizations</a></li>
-        <li><a href="https://forgottenglory.github.io/readme/ls3/#other-common-questions">Other Common Questions</a></li>
-        <li><a href="https://forgottenglory.github.io/readme/ls3/#credits--thanks">Credits &amp; Thanks</a></li>
+        <li><a href="https://forgottenglory.github.io/readme/ls/#adding-to-living-skyrim">Adding to Living Skyrim</a></li>
+        <li><a href="https://forgottenglory.github.io/readme/ls/#performance-optimizations">Performance Optimizations</a></li>
+        <li><a href="https://forgottenglory.github.io/readme/ls/#other-common-questions">Other Common Questions</a></li>
+        <li><a href="https://forgottenglory.github.io/readme/ls/#credits--thanks">Credits &amp; Thanks</a></li>
       </ul>
     </th>
   </tr>
@@ -342,7 +342,7 @@ To actually launch and then play Living Skyrim, follow these steps:
 </table>
 
 ### The MCM Settings
-For the Beta, some MCM settings have been pre-set for you. See this document to set the remaining MCMs that are required for LS3 to function correctly: [Click Here](https://forgottenglory.github.io/mcms/ls3mcm/)
+For the Beta, some MCM settings have been pre-set for you. See this document to set the remaining MCMs that are required for LS3 to function correctly: [Click Here](https://forgottenglory.github.io/mcms/lsmcm/)
 
 ### Getting Started in Living Skyrim
 If you're coming from a previous version of Living Skyrim (1.x.x or 2.x.x), throw out everything you thought you knew. If you're new to Living Skyrim, welcome! It's gonna be a bumpy ride - at first.
