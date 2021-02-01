@@ -73,10 +73,6 @@ The choices you make in the CC&BR menu are permanent and cannot be changed!
   * Settings
     * Enable?: Enabled
 
-* Real Names
-  * Basic Options
-    * Keep Generic Name: Brackets (New Line)
-
 * Sky UI
   * Advanced
     * SWF Version Checking
@@ -84,15 +80,6 @@ The choices you make in the CC&BR menu are permanent and cannot be changed!
 
 * Imm. Spell Learning
   * Click Start Immersive Spell Learning
-
-* Take Notes!
-  * Controls
-    * Open Journal: B
-
-* Trade & Barter
-  * Barter Rates
-    * Presets
-      * Barter Presets: Medium
 
 * The Ultimate Dodge Mod
   * General Settings
@@ -256,6 +243,10 @@ The choices you make in the CC&BR menu are permanent and cannot be changed!
 * Quick Light
   * Brightness: Bright
 
+* Real Names
+  * Basic Options
+    * Keep Generic Name: Brackets (New Line)
+
 * Sofia
   * Comment Frequency: 24
   * Comments Disabled: Enabled
@@ -264,10 +255,19 @@ The choices you make in the CC&BR menu are permanent and cannot be changed!
   * SUT Configuration
     * Lore friendly items only: Enabled
 
+* Take Notes!
+  * Controls
+    * Open Journal: B
+
 * Timing is Everything
   * Other Options
     * The Break of Dawn: No Vampires: Enabled
   * Extra Options
     * Thalmor Squad: Quest Requirement: Enabled
+
+* Trade & Barter
+  * Barter Rates
+    * Presets
+      * Barter Presets: Medium
 
 
