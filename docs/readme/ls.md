@@ -574,6 +574,9 @@ Yes, but remember that if you need to update the list you will have to download 
 #### "The LS3 DynDOLOD Output fails to download."
 You'll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [LS3 DynDOLOD 3.0.0](https://drive.google.com/file/d/19gM9W22S3QqXNF7MCgArmqd9vJJ1EEib/view?usp=sharing)
 
+#### "The LS3 SSELODGen Output fails to download."
+You'll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [LS3 SSELODGen 3.0.0](https://drive.google.com/file/d/1C8shpKCM4CO2fcoxasiw501rgBQiGmAQ/view?usp=sharing)
+
 ### Gameplay Issues
 #### "The Main Quest doesn't proceed after retrieving the Dragonstone."
 Read this modpage: [Not So Fast - Main Quest](https://www.nexusmods.com/skyrimspecialedition/mods/2475)
