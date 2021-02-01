@@ -174,7 +174,7 @@ First, make sure that your Steam library, and therefore the Skyrim Special Editi
 Next, you'll need a clean copy of Skyrim Special Edition. To get your copy to this state, follow these steps:
 
 1. In Steam, uninstall Skyrim: Special Edition (Right-click > Manage > Uninstall). 
-2. If there are any files leftover in the Skyrim Special Edition game folder (Right-click > Properties… > Local Files > Browse Local Files…), delete them.
+2. If there are any files leftover in the Skyrim Special Edition game folder (Right-click > Manage > Browse Local Files), delete them.
 3. Install Skyrim: Special Edition.
 
 <table class="tg">
