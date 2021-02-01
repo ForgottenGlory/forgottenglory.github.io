@@ -361,7 +361,7 @@ If you're coming from a previous version of Living Skyrim (1.x.x or 2.x.x), thro
 ## Important Mods You Need to Know About
 
 ### The Population Mods
-Living Skyrim includes a number of mods that increase the population of both creatures and characters in the world. The first and most important one is [Populated Skyrim Hell Edition](https://www.nexusmods.com/skyrimspecialedition/mods/23871) This mod features a grand number of new NPCs in every location you visit. It has an option for 50% less NPCs which is turned on by default, you can disable this option in the mod's MCM if your PC can handle it or you want an extra challenge.
+Living Skyrim includes a number of mods that increase the population of both creatures and characters in the world. The first and most important one is [Populated Skyrim Hell Edition](https://www.nexusmods.com/skyrimspecialedition/mods/5017) This mod features a grand number of new NPCs in every location you visit. It has an option for 50% less NPCs which is turned on by default, you can disable this option in the mod's MCM if your PC can handle it or you want an extra challenge.
 
 Next is [OBIS](https://www.nexusmods.com/skyrimspecialedition/mods/4145), which adds a ton of mid to high-level bandits to the world. In general this covers most of the overworld locations.
 
