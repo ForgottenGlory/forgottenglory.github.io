@@ -214,6 +214,7 @@ permalink: /changelogs/dnd/
   * SLSO
   * Animal Mansion Plus
   * Enhanced Estrus Chaurus Textures
+  * GenderBender
 * **Removals**
   * Sanguine's Debauchery
   * Sofia
