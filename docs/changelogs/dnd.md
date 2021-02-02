@@ -213,11 +213,11 @@ permalink: /changelogs/dnd/
   * Added TRX Cow Girl outfit.
   * SLSO
   * Animal Mansion Plus
+  * Enhanced Estrus Chaurus Textures
 * **Removals**
   * Sanguine's Debauchery
   * Sofia
   * RTattoos
-  * Enhanced Estrus Chaurus Textures
 * **Mod Updates**
   * Updated SL Survival to v0.635
   * Updated Cathedral Armory to v3.1.2
