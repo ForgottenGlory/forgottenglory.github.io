@@ -226,6 +226,7 @@ permalink: /changelogs/dnd/
   * Engine Fixes
   * Ladies of Solitude v2.1.0
   * DynDOLOD EXE
+  * Updated Billyy's SLAL Animations (and fixed missing AnimObjects.esp)
 * **Other**
   * Updated MCMs.
   * Reverted a number of mods to Form 43 to fix some script issues. Form 43 ESPs included in the list are now intentional.
