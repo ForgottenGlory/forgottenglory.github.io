@@ -17,7 +17,7 @@ permalink: /readme/dnd/
 .tg .warning{background-color:#353535;border-style:dashed;border-color:#c6271b;color:#c6271b;text-align:center;vertical-align:top}
 </style>
 
-Current version: 1.3.0 1/8/2021  
+Current version: 1.4.0 2/2/2021  
 ![total-installs](https://img.shields.io/endpoint?label=Total%20Installs&style=for-the-badge&url=https://build.wabbajack.org/metrics/badge/dungeons_and_deviousness/total_installs_badge.json)  
 ![build-status](https://img.shields.io/endpoint?label=List%20Status&style=for-the-badge&url=https://build.wabbajack.org/lists/status/dungeons_and_deviousness/badge.json)
 
