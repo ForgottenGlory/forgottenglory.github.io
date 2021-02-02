@@ -183,6 +183,7 @@ permalink: /changelogs/dnd/
   * Updated Awesome Artifacts to v2.0.3
 
 ### 1/8/2021 1.3.0
+#### Minor
 * **Fixes**
   * Fixed Realistic Needs hunger getting stuck.
 * **Additions**
@@ -202,3 +203,31 @@ permalink: /changelogs/dnd/
   * Updated MCM document to make things clearer.
   * Updated Bodyslide Groups and Prebuilt Bodyslides.
   * Updated Readme.
+
+### 1/29/2020 1.4.0
+#### Minor
+* **Fixes**
+  * Fixed Realistic Needs hunger getting stuck (for real this time).
+  * Fixed a couple of missing Prebuilt bodyslide meshes.
+* **Additions**
+  * Added TRX Cow Girl outfit.
+  * SLSO
+  * Animal Mansion Plus
+* **Removals**
+  * Sanguine's Debauchery
+  * Sofia
+  * RTattoos
+  * Enhanced Estrus Chaurus Textures
+* **Mod Updates**
+  * Updated SL Survival to v0.635
+  * Updated Cathedral Armory to v3.1.2
+  * Updated MNC to v12.5
+  * Simple Slavery Plus Plus to v6.3.5
+  * Engine Fixes
+  * Ladies of Solitude v2.1.0
+  * DynDOLOD EXE
+* **Other**
+  * Updated MCMs.
+  * Reverted a number of mods to Form 43 to fix some script issues. Form 43 ESPs included in the list are now intentional.
+  * Updated Bodyslide Groups & Prebuilt Bodyslides.
+  * Regenerated FNIS Output.

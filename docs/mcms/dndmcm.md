@@ -35,10 +35,6 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
 * Settings
     - Depth of Field: Minimum/Off
 
-* A Matter of Time
-  * Presets
-    * Click on "Load user settings" and confirm.
-
 * Archery Gameplay Overhaul (AGO)
   - Settings
     - Persistent Arrows: Disabled
@@ -62,9 +58,6 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
 </thead>
 </table>
 
-* Deadly Dragons
-  * Presets: Expert
-
 * Devious Device Helpers
   * Basic Settings
     * Where follower may ask to tie player: Disable all except Player homes.
@@ -83,16 +76,16 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
   * Debug
     * Click Load Setting
 
+* Egg Factory
+  * General Options
+  * Belly Scale Type: RaceMenu
+
 * Estrus Chaurus+
   * If Estrus Chaurus doesn't appear in the MCM menu, you need to go back to the start of this document and read the red text. :)
   * Options
     * Short Birth Duration: Enabled
   * Animations
     * Click Register Animations to enable them, then exit the MCM and re-enter the MCM.
-
-* Egg Factory
-  * General Options
-  * Belly Scale Type: RaceMenu
 
 * Follower Framework
   * System
@@ -103,6 +96,11 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
     * Forgotten Wench Spawn: 10%
     * Chaurus Spawn: 25%
     * Falmer Resurrection: 10%
+
+* Gender Bender
+  * Mod Active: Enabled
+  * Gender Quick Change: Numpad 7
+  * No Effects: Enabled
 
 * Hateful Wenches
   * Hateful Configuration
@@ -128,10 +126,6 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
   * Unlock with Magic
     * Enable Unlock Spell: Enabled
 
-* Loot & Degradation
-  * Widget Settings
-    * Contextual: Enabled
-
 * Milk Mod
   * Settings
     * Difficulty: Apprentice
@@ -139,22 +133,15 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
     * Milking Duration: 1 sec
     * Feeding Duration: 1 sec
     * Simple Race Milk: Disabled
+  * Debug
+    * Enable Debug
   * Spell Configuration
     * Disable Skooma Effect: Enabled
-  * Debug
-    * Enable Debug, then exit the MCM and re-enter it.
+  * Debug (Again)
     * Disable Armor Stripping: Enabled
 
-* Quick Light
-  * Type: None
-  * Brightness: (personal preference) Bright
-
-* Sanguine's Debauchery
-  * Configuration
-    * Female: Using CBBE: Enabled
-
 * Schlongs of Skyrim
-  * Global Settings
+  * General Settings
     * SOS Potions: Disabled
 
 * SexLab Aroused
@@ -192,7 +179,6 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
     * Click Import Settings. When it says Actioning, you are free to move on.
 
 * Simple Slavery
-  * SD+: Enabled
   * DCL - Bondage Adventure: Enabled
   * DCL - Leon: Enabled
   * DCL - Leah: Enabled
@@ -211,13 +197,9 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
   * Presets
     * Click Realistic
 
-* Trade & Barter
-  * Barter Rates
-    * Modify Barter Settings: Enabled
-    * Barter Presets: Medium
-
 * WetFunction Redux
-  * Click Import Settings.
+  * Misc
+    * Click Import Settings.
 
 * SexLab
   * Rebuild & Clean
@@ -226,10 +208,15 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
   * Sex Diary
     * Sexuality: Pick your character's preference.
 
+* SL Separate Orgasms
+  * General Configuration
+      * Sexlab animation stage enjoyment: Enabled
+      * (Optional) Player autopilot: Enabled
+
 * SL Anim Loader
   * General Options
     * Click Enable All
-  * More Nasty Critters
+  * (Optional) More Nasty Critters 
     * Click Disable All 
   * General Options (again)
     * Click Register Animations **This can take up to 5 minutes to complete, wait in the MCM until it is finished.**
@@ -244,7 +231,7 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
 <table class="tg">
 <thead>
   <tr>
-    <th class="warning"><b>Important!</b> The following should only be configured after you have selected your Alternate Start and loaded into the game world or have escaped the Abandoned Prison.</th>
+    <th class="warning"><b>WARNING:</b> The following should only be configured after you have selected your Alternate Start and loaded into the game world or have escaped the Abandoned Prison.</th>
   </tr>
 </thead>
 </table>
@@ -273,7 +260,40 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
 <table class="tg">
 <thead>
   <tr>
-    <th class="warning"><b>Important!</b> Save your game! I promise you don't want to have to do the MCM setups more than once. After completing MCM setup it is safe to equip weapons/spells. You'll be prompted to pick a class and birthsign.</th>
+    <th class="warning"><b>WARNING:</b> Save your game! I promise you don't want to have to do the MCM setups more than once. After completing MCM setup it is safe to equip weapons/spells. You'll be prompted to pick a class and birthsign.</th>
   </tr>
 </thead>
 </table>
+
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="important"><b>Important!</b> The following are purely for documentation purposes. These have been pre-set for you.</th>
+  </tr>
+</thead>
+</table>
+
+* A Matter of Time
+  * Presets
+    * Click on "Load user settings" and confirm.
+
+* Deadly Dragons
+  * Presets: Expert
+
+* Trade & Barter
+  * Barter Rates
+    * Modify Barter Settings: Enabled
+    * Barter Presets: Medium
+
+* Quick Light
+  * Type: Lantern
+  * Brightness: (personal preference) Bright
+
+* The Animal Mansion
+  * Number of Jobs: 3
+
+* Loot & Degradation
+  * Widget Settings
+    * Contextual: Enabled
+

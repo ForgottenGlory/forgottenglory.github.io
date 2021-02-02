@@ -255,15 +255,17 @@ When you first load up D&D, there will be zero BodySlides created. You have two 
 ### Prebuilt Bodyslides
 If you don't really care what preset you use and/or are fine with MelaRockingPhysique, follow these steps.
 
-1. Download this zip file: [D&D Prebuilt Bodyslides](https://drive.google.com/file/d/1Z4VX-OFKicz6AWSSMsJY-RGgIOgCbb8U/view?usp=sharing)
-2. Open the ZIP file.
-3. Copy everything inside the zip file into [Install Drive]\Dungeons & Deviousness\mods\Bodyslide Output
-4. That's it, you're done!
+1. Close MO2 if you have it open.
+2. Download this zip file: [D&D Prebuilt Bodyslides](https://drive.google.com/file/d/1Z4VX-OFKicz6AWSSMsJY-RGgIOgCbb8U/view?usp=sharing)
+3. Open the ZIP file.
+4. Copy everything inside the zip file (the meshes folder in its entirety, including the folder itself) into [Install Drive]\Dungeons & Deviousness\mods\Bodyslide Output
+5. Reopen MO2.
+6. That's it, you're done!
 
 ### Build Your Own
 If you want to build them yourself, this is a fairly straightforward process, but it can be a bit time consuming.
 
-Before you get started, if you have your own personal BodySlide preset that you like, drop the XML file into C:\Dungeons & Deviousness\mods\Custom Presets\Caliente Tools\BodySlide\SliderPresets alongside "Summer.xml".
+Before you get started, if you have your own personal BodySlide preset that you like, drop the XML file into [Install Drive]\Dungeons & Deviousness\mods\Custom Presets\Caliente Tools\BodySlide\SliderPresets alongside "Summer.xml".
 
 One more thing: if you get an error about BodySlide not being able to find the output path, click on the Settings button in BodySlide, click on the "Advanced" button, and set the Output Path to [Install Drive]\Dungeons & Deviousness\mods\Bodyslide Output.
 
@@ -272,8 +274,10 @@ One more thing: if you get an error about BodySlide not being able to find the o
 3. Put a checkmark into **ONLY** "00 Step 1. DD Armor Part 1".
 4. From the Preset dropdown, select your preferred preset. I've included a couple of extras on top of the default CBBE ones, or you can make your own. 
 5. Make sure that the "Build Morphs" checkbox is checked at the bottom of the BodySlide window.
-6. Click "Batch Build..." and then Build on the window that appears.
-7. Repeat steps 3 through 6 for "00 Step 2. DD Armor Part 2" and "00 Step 3. DD Bodies". For DD Bodies you may want to select a different Bodyslide preset if you want armor/clothing to look different than the nude bodies. (MekaRockingArmor/MelaRockingOutfit for the armors and MelaRockingPhysique for the body, for example.)
+6. Hold the CTRL key on your keyboard and click "Batch Build..."
+7. Click Build on the window that appears.
+8. Select your [Install Drive]\Dungeons & Deviousness\mods\Bodyslide Output folder in the window that appears.
+9. Repeat steps 3 through 8 for "00 Step 2. DD Armor Part 2" and "00 Step 3. DD Bodies". For DD Bodies you may want to select a different Bodyslide preset if you want armor/clothing to look different than the nude bodies. (MelaRockingArmor/MelaRockingOutfit for the armors and MelaRockingPhysique for the body, for example.)
 
 ### A Note About Presets
 If you have your own favorite character face/head preset, drop the JSLOT file into C:\Dungeons & Deviousness\mods\Custom Presets\SKSE\Plugins\CharGen\Presets alongside Anna.jslot and Summer.jslot. It will be available in RaceMenu the next time you go to make a character. Make sure to back this up before updating the list as updating will erase any added files like this. Adding presets (whether they be BodySlide or RaceMenu) does not void support for Dungeons & Deviousness.
