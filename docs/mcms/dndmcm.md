@@ -216,9 +216,6 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
 * SL Anim Loader
   * General Options
     * Click Enable All
-  * (Optional) More Nasty Critters 
-    * Click Disable All 
-  * General Options (again)
     * Click Register Animations **This can take up to 5 minutes to complete, wait in the MCM until it is finished.**
 
 * ELSA
