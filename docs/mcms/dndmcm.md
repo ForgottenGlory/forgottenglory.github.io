@@ -153,11 +153,6 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
   * Widget Looks
     * Vertical Anchor (Personal preference): Middle or Bottom
 
-* SexLab Eager NPCs
-  * Click Enable and set Defaults. Immediately exit the MCM, wait for SLEN to finish configuring, then go back into it.
-  * SOS Integration
-    * Futanari CBBE: Enabled
-
 * SexLab Inflation Framework
   * Config
     * Current List: 002_CBBE_SE_Lists.json
@@ -232,6 +227,12 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
   </tr>
 </thead>
 </table>
+
+
+* SexLab Eager NPCs
+  * Click Enable and set Defaults. Immediately exit the MCM, wait for SLEN to finish configuring, then go back into it.
+  * SOS Integration
+    * Futanari CBBE: Enabled
 
 * Realistic Needs
   * Click Start RN&D
