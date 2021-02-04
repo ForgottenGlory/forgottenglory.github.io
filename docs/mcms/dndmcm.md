@@ -228,7 +228,6 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
 </thead>
 </table>
 
-
 * SexLab Eager NPCs
   * Click Enable and set Defaults. Immediately exit the MCM, wait for SLEN to finish configuring, then go back into it.
   * SOS Integration
