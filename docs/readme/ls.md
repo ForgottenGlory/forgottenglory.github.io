@@ -19,7 +19,7 @@ permalink: /readme/ls/
 
 ![](https://i.imgur.com/Vokoo6f.png)
 
-Current version: 2/1/2021 3.0.0.2 Beta 2
+Current version: 2/5/2021 3.0.0.2 Beta 2
 
 ![total-installs](https://img.shields.io/endpoint?label=Total%20Installs&style=for-the-badge&url=https://build.wabbajack.org/metrics/badge/living_skyrim/total_installs_badge.json)  
 ![build-status](https://img.shields.io/endpoint?label=List%20Status&style=for-the-badge&url=https://build.wabbajack.org/lists/status/living_skyrim/badge.json)
