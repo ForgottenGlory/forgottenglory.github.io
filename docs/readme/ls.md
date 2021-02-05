@@ -19,7 +19,7 @@ permalink: /readme/ls/
 
 ![](https://i.imgur.com/Vokoo6f.png)
 
-Current version: 2/1/2021 3.0.0.1 Beta 1
+Current version: 2/1/2021 3.0.0.2 Beta 2
 
 ![total-installs](https://img.shields.io/endpoint?label=Total%20Installs&style=for-the-badge&url=https://build.wabbajack.org/metrics/badge/living_skyrim/total_installs_badge.json)  
 ![build-status](https://img.shields.io/endpoint?label=List%20Status&style=for-the-badge&url=https://build.wabbajack.org/lists/status/living_skyrim/badge.json)
@@ -457,7 +457,7 @@ Legacy of the Dragonborn of course requires no introduction, but if you're someh
 ### The Magic Mods
 [Smart Cast](https://www.nexusmods.com/skyrimspecialedition/mods/32847) has supplanted Sustained Magic in Living Skyrim 3 for a multitude of reasons, the primary being that it works with every other magic mod out of the box. With Smart Cast you can set up specific rules and conditions under which spells will be cast for you - assuming you have the magicka to cast them. It also lets you combine spells into a single cast, again, assuming you have the magicka to cast them both at the same time. This mod has quite a few features available, reading its mod page is highly recommended.
 
-[Immersive Spell Learning](https://www.nexusmods.com/skyrimspecialedition/mods/33375) completely changes how your character learns new spells. Instead of "eating" the book and learning the spell, you now have to spend time studying notes about the spell to learn it over time. The amount of time it takes to learn new spells is completely configurable through this mod's MCM menu, so feel free to tweak it to your liking. This mod's inclusion is intended to help balance magic as the combination of magic mods included in Living Skyrim make magic *significantly* stronger.
+[Spell Tutor](https://www.nexusmods.com/skyrimspecialedition/mods/45275) completely changes how your character learns new spells. Instead of "eating" the book and learning the spell, you now have to spend time studying the spell to learn it. The amount of time it takes to learn new spells is completely configurable through this mod's MCM menu, so feel free to tweak it to your liking. It also places a restriction on how high your skill needs to be before you can even attempt to learn more powerful spells. This mod's inclusion is intended to help balance magic as the combination of magic mods included in Living Skyrim make magic *significantly* stronger.
 
 [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839), [Forgotten Magic](https://www.nexusmods.com/skyrimspecialedition/mods/12711), [Tomebound](https://www.nexusmods.com/skyrimspecialedition/mods/21403), [Triumvirate](https://www.nexusmods.com/skyrimspecialedition/mods/39170), and [Elemental Destruction Magic](https://www.nexusmods.com/skyrimspecialedition/mods/440) make up the mods adding new spells to Living Skyrim. Between all of these and the additional options found below, it is possible to have multiple mage playthroughs and never do the same build twice.
 

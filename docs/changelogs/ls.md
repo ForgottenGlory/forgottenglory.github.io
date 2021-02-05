@@ -917,3 +917,30 @@ permalink: /changelogs/ls/
 ### 2/1/2020 3.0.0 Beta 1
 #### Major
 * **Everything changed.** 3.0.0 is a complete rebuild of the list from the ground up.
+
+### 2/5/2021 3.0.0.2b Beta 2
+#### Minor
+* **Mod Updates**
+  * Updated Wheels of Lull to v5.0.1
+  * Updated Engine Fixes to v5.6.0
+  * Updated SkyRem AVA to v5.4.5
+  * Updated Window Shadows & Patches
+  * Updated xLODGen EXE to v71.
+* **Fixes**
+  * Over 40 fixed bugs, check closed [Github issues](https://github.com/ForgottenGlory/Living-Skyrim-3/issues?q=is:issue+is:closed)
+  * Fixed flickering shadows in exteriors while moving.
+* **Mod Additions**
+  * Several miscellaneous patches for various mods
+  * SmoothCam and SmoothCam Modern Preset
+  * Spell Tutor
+  * Ennead Banners
+  * Cloaks of Skyrim HD
+* **Removals**
+  * Immersive Spell Learning
+  * Sigils of Skyrim
+  * Cloaks of the Nords
+  * Movement Behavior Overhaul
+  * Jump Behavior Overhaul
+* **Other**
+  * Automated several more MCMs.
+  * Tweaked a couple of things in the readme.

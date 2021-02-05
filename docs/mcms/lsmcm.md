@@ -50,11 +50,6 @@ The choices you make in the CC&BR menu are permanent and cannot be changed!
       * Persistent Arrows: Disabled
       * Arm Fatigue: Disabled
 
-* Deadly Dragons
-  * Dragons
-    * Presets
-      * Difficulty: Expert
-
 * Destructible Display Cases
   * Blunt Objects: Enabled
   * Fire and Frost Spells: Disabled
@@ -69,25 +64,17 @@ The choices you make in the CC&BR menu are permanent and cannot be changed!
     * Command Followers Hotkey: H
     * Followers Attack Hotkey: G
 
-* OBIS - Patrols
-  * Settings
-    * Enable?: Enabled
+* Less Intrusive HUD
+  * Click Load personal preset, then exit the MCM and wait for it to finish before proceeding.
 
 * Sky UI
   * Advanced
     * SWF Version Checking
       * Map Menu: Disabled
 
-* Imm. Spell Learning
-  * Click Start Immersive Spell Learning
-
-* The Ultimate Dodge Mod
-  * General Settings
-    * Combat Dodging Style: Roll Only
-    * Lock Default Dodging Style: Enabled
-    * Dodging Style Hotkey: \
-  * NPC Settings
-    * NPC Dodging Frequency: Not Frequent
+* SmoothCam
+  * Presets
+    * Click Slot4: Modern Preset
 
 * Thieves Guild Req.
   * Main Quest
@@ -97,15 +84,6 @@ The choices you make in the CC&BR menu are permanent and cannot be changed!
       * Radiant Jobs completed: 5
     * Requirements to begin 4th Quest
       * Radiant Jobs Completed: 15
-
-* VioLens
-  * Melee & Ranged
-    * Ranged
-      * Killmoves: Off
-  * Stealth & Triggers
-    * Triggers
-      * Left Attacks: Enabled
-      * Alt Werewolf Attacks: Enabled
 
 <table class="tg">
 <thead>
@@ -179,6 +157,11 @@ The choices you make in the CC&BR menu are permanent and cannot be changed!
       * Harvest Wood: ;
       * Instincts: '
 
+* Deadly Dragons
+  * Dragons
+    * Presets
+      * Difficulty: Expert
+
 * Diverse Dragons Col. 3
   * Dragons
     * Sanguine Dragon: Disabled
@@ -219,10 +202,6 @@ The choices you make in the CC&BR menu are permanent and cannot be changed!
   * Options
     * Hide shout meter with compass: Enabled
 
-* Less Intrusive HUD
-  * HUD Visibility
-    * Show Alternate Compass (Slim): Enabled
-
 * LOTD Settings
   * General
     * Shipment Crate Locations
@@ -231,6 +210,10 @@ The choices you make in the CC&BR menu are permanent and cannot be changed!
       * Player Houses: Enabled
   * Craftloot
     * Craftloot Status: Prompt
+
+* OBIS - Patrols
+  * Settings
+    * Enable?: Enabled
 
 * Populated Hell Edition
   * 50 Percent Less NPCs: Enabled
@@ -269,5 +252,22 @@ The choices you make in the CC&BR menu are permanent and cannot be changed!
   * Barter Rates
     * Presets
       * Barter Presets: Medium
+
+* The Ultimate Dodge Mod
+  * General Settings
+    * Combat Dodging Style: Roll Only
+    * Lock Default Dodging Style: Enabled
+    * Dodging Style Hotkey: \
+  * NPC Settings
+    * NPC Dodging Frequency: Not Frequent
+
+* VioLens
+  * Melee & Ranged
+    * Ranged
+      * Killmoves: Off
+  * Stealth & Triggers
+    * Triggers
+      * Left Attacks: Enabled
+      * Alt Werewolf Attacks: Enabled
 
 
