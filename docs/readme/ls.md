@@ -281,7 +281,7 @@ The second is QuickLoot, which adds a Fallout 4 style loot menu to bodies, conta
 ### ENB
 ENB is not required to run Living Skyrim, however, it is intended to be used with it and highly recommended. Weaker computers should opt to skip ENB or use Reshade. Support is not provided for Reshade.
 
-The following ENB presets are known to look great when playing Living Skyrim: Amon ENB Reborn, Silent Horizons, Rudy's, and Re-Engaged. However, you can and should experiment to find the best ENB for you both in terms of looks and performance. Not all ENB presets are created equal, and deciding which one to use is a highly subjective process.
+The following ENB presets are known to look great when playing Living Skyrim: [Amon ENB Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/35141), [Silent Horizons](https://www.nexusmods.com/skyrimspecialedition/mods/21543), [Rudy's](https://www.nexusmods.com/skyrimspecialedition/mods/4796), and [Re-Engaged](https://www.nexusmods.com/skyrimspecialedition/mods/1089). However, you can and should experiment to find the best ENB for you both in terms of looks and performance. Not all ENB presets are created equal, and deciding which one to use is a highly subjective process.
 
 If you wish to use ENB, follow these steps:
 
@@ -652,7 +652,7 @@ Questions will get added here as they are asked.
 ## Credits & Thanks
 - Living Skyrim created by ForgottenGlory
 - Living Skyrim Dev Team:
-  - Volk
+  - Volk (Boll)
   - Spandanahan (Formerly Melisandre)
   - Rite of Spring (Formerly JaceVenture)
   - Magnus Hellfire
