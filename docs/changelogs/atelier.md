@@ -22,9 +22,9 @@ permalink: /changelogs/atelier/
   * Wrye Bash v308 Beta 1
 * **Additions**
   * Ennead Banners
-  * Hyperborean Snow
+  * Cathedral Snow
 * **Removals**
   * Sigils of Skyrim
-  * Cathedral Snow
+  * Hyperborean Snow
 * **Other**
   * Updated Atelier Bodyslide Groups
