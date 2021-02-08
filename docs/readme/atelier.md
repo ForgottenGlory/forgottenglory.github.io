@@ -21,7 +21,7 @@ permalink: /readme/atelier/
 
 ![total-installs](https://img.shields.io/endpoint?label=Total%20Installs&style=for-the-badge&url=https://build.wabbajack.org/metrics/badge/atelier/total_installs_badge.json)  
 ![build-status](https://img.shields.io/endpoint?label=List%20Status&style=for-the-badge&url=https://build.wabbajack.org/lists/status/atelier/badge.json)  
-Current version: 1.0.0 1/15/2020
+Current version: 1.0.1 2/8/2021
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
@@ -95,6 +95,7 @@ Skyrim is very heavy on processors. Generally, anything above 3GHz should be fin
 [Atelier Bug & Suggestions Tracker](https://github.com/ForgottenGlory/Atelier/issues)  
 [Atelier Discord](https://discord.gg/9dFvGnc)  
 [Atelier Patreon](https://www.patreon.com/LivingSkyrim)
+[Atelier Changelog](https://forgottenglory.github.io/changelogs/atelier/)
 
 #### (SFW) Screenshots
 [One](https://cdn.discordapp.com/attachments/785328628455309322/786345280765165588/The_Elder_Scrolls_V_Skyrim_Special_Edition_Screenshot_2020.12.09_-_00.39.52.44.jpg) [Two](https://cdn.discordapp.com/attachments/785328628455309322/785531777132527646/ScreenShot16.png) [Three](https://cdn.discordapp.com/attachments/785328628455309322/785531768325144587/ScreenShot15.png) [Four](https://cdn.discordapp.com/attachments/785328628455309322/785531756823969852/ScreenShot9.png) [Five](https://cdn.discordapp.com/attachments/785328628455309322/785531742969659462/ScreenShot10.png) [Six](https://cdn.discordapp.com/attachments/785328628455309322/785531716060184576/ScreenShot4.png) [Seven](https://cdn.discordapp.com/attachments/785328628455309322/790712681657008168/ScreenShot26.png) [Eight](https://cdn.discordapp.com/attachments/785328628455309322/791231378389860352/enb2020_12_23_03_56_28.png) [Nine](https://cdn.discordapp.com/attachments/785328628455309322/791231374363066398/enb2020_12_23_03_35_52.png) [Ten](https://cdn.discordapp.com/attachments/785328628455309322/785531771126677525/ScreenShot5.png) [Eleven](https://cdn.discordapp.com/attachments/785328628455309322/785531758711799818/ScreenShot12.png) [Twelve](https://cdn.discordapp.com/attachments/785328628455309322/785531751841529886/ScreenShot6.png) 
