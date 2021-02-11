@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: LS_readme
-permalink: /readme/ls3/
+permalink: /readme/ls/
 ---
 
 <style type="text/css">
@@ -19,7 +19,7 @@ permalink: /readme/ls3/
 
 ![](https://i.imgur.com/Vokoo6f.png)
 
-Current version: 2/1/2021 3.0.0.1 Beta 1
+Current version: 2/12/2021 3.0.0.3 Beta 3
 
 ![total-installs](https://img.shields.io/endpoint?label=Total%20Installs&style=for-the-badge&url=https://build.wabbajack.org/metrics/badge/living_skyrim/total_installs_badge.json)  
 ![build-status](https://img.shields.io/endpoint?label=List%20Status&style=for-the-badge&url=https://build.wabbajack.org/lists/status/living_skyrim/badge.json)
@@ -157,12 +157,12 @@ If your PC is struggling to run Living Skyrim, see the [Performance Optimization
 [User Testimonials](https://docs.google.com/document/d/1eXeG852teL9EOnIHTAFTLW4Rq1c_pYGRYPtW_eNJqLg/edit?usp=sharing)  
 [Living Skyrim Discord](https://discord.gg/9dFvGnc)  
 [Living Skyrim Patreon](https://www.patreon.com/LivingSkyrim)  
-[Install Tutorial Video](https://youtu.be/sW7s5IhN7qs)  
 
 #### Screenshots
 [One](https://cdn.discordapp.com/attachments/771075313849466922/802781636781277204/SkyrimSE_2021-01-24_00-01-33_original.png) [Two](https://cdn.discordapp.com/attachments/771075313849466922/799368412492857354/ScreenShot153.png) [Three](https://cdn.discordapp.com/attachments/771075313849466922/793938031644114964/enb2020_12_30_14_59_11.png) [Four](https://cdn.discordapp.com/attachments/771075313849466922/783880191482134548/SkyrimSE_2020-12-02_20-15-19.png) [Five](https://cdn.discordapp.com/attachments/771075313849466922/783113018833240064/enb2020_11_30_13_24_55.png) [Six](https://cdn.discordapp.com/attachments/771075313849466922/778085567660556298/ScreenShot88.png) [Seven](https://cdn.discordapp.com/attachments/771075313849466922/778085516318605382/ScreenShot91.png) [Eight](https://cdn.discordapp.com/attachments/771075313849466922/778085553336877106/ScreenShot96.png) [Nine](https://cdn.discordapp.com/attachments/771075313849466922/778085573864849428/ScreenShot90.png) [Ten](https://cdn.discordapp.com/attachments/771075313849466922/799368537885769728/ScreenShot160.png) [Eleven](https://cdn.discordapp.com/attachments/771075313849466922/802026560433291264/SkyrimSE_2021-01-21_22-54-34_ReShadePreset.png) [Twelve](https://cdn.discordapp.com/attachments/771075313849466922/802026617282494518/SkyrimSE_2021-01-21_22-57-54_ReShadePreset.png) [Thirteen](https://cdn.discordapp.com/attachments/771075313849466922/799368405664792636/ScreenShot156.png) [Fourteen](https://cdn.discordapp.com/attachments/771075313849466922/799368411573387334/ScreenShot157.png) [Fifteen](https://cdn.discordapp.com/attachments/771075313849466922/799368430926692372/ScreenShot163.png) [Sixteen](https://cdn.discordapp.com/attachments/771075313849466922/799368554654072832/ScreenShot162.png) [Seventeen](https://cdn.discordapp.com/attachments/771075313849466922/778085570719121438/ScreenShot89.png) [Eighteen](https://cdn.discordapp.com/attachments/771075313849466922/778085571368976384/ScreenShot87.png) [Nineteen](https://cdn.discordapp.com/attachments/771075313849466922/778085561051119626/ScreenShot82.png) [Twenty](https://cdn.discordapp.com/attachments/771075313849466922/778085548748177448/ScreenShot95.png)
 
 #### Videos
+[LS3 Overview Video by TheMurlocKing](https://www.youtube.com/watch?v=af8UI_w6E20)  
 [LS3 Beta Preview](https://www.youtube.com/watch?v=QOCMLid39Hw)
 
 ## Pre-Installation
@@ -190,13 +190,11 @@ Afterwards, you need to disable automatic updates for Skyrim to avoid a game upd
 1. In Steam, set Skyrim: Special Edition to update only when opened. (Right-click > Properties… > Updates > Automatic updates > Only update this game when I launch it)
 2. In Steam, disable the Steam Overlay. (Right-click > Properties... > General > Enable the Steam Overlay while in-game checkbox)
    
-Once the above steps are completed, launch Skyrim SE through Steam to create any INI or registry entries the game needs. Immediately exit the launcher once it has successfully selected a graphics preset for your hardware. The INIs it just created will be overwritten by the ones included in the modlist, but this is a necessary step for Wabbajack to recognize that you have the game installed.\
+Once the above steps are completed, launch Skyrim SE through Steam to create any INI or registry entries the game needs. Immediately exit the launcher once it has successfully selected a graphics preset for your hardware. The INIs it just created will be overwritten by the ones included in the modlist, but this is a necessary step for Wabbajack to recognize that you have the game installed.
 
 Last, but certainly not least, make sure you have deleted or disabled any and all Creation Club content that may have downloaded with the game.
 
 ### Wabbajack Preparations
-A video version of the installation instructions from this point forward exists here: [Click Me!](https://youtu.be/sW7s5IhN7qs)  
-
 We'll now setup the folders needed for the installation to proceed smoothly.
 
 1. Create two empty folders: one named Wabbajack and the other named Living Skyrim.
@@ -280,7 +278,7 @@ The second is QuickLoot, which adds a Fallout 4 style loot menu to bodies, conta
 ### ENB
 ENB is not required to run Living Skyrim, however, it is intended to be used with it and highly recommended. Weaker computers should opt to skip ENB or use Reshade. Support is not provided for Reshade.
 
-The following ENB presets are known to look great when playing Living Skyrim: Amon ENB Reborn, Silent Horizons, Rudy's, and Re-Engaged. However, you can and should experiment to find the best ENB for you both in terms of looks and performance. Not all ENB presets are created equal, and deciding which one to use is a highly subjective process.
+The following ENB presets are known to look great when playing Living Skyrim: [Amon ENB Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/35141), [Silent Horizons](https://www.nexusmods.com/skyrimspecialedition/mods/21543), [Rudy's](https://www.nexusmods.com/skyrimspecialedition/mods/4796), and [Re-Engaged](https://www.nexusmods.com/skyrimspecialedition/mods/1089). However, you can and should experiment to find the best ENB for you both in terms of looks and performance. Not all ENB presets are created equal, and deciding which one to use is a highly subjective process.
 
 If you wish to use ENB, follow these steps:
 
@@ -456,7 +454,7 @@ Legacy of the Dragonborn of course requires no introduction, but if you're someh
 ### The Magic Mods
 [Smart Cast](https://www.nexusmods.com/skyrimspecialedition/mods/32847) has supplanted Sustained Magic in Living Skyrim 3 for a multitude of reasons, the primary being that it works with every other magic mod out of the box. With Smart Cast you can set up specific rules and conditions under which spells will be cast for you - assuming you have the magicka to cast them. It also lets you combine spells into a single cast, again, assuming you have the magicka to cast them both at the same time. This mod has quite a few features available, reading its mod page is highly recommended.
 
-[Immersive Spell Learning](https://www.nexusmods.com/skyrimspecialedition/mods/33375) completely changes how your character learns new spells. Instead of "eating" the book and learning the spell, you now have to spend time studying notes about the spell to learn it over time. The amount of time it takes to learn new spells is completely configurable through this mod's MCM menu, so feel free to tweak it to your liking. This mod's inclusion is intended to help balance magic as the combination of magic mods included in Living Skyrim make magic *significantly* stronger.
+[Spell Tutor](https://www.nexusmods.com/skyrimspecialedition/mods/45275) completely changes how your character learns new spells. Instead of "eating" the book and learning the spell, you now have to spend time studying the spell to learn it. The amount of time it takes to learn new spells is completely configurable through this mod's MCM menu, so feel free to tweak it to your liking. It also places a restriction on how high your skill needs to be before you can even attempt to learn more powerful spells. This mod's inclusion is intended to help balance magic as the combination of magic mods included in Living Skyrim make magic *significantly* stronger.
 
 [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839), [Forgotten Magic](https://www.nexusmods.com/skyrimspecialedition/mods/12711), [Tomebound](https://www.nexusmods.com/skyrimspecialedition/mods/21403), [Triumvirate](https://www.nexusmods.com/skyrimspecialedition/mods/39170), and [Elemental Destruction Magic](https://www.nexusmods.com/skyrimspecialedition/mods/440) make up the mods adding new spells to Living Skyrim. Between all of these and the additional options found below, it is possible to have multiple mage playthroughs and never do the same build twice.
 
@@ -563,7 +561,7 @@ After that, you've filed your bug report and the LS dev team will take a look at
 The short answer: wait for an update to the list. The long answer is you can try to install the missing mods manually if the files are still available on the Nexus, but again, do not ask for anyone to share old files. I work a full-time job in addition to several other personal projects, of which Living Skyrim is just one. If installs are failing, I will try to update as quickly as possible but sometimes it may be a couple of days before I can get to it.
 
 #### "Wabbajack says I'm out of requests."
-Nexus Premium is limited to 2500 downloads in a given 24 hour timeframe. Usually this limit resets around 8PM Eastern Time. Wait for your limit to reset and you'll be able to proceed. Usually this only occurs after attempting to download the list multiple times in a row or when attempting to download multiple lists.
+Nexus Premium is limited to 2500 downloads in a given 24 hour timeframe. Usually this limit resets around 8PM Eastern Time. Wait for your limit to reset and you'll be able to proceed. Usually this only occurs after attempting to download the list multiple times in a row or when attempting to download multiple lists in the same 24 hour window.
 
 #### "Can I pause the installation?"
 Yes, just close Wabbajack. When you start the installation process again it will pick up from where it left off.
@@ -576,6 +574,9 @@ You'll need to download this manually and put it in your downloads folder. The m
 
 #### "The LS3 SSELODGen Output fails to download."
 You'll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [LS3 SSELODGen 3.0.0](https://drive.google.com/file/d/1C8shpKCM4CO2fcoxasiw501rgBQiGmAQ/view?usp=sharing)
+
+#### "The LS3 Grass Cache fails to download."
+You'll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [LS3 Grass Cache](https://drive.google.com/file/d/1XG9SvYF6i2B9rC6tFMGGNY1r1clL6pfs/view?usp=sharing)
 
 ### Gameplay Issues
 #### "The Main Quest doesn't proceed after retrieving the Dragonstone."
@@ -651,7 +652,7 @@ Questions will get added here as they are asked.
 ## Credits & Thanks
 - Living Skyrim created by ForgottenGlory
 - Living Skyrim Dev Team:
-  - Volk
+  - Volk (Boll)
   - Spandanahan (Formerly Melisandre)
   - Rite of Spring (Formerly JaceVenture)
   - Magnus Hellfire
