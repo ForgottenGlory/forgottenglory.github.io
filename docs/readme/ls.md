@@ -576,7 +576,7 @@ You'll need to download this manually and put it in your downloads folder. The m
 You'll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [LS3 SSELODGen 3.0.0](https://drive.google.com/file/d/1C8shpKCM4CO2fcoxasiw501rgBQiGmAQ/view?usp=sharing)
 
 #### "The LS3 Grass Cache fails to download."
-You'll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [LS3 Grass Cache]()
+You'll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [LS3 Grass Cache](https://drive.google.com/file/d/1XG9SvYF6i2B9rC6tFMGGNY1r1clL6pfs/view?usp=sharing)
 
 ### Gameplay Issues
 #### "The Main Quest doesn't proceed after retrieving the Dragonstone."
