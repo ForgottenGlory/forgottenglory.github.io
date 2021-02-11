@@ -918,7 +918,7 @@ permalink: /changelogs/ls/
 #### Major
 * **Everything changed.** 3.0.0 is a complete rebuild of the list from the ground up.
 
-### 2/5/2021 3.0.0.2b Beta 2
+### 2/5/2021 3.0.0.2 Beta 2
 #### Minor
 * **Mod Updates**
   * Updated Wheels of Lull to v5.0.1
@@ -944,3 +944,26 @@ permalink: /changelogs/ls/
 * **Other**
   * Automated several more MCMs.
   * Tweaked a couple of things in the readme.
+
+### 2/10/2021 3.0.0.3 Beta 3
+#### Minor
+* **Mod Updates**
+  * Updated QuickLoot to v2.8.6
+  * Updated Bodyslide to v5.3.1
+  * Updated Mod Organizer to v2.4.0RC1.1
+  * Serana Dialogue Add-On to v2.3.0
+  * Spell Tutor to v1.1
+  * Window Shadows/Patches to v7.3.1/1.1.1
+* **Fixes**
+  * More bug fixes, check closed [Github issues for Beta 3](https://github.com/ForgottenGlory/Living-Skyrim-3/milestone/1?closed=1)
+* **Mod Additions**
+  * Juniper by Mari
+  * Word Wall Transparency Fix for ENB
+  * Several LS3 Community-made Racemenu Presets
+  * JK's Radiant Raiment
+  * JK's Blue Palace
+* **Removals**
+  * Windyridge
+  * Wrye Bash (it was unused)
+* **Other**
+  * Regenerated Grasscache, DynDOLOD, TexGen and SSELODGen

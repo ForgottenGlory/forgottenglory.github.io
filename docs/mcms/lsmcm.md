@@ -64,6 +64,10 @@ The choices you make in the CC&BR menu are permanent and cannot be changed!
     * Command Followers Hotkey: H
     * Followers Attack Hotkey: G
 
+* LOTD Settings
+  * Craftloot
+    * Craftloot Status: Prompt
+
 * Less Intrusive HUD
   * Click Load personal preset, then exit the MCM and wait for it to finish before proceeding.
 

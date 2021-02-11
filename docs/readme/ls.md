@@ -19,7 +19,7 @@ permalink: /readme/ls/
 
 ![](https://i.imgur.com/Vokoo6f.png)
 
-Current version: 2/5/2021 3.0.0.2 Beta 2
+Current version: 2/12/2021 3.0.0.3 Beta 3
 
 ![total-installs](https://img.shields.io/endpoint?label=Total%20Installs&style=for-the-badge&url=https://build.wabbajack.org/metrics/badge/living_skyrim/total_installs_badge.json)  
 ![build-status](https://img.shields.io/endpoint?label=List%20Status&style=for-the-badge&url=https://build.wabbajack.org/lists/status/living_skyrim/badge.json)
@@ -561,7 +561,7 @@ After that, you've filed your bug report and the LS dev team will take a look at
 The short answer: wait for an update to the list. The long answer is you can try to install the missing mods manually if the files are still available on the Nexus, but again, do not ask for anyone to share old files. I work a full-time job in addition to several other personal projects, of which Living Skyrim is just one. If installs are failing, I will try to update as quickly as possible but sometimes it may be a couple of days before I can get to it.
 
 #### "Wabbajack says I'm out of requests."
-Nexus Premium is limited to 2500 downloads in a given 24 hour timeframe. Usually this limit resets around 8PM Eastern Time. Wait for your limit to reset and you'll be able to proceed. Usually this only occurs after attempting to download the list multiple times in a row or when attempting to download multiple lists.
+Nexus Premium is limited to 2500 downloads in a given 24 hour timeframe. Usually this limit resets around 8PM Eastern Time. Wait for your limit to reset and you'll be able to proceed. Usually this only occurs after attempting to download the list multiple times in a row or when attempting to download multiple lists in the same 24 hour window.
 
 #### "Can I pause the installation?"
 Yes, just close Wabbajack. When you start the installation process again it will pick up from where it left off.
@@ -574,6 +574,9 @@ You'll need to download this manually and put it in your downloads folder. The m
 
 #### "The LS3 SSELODGen Output fails to download."
 You'll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [LS3 SSELODGen 3.0.0](https://drive.google.com/file/d/1C8shpKCM4CO2fcoxasiw501rgBQiGmAQ/view?usp=sharing)
+
+#### "The LS3 Grass Cache fails to download."
+You'll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [LS3 Grass Cache]()
 
 ### Gameplay Issues
 #### "The Main Quest doesn't proceed after retrieving the Dragonstone."
