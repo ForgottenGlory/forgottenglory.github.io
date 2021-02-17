@@ -82,6 +82,7 @@ The choices you make in the CC&BR menu are permanent and cannot be changed!
     <th class="important"><b>Important!:</b> For the SmoothCam preset, make sure you are selecting the option to Load the preset instead of save it. If you accidentally save instead of load, you'll need to re-run Wabbajack to restore the preset to its correct settings.</th>
   </tr>
 </thead>
+</table>
 
 * SmoothCam
   * Presets
