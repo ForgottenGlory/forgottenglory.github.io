@@ -76,9 +76,17 @@ The choices you make in the CC&BR menu are permanent and cannot be changed!
     * SWF Version Checking
       * Map Menu: Disabled
 
+<table class="tg">
+<thead>
+  <tr>
+    <th class="important"><b>Important!:</b> For the SmoothCam preset, make sure you are selecting the option to Load the preset instead of save it. If you accidentally save instead of load, you'll need to re-run Wabbajack to restore the preset to its correct settings.</th>
+  </tr>
+</thead>
+</table>
+
 * SmoothCam
   * Presets
-    * Click Slot4: Modern Preset
+    * Click Load Slot 4: Modern Preset
 
 * Thieves Guild Req.
   * Main Quest
