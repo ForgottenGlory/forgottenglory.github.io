@@ -967,3 +967,24 @@ permalink: /changelogs/ls/
   * Wrye Bash (it was unused)
 * **Other**
   * Regenerated Grasscache, DynDOLOD, TexGen and SSELODGen
+
+### 3.0.0.4 Beta 4
+* **Mod Updates**
+  * Updated Embershard Mine Revisited to v1.1.3
+  * DynDOLOD to 3.0.0 Alpha 30
+  * JK's Interiors Patch Collection to v2.4.2
+  * Mod Organizer to v2.4.0
+  * Awesome Artifacts to v2.1.8
+  * Window Shadows Patches to v1.1.2
+* **Fixes**
+  * Many more bug fixes, check closed [Github issues for Beta 4](https://github.com/ForgottenGlory/Living-Skyrim-3/milestone/2?closed=1)
+* **Mod Additions**
+  * QuickLoot Retexture
+  * Gamepad++
+  * JK's Candlehearth Hall
+* **Removals**
+  * Routa
+  * Lootable Woodpiles
+* **Other**
+  * Reduced size of LS3 MO2 splash image.
+  * Added several more RaceMenu presets.
