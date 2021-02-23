@@ -90,6 +90,8 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
 * Follower Framework
   * System
     * Click Load from File
+  * Follower Outfit & Gear
+    * Create Outfit Hotkey: Numpad 4
 
 * Forgotten Wenches
   * Forgotten Configuration
@@ -235,6 +237,12 @@ Before you get started, a word about difficulty: Dungeons & Deviousness is inten
 
 * Realistic Needs
   * Click Start RN&D
+  * Basic Needs
+    * Check Needs Hotkey: Numpad 8
+    * Drink From Stream hotkey: Numpad 9
+    * Customize Food Hotkey: Numpad 5
+    * Widget Hotkey: Numpad 6
+    * Wait Menu Hotkey: Numpad 7
   * Widget Settings
     * Toggle Hunger Counter: Disabled
     * Toggle Thirst Counter: Disabled
