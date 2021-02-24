@@ -50,6 +50,10 @@ The choices you make in the CC&BR menu are permanent and cannot be changed!
       * Persistent Arrows: Disabled
       * Arm Fatigue: Disabled
 
+* CACO
+  * Help
+    * Ragdoll Paralysis: Disabled
+
 * Destructible Display Cases
   * Blunt Objects: Enabled
   * Fire and Frost Spells: Disabled
