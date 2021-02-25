@@ -988,3 +988,21 @@ permalink: /changelogs/ls/
 * **Other**
   * Reduced size of LS3 MO2 splash image.
   * Added several more RaceMenu presets.
+
+### 3.0.0.5 Beta 5
+* **Mod Updates**
+  * Window Shadows to v7.4
+  * Awesome Artifacts to v2.1.9
+* **Fixes**
+  * More bug fixes, check closed [Github issues for Beta 5](https://github.com/ForgottenGlory/Living-Skyrim-3/milestone/4?closed=1)
+* **Additions**
+  * Yes I'm Sure
+  * EZ2C Dialogue Menu (whoops)
+  * Inconsequential NPCs
+  * Increased Enemy Spawns
+  * Cloaks of Skyrim Retextured
+  * Difficulty Balance
+* **Removals**
+  * Populated Skyrim Hell Edition
+  * Sofia
+  * Cloaks of Skyrim HD
