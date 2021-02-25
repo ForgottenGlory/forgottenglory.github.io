@@ -19,7 +19,7 @@ permalink: /readme/ls/
 
 ![](https://i.imgur.com/Vokoo6f.png)
 
-Current version: 2/12/2021 3.0.0.3 Beta 3
+Current version: 2/24/2021 3.0.0.5 Beta 5
 
 ![build-status](https://img.shields.io/endpoint?label=List%20Status&style=for-the-badge&url=https://build.wabbajack.org/lists/status/living_skyrim/badge.json)
 
@@ -351,7 +351,7 @@ If you're coming from a previous version of Living Skyrim (1.x.x or 2.x.x), thro
 - Most questlines should be doable from the very beginning, but keep in mind the previous two points. Bleak Falls Barrow will present a significant challenge to low-level characters and the first dragon fight will require around level 20.
 - The Whiterun/Riverwood area is best for starting out - northern areas will be significantly more difficult.
 - Overworld enemies are going to be easier and in smaller groups than dungeons, but avoid the larger overworld locations when starting out: Silent Moons Camp, Fort Greymoor, etc. Delving into caves and dungeons is a good way to get surrounded by a group of 6-10 enemies.
-- Followers are your friends! There's an absolute boatload of followers for you to find and pickup - whether it's Sofia, Inigo, Garm, Mirai, Hoth, or any of the 3DNPCs, there's bound to be at least one person in every city that you can ask to help you out. Nether's Follower Framework also lets you recruit many of the generic mercenaries you see wandering around if you just want a temporary companion. It's extremely easy to assemble a diverse adventuring party if you so choose. If you prefer the lone wanderer style, be prepared for things to be more difficult - having at least one follower is highly recommended.
+- Followers are your friends! There's an absolute boatload of followers for you to find and pickup - whether it's Inigo, Garm, Mirai, Hoth, or any of the 3DNPCs, there's bound to be at least one person in every city that you can ask to help you out. Nether's Follower Framework also lets you recruit many of the generic mercenaries you see wandering around if you just want a temporary companion. It's extremely easy to assemble a diverse adventuring party if you so choose. If you prefer the lone wanderer style, be prepared for things to be more difficult - having at least one follower is highly recommended.
 - Specialize your character. The combination of class and customization mods lets you focus your character in a way that vanilla Skyrim never did. It's extremely likely you'll start with one, maybe two skills that are any good and the rest will be total garbage. Focus on what your character is good at and it will pay dividends. When selecting how to allocate your attribute points, think about the rest of your build and put points into attributes that compliment how you want to play. Many attributes provide direct bonuses to how much damage you deal with specific types of weapons, how much health/stamina/magicka you start with, and so on. Specialized characters are much better suited to the challenges of Living Skyrim than jack-of-all-trades types. This also encourages you to pick up a follower that compliments your skills. Playing a tanky two-handed character? Find a follower that can cast healing spells on you and do magic damage from the backline. Playing a stealth archer (again)? Find a beefy sword and shield warrior to keep the enemies at bay while you snipe from the shadows.
 - Magic, as usual, is extremely powerful in Living Skyrim. Even if you're playing a primarily weapon-focused character, dipping into alteration, conjuration, or illusion will likely benefit you greatly. Similarly, enchanted items are very useful and should be carefully hoarded and used frequently. Smart Cast is beneficial even for characters that aren't primarily focused on magic.
 - There's a loading screen tip I'm fond of that says something along the lines of "Strong enemies care not if you're just starting out, they'll kill you all the same." Don't be afraid to run away.
@@ -469,7 +469,7 @@ The core combat package of Living Skyrim is [Blade & Blunt](https://www.nexusmod
 Also for your consideration: [SkyTEST](https://www.nexusmods.com/skyrimspecialedition/mods/1104), [Deadly Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/23723), and [Arena - An Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/19608). Enemies in general will be smarter and stronger across the board, and will dynamically update their levels to match or surpass you as appropriate.
 
 ### The Perks & Leveling Mods
-[Vokrii](https://www.nexusmods.com/skyrimspecialedition/mods/26176) is the perk overhaul of choice for Living Skyrim. It is a lightweight but still complete overhaul of the perk trees allowing for an incredibly diverse amount of character customization and specialization. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) is included to control the rate at which your skills and levels progress. By default, only clearing dungeons and completing quests will provide XP. The optional skills XP and kills XP modules can be turned on, but Living Skyrim isn't set up to use these by default so you may come across some oddities (enemies that don't grant XP when killed, for example).
+[Vokrii](https://www.nexusmods.com/skyrimspecialedition/mods/26176) is the perk overhaul of choice for Living Skyrim. It is a lightweight but still complete overhaul of the perk trees allowing for an incredibly diverse amount of character customization and specialization. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) is included to control the rate at which your skills and levels progress. By default, only clearing dungeons and completing quests will provide XP. The optional skills XP and kills XP modules should not be turned on - Living Skyrim isn't set up to use these by default and can therefore cause issues.
 
 ### The Economy and Loot Mods
 There are two sides to the Skyrim economy: Loot, and trade. Loot is your primary source of income, and trade your primary source of expenditure. To address this, Living Skyrim seeks to overhaul both sides of this coin.
@@ -530,7 +530,7 @@ Additionally, several of the quest mods included with Living Skyrim have player 
 <table class="tg">
 <thead>
   <tr>
-    <th class="important"><b>Important!:</b> Do NOT import standalone followers (Inigo, Lucien, etc.) into Nether's Follower Framework. It will 100% break them. The notable exceptions to this are Auri, Sofia, and any of the Interesting NPCs followers.</th>
+    <th class="important"><b>Important!:</b> Do NOT import standalone followers (Inigo, Lucien, etc.) into Nether's Follower Framework. It will 100% break them. The notable exceptions to this are Auri and any of the Interesting NPCs followers.</th>
   </tr>
 </thead>
 </table>
@@ -578,6 +578,9 @@ You'll need to download this manually and put it in your downloads folder. The m
 
 #### "The LS3 Grass Cache fails to download."
 You'll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [LS3 Grass Cache](https://drive.google.com/file/d/1XG9SvYF6i2B9rC6tFMGGNY1r1clL6pfs/view?usp=sharing)
+
+#### "Inconsequential NPCs Visual Overhaul fails to download."
+You'll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [INPCs Visual Overhaul](https://drive.google.com/file/d/1YM0lFTQdDh6P3JvEgWleOMb3adF_pQ_i/view?usp=sharing)
 
 ### Gameplay Issues
 #### "The Main Quest doesn't proceed after retrieving the Dragonstone."
@@ -645,7 +648,7 @@ Lastly, I (ForgottenGlory) and the Living Skyrim development team do not support
 I don't know, can you?
 
 ### Performance Optimizations
-[WIP]
+The Living Skyrim Performance Guide can be found here: [Click Here](https://docs.google.com/document/d/1PwPMG7SPgFK5eHS1A7eW_IUf-2dSAVNJ8zjSyhiFOeI/edit?usp=sharing)
 
 ## Other Common Questions
 Questions will get added here as they are asked.
