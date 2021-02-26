@@ -50,7 +50,7 @@ The choices you make in the CC&BR menu are permanent and cannot be changed!
       * Persistent Arrows: Disabled
       * Arm Fatigue: Disabled
 
-* CACO
+* Complete Alchemy
   * Help
     * Ragdoll Paralysis: Disabled
 
