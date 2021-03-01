@@ -8,7 +8,8 @@ This timeline is current as of 1/5/2020 and is subject to revision or delay as n
 
 12/1/2020: Pre-alpha complete, patching and actual work begins.  
 2/1/2021: Alpha complete, first Beta available.  
-2/28/2021: Beta complete, public release.  
+2/28/2021: Beta complete
+3/3/2021: Full release
 
 ## Guaranteed
 ### Stability Above All
@@ -46,7 +47,7 @@ One of my goals for LS3 is going to be to reduce user frustration as much as pos
 To the end of reducing user frustration, I will be looking into automating as many MCMs as possible. Expect there to still be some MCM tweaking needed when you start a new save, but less than LS2.
 
 ### Loot Overhaul
-There has been quite a lot of discussion surrounding the loot available in LS2. I've made my position fairly well known, but just in case, here it is again: I want to do something about it, but don't know what just yet. LS3 is the perfect opportunity to address this issue.
+There has been quite a lot of discussion surrounding the loot available in LS2. I've made my position fairly well known, but just in case, here it is again: I want to do something about it, but don't know /what just yet. LS3 is the perfect opportunity to address this issue.
 
 ### Gameplay Changes
 LS2 has a weird mashup of EnaiRim and SkyRem. It's a fairly opaque combination to navigate, and I'd like to gravitate towards one unified solution. As with previous versions of LS, I will not be using one single overhaul a la Requiem or OMEGA, but I do want there to be consistency between all of the gameplay overhauls being used. SimonRim is currently under investigation for LS3.
