@@ -6,7 +6,7 @@ layout: MOISE_readme
 permalink: /readme/moise/
 ---
 
-Current version: 11/8/2020 1.2.1  
+Current version: 3/2/2021 1.2.4  
 
 ![build-status](https://img.shields.io/endpoint?label=List%20Status&style=for-the-badge&url=https://build.wabbajack.org/lists/status/moise/badge.json)
 

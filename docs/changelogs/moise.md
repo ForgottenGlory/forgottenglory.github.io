@@ -82,3 +82,11 @@ permalink: /changelogs/moise/
 #### Incremental
 * **Mod Updates**
   * Updated Cliff Racer Rplacer to v2.0
+
+### 2/25/1.2.4
+#### Incremental
+* **Mod Updates**
+  * Mod Organizer to v2.4.0
+* **Removals**
+  * CorrectUV Diverse Ore Veins
+  * Dragon Statue Retexture
