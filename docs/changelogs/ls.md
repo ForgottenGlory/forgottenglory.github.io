@@ -968,7 +968,8 @@ permalink: /changelogs/ls/
 * **Other**
   * Regenerated Grasscache, DynDOLOD, TexGen and SSELODGen
 
-### 3.0.0.4 Beta 4
+### 2/21/2021 3.0.0.4 Beta 4
+#### Minor
 * **Mod Updates**
   * Updated Embershard Mine Revisited to v1.1.3
   * DynDOLOD to 3.0.0 Alpha 30
@@ -989,7 +990,8 @@ permalink: /changelogs/ls/
   * Reduced size of LS3 MO2 splash image.
   * Added several more RaceMenu presets.
 
-### 3.0.0.5 Beta 5
+### 2/25/2021 3.0.0.5 Beta 5
+#### Minor
 * **Mod Updates**
   * Window Shadows to v7.4
   * Awesome Artifacts to v2.1.9
@@ -1006,3 +1008,17 @@ permalink: /changelogs/ls/
   * Populated Skyrim Hell Edition
   * Sofia
   * Cloaks of Skyrim HD
+
+### 3/3/2021 3.0.0 Release
+#### Major
+* **Mod Updates**
+  * Awesome Artifacts to v2.3.0
+  * xLODGen to v73
+* **Fixes**
+  * More bug fixes, check closed [Github issues for full release](https://github.com/ForgottenGlory/Living-Skyrim-3/milestone/3?closed=1)
+* **Additions**
+  * Odin
+  * Enemy Releveler
+* **Removals**
+  * Mysticism
+  * Tomebound
